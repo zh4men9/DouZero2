@@ -5,6 +5,7 @@ __pycache__
 *.egg-info
 *.pyc
 dist/
-douzero_checkpoints
+# douzero_checkpoints
 most_recent_model
 eval_data.pkl
+baselines
