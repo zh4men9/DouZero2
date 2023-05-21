@@ -33,14 +33,14 @@ def run_evaluate(landlord_weights, landlord_up, landlord_down, save_dir):
         name_parts = [model_type, landlord_up]
         
     checkpoint_files = os.listdir(landlord_weights)
-    cnt = 0
+    # cnt = 0
     for checkpoint_file in checkpoint_files:
         # only consider landlord checkpoints
         if 'landlord' in checkpoint_file and 'landlord_up' not in checkpoint_file and 'landlord_down' not in checkpoint_file:
-            if (cnt >= 2):
-                return
-            else:
-                cnt += 1
+            # if (cnt >= 2):
+            #     return
+            # else:
+            #     cnt += 1
             # Create a name for the result directory
             
             result_dir_name = '_'.join(name_parts)

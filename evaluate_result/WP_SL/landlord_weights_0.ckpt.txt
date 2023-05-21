@@ -1,0 +1,4 @@
+WP results:
+landlord : Farmers - 0.0004 : 0.9996
+ADP results:
+landlord : Farmers - -2.4568 : 2.4568
