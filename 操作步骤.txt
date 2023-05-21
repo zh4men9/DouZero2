@@ -1,0 +1,3 @@
+首先，第一步，在DouZero路径下执行如下代码：nohup sh evaluate.sh &
+然后，打开plot_picture.ipynb，点击上面的：Run All。等待生成图片。
+生成结束后，在./image文件夹下可以看到保存的图片
