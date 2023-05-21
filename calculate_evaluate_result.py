@@ -65,11 +65,11 @@ save_dir = "./evaluate_result"
 os.makedirs(save_dir, exist_ok=True)
 
 # ADP vs Random, SL, rlcard
-# run_evaluate("./douzero_checkpoints/douzero", "random", "random", save_dir)
-# run_evaluate("./douzero_checkpoints/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
-# run_evaluate("./douzero_checkpoints/douzero", "rlcard", "rlcard", save_dir)
+run_evaluate("./douzero_checkpoints/douzero", "random", "random", save_dir)
+run_evaluate("./douzero_checkpoints/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
+run_evaluate("./douzero_checkpoints/douzero", "rlcard", "rlcard", save_dir)
 
 # WP vs Random, SL, rlcard
-# run_evaluate("./douzero_checkpoints_wp/douzero", "random", "random", save_dir)
-# run_evaluate("./douzero_checkpoints_wp/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
+run_evaluate("./douzero_checkpoints_wp/douzero", "random", "random", save_dir)
+run_evaluate("./douzero_checkpoints_wp/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
 run_evaluate("./douzero_checkpoints_wp/douzero", "rlcard", "rlcard", save_dir)
