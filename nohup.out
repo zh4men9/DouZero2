@@ -5649,3 +5649,2987 @@ Path to log file already exists. New data will be appended.
  'mean_episode_return_landlord': 0.13992120325565338,
  'mean_episode_return_landlord_down': -0.13950322568416595,
  'mean_episode_return_landlord_up': -0.13841165602207184}
+[INFO:57858 dmc:233 2023-05-21 10:02:49,288] After 790400 (L:268800 U:259200 D:262400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8226998448371887,
+ 'loss_landlord_down': 0.9441118240356445,
+ 'loss_landlord_up': 0.9110528230667114,
+ 'mean_episode_return_landlord': -0.29383328557014465,
+ 'mean_episode_return_landlord_down': 0.29836806654930115,
+ 'mean_episode_return_landlord_up': 0.2968563139438629}
+[INFO:57726 dmc:233 2023-05-21 10:02:49,440] After 31004800 (L:10784000 U:9939200 D:10281600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.9664186239242554,
+ 'loss_landlord_down': 1.37418794631958,
+ 'loss_landlord_up': 2.33251953125,
+ 'mean_episode_return_landlord': 0.13992120325565338,
+ 'mean_episode_return_landlord_down': -0.13786201179027557,
+ 'mean_episode_return_landlord_up': -0.13841165602207184}
+[INFO:57858 dmc:233 2023-05-21 10:02:54,293] After 796800 (L:272000 U:259200 D:265600) frames: @ 1278.7 fps (avg@ 559.5 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7669581174850464,
+ 'loss_landlord_down': 0.888200044631958,
+ 'loss_landlord_up': 0.9110528230667114,
+ 'mean_episode_return_landlord': -0.2916496694087982,
+ 'mean_episode_return_landlord_down': 0.29619067907333374,
+ 'mean_episode_return_landlord_up': 0.2968563139438629}
+[INFO:57726 dmc:233 2023-05-21 10:02:54,445] After 31008000 (L:10787200 U:9939200 D:10281600) frames: @ 639.4 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2050974369049072,
+ 'loss_landlord_down': 1.37418794631958,
+ 'loss_landlord_up': 2.33251953125,
+ 'mean_episode_return_landlord': 0.13844509422779083,
+ 'mean_episode_return_landlord_down': -0.13786201179027557,
+ 'mean_episode_return_landlord_up': -0.13841165602207184}
+[INFO:57858 dmc:233 2023-05-21 10:02:59,299] After 796800 (L:272000 U:259200 D:265600) frames: @ 0.0 fps (avg@ 532.8 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7669581174850464,
+ 'loss_landlord_down': 0.888200044631958,
+ 'loss_landlord_up': 0.9110528230667114,
+ 'mean_episode_return_landlord': -0.2916496694087982,
+ 'mean_episode_return_landlord_down': 0.29619067907333374,
+ 'mean_episode_return_landlord_up': 0.2968563139438629}
+[INFO:57726 dmc:233 2023-05-21 10:02:59,451] After 31011200 (L:10787200 U:9942400 D:10281600) frames: @ 639.3 fps (avg@ 586.1 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 1.2050974369049072,
+ 'loss_landlord_down': 1.37418794631958,
+ 'loss_landlord_up': 1.7398203611373901,
+ 'mean_episode_return_landlord': 0.13844509422779083,
+ 'mean_episode_return_landlord_down': -0.13786201179027557,
+ 'mean_episode_return_landlord_up': -0.1393257975578308}
+[INFO:57858 dmc:233 2023-05-21 10:03:04,304] After 800000 (L:272000 U:262400 D:265600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7669581174850464,
+ 'loss_landlord_down': 0.888200044631958,
+ 'loss_landlord_up': 0.9155818223953247,
+ 'mean_episode_return_landlord': -0.2916496694087982,
+ 'mean_episode_return_landlord_down': 0.29619067907333374,
+ 'mean_episode_return_landlord_up': 0.2932854890823364}
+[INFO:57726 dmc:233 2023-05-21 10:03:04,456] After 31014400 (L:10787200 U:9942400 D:10284800) frames: @ 639.4 fps (avg@ 586.1 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2050974369049072,
+ 'loss_landlord_down': 1.3627657890319824,
+ 'loss_landlord_up': 1.7398203611373901,
+ 'mean_episode_return_landlord': 0.13844509422779083,
+ 'mean_episode_return_landlord_down': -0.1389314979314804,
+ 'mean_episode_return_landlord_up': -0.1393257975578308}
+[INFO:57858 dmc:233 2023-05-21 10:03:09,310] After 806400 (L:275200 U:262400 D:268800) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.8172547221183777,
+ 'loss_landlord_down': 0.9407607913017273,
+ 'loss_landlord_up': 0.9155818223953247,
+ 'mean_episode_return_landlord': -0.2883586287498474,
+ 'mean_episode_return_landlord_down': 0.2929622530937195,
+ 'mean_episode_return_landlord_up': 0.2932854890823364}
+[INFO:57726 dmc:233 2023-05-21 10:03:09,462] After 31017600 (L:10790400 U:9942400 D:10284800) frames: @ 639.4 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.71351158618927,
+ 'loss_landlord_down': 1.3627657890319824,
+ 'loss_landlord_up': 1.7398203611373901,
+ 'mean_episode_return_landlord': 0.13901014626026154,
+ 'mean_episode_return_landlord_down': -0.1389314979314804,
+ 'mean_episode_return_landlord_up': -0.1393257975578308}
+[INFO:57858 dmc:233 2023-05-21 10:03:14,315] After 806400 (L:275200 U:262400 D:268800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8172547221183777,
+ 'loss_landlord_down': 0.9407607913017273,
+ 'loss_landlord_up': 0.9155818223953247,
+ 'mean_episode_return_landlord': -0.2883586287498474,
+ 'mean_episode_return_landlord_down': 0.2929622530937195,
+ 'mean_episode_return_landlord_up': 0.2932854890823364}
+[INFO:57726 dmc:233 2023-05-21 10:03:14,467] After 31017600 (L:10790400 U:9942400 D:10284800) frames: @ 0.0 fps (avg@ 586.1 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.71351158618927,
+ 'loss_landlord_down': 1.3627657890319824,
+ 'loss_landlord_up': 1.7398203611373901,
+ 'mean_episode_return_landlord': 0.13901014626026154,
+ 'mean_episode_return_landlord_down': -0.1389314979314804,
+ 'mean_episode_return_landlord_up': -0.1393257975578308}
+[INFO:57858 dmc:233 2023-05-21 10:03:19,321] After 809600 (L:275200 U:265600 D:268800) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.8172547221183777,
+ 'loss_landlord_down': 0.9407607913017273,
+ 'loss_landlord_up': 0.890317976474762,
+ 'mean_episode_return_landlord': -0.2883586287498474,
+ 'mean_episode_return_landlord_down': 0.2929622530937195,
+ 'mean_episode_return_landlord_up': 0.28975191712379456}
+[INFO:57726 dmc:233 2023-05-21 10:03:19,468] After 31024000 (L:10790400 U:9945600 D:10288000) frames: @ 1279.9 fps (avg@ 586.2 fps) (L:0.0 U:639.9 D:639.9) Stats:
+{'loss_landlord': 1.71351158618927,
+ 'loss_landlord_down': 1.4137338399887085,
+ 'loss_landlord_up': 1.6078131198883057,
+ 'mean_episode_return_landlord': 0.13901014626026154,
+ 'mean_episode_return_landlord_down': -0.13841363787651062,
+ 'mean_episode_return_landlord_up': -0.13904079794883728}
+[INFO:57858 dmc:233 2023-05-21 10:03:24,326] After 816000 (L:278400 U:265600 D:272000) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7696873545646667,
+ 'loss_landlord_down': 0.8580329418182373,
+ 'loss_landlord_up': 0.890317976474762,
+ 'mean_episode_return_landlord': -0.28360113501548767,
+ 'mean_episode_return_landlord_down': 0.28782111406326294,
+ 'mean_episode_return_landlord_up': 0.28975191712379456}
+[INFO:57726 dmc:233 2023-05-21 10:03:24,474] After 31024000 (L:10790400 U:9945600 D:10288000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.71351158618927,
+ 'loss_landlord_down': 1.4137338399887085,
+ 'loss_landlord_up': 1.6078131198883057,
+ 'mean_episode_return_landlord': 0.13901014626026154,
+ 'mean_episode_return_landlord_down': -0.13841363787651062,
+ 'mean_episode_return_landlord_up': -0.13904079794883728}
+[INFO:57858 dmc:233 2023-05-21 10:03:29,332] After 816000 (L:278400 U:265600 D:272000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7696873545646667,
+ 'loss_landlord_down': 0.8580329418182373,
+ 'loss_landlord_up': 0.890317976474762,
+ 'mean_episode_return_landlord': -0.28360113501548767,
+ 'mean_episode_return_landlord_down': 0.28782111406326294,
+ 'mean_episode_return_landlord_up': 0.28975191712379456}
+[INFO:57726 dmc:233 2023-05-21 10:03:29,480] After 31027200 (L:10793600 U:9945600 D:10288000) frames: @ 639.3 fps (avg@ 586.2 fps) (L:639.3 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.5327494144439697,
+ 'loss_landlord_down': 1.4137338399887085,
+ 'loss_landlord_up': 1.6078131198883057,
+ 'mean_episode_return_landlord': 0.13845504820346832,
+ 'mean_episode_return_landlord_down': -0.13841363787651062,
+ 'mean_episode_return_landlord_up': -0.13904079794883728}
+[INFO:57858 dmc:233 2023-05-21 10:03:34,337] After 816000 (L:278400 U:265600 D:272000) frames: @ 0.0 fps (avg@ 532.8 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7696873545646667,
+ 'loss_landlord_down': 0.8580329418182373,
+ 'loss_landlord_up': 0.890317976474762,
+ 'mean_episode_return_landlord': -0.28360113501548767,
+ 'mean_episode_return_landlord_down': 0.28782111406326294,
+ 'mean_episode_return_landlord_up': 0.28975191712379456}
+[INFO:57726 dmc:233 2023-05-21 10:03:34,485] After 31030400 (L:10793600 U:9948800 D:10288000) frames: @ 639.5 fps (avg@ 559.5 fps) (L:0.0 U:639.5 D:0.0) Stats:
+{'loss_landlord': 1.5327494144439697,
+ 'loss_landlord_down': 1.4137338399887085,
+ 'loss_landlord_up': 1.6101796627044678,
+ 'mean_episode_return_landlord': 0.13845504820346832,
+ 'mean_episode_return_landlord_down': -0.13841363787651062,
+ 'mean_episode_return_landlord_up': -0.13799326121807098}
+[INFO:57858 dmc:233 2023-05-21 10:03:39,340] After 822400 (L:281600 U:268800 D:272000) frames: @ 1279.3 fps (avg@ 586.1 fps) (L:639.7 U:639.7 D:0.0) Stats:
+{'loss_landlord': 0.7984816431999207,
+ 'loss_landlord_down': 0.8580329418182373,
+ 'loss_landlord_up': 0.9071201682090759,
+ 'mean_episode_return_landlord': -0.28147199749946594,
+ 'mean_episode_return_landlord_down': 0.28782111406326294,
+ 'mean_episode_return_landlord_up': 0.2853941023349762}
+[INFO:57726 dmc:233 2023-05-21 10:03:39,489] After 31033600 (L:10793600 U:9948800 D:10291200) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 1.5327494144439697,
+ 'loss_landlord_down': 1.3772633075714111,
+ 'loss_landlord_up': 1.6101796627044678,
+ 'mean_episode_return_landlord': 0.13845504820346832,
+ 'mean_episode_return_landlord_down': -0.13736818730831146,
+ 'mean_episode_return_landlord_up': -0.13799326121807098}
+[INFO:57858 dmc:233 2023-05-21 10:03:44,345] After 825600 (L:281600 U:268800 D:275200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7984816431999207,
+ 'loss_landlord_down': 0.9561179280281067,
+ 'loss_landlord_up': 0.9071201682090759,
+ 'mean_episode_return_landlord': -0.28147199749946594,
+ 'mean_episode_return_landlord_down': 0.2853761315345764,
+ 'mean_episode_return_landlord_up': 0.2853941023349762}
+[INFO:57726 dmc:233 2023-05-21 10:03:44,493] After 31036800 (L:10796800 U:9948800 D:10291200) frames: @ 639.6 fps (avg@ 586.2 fps) (L:639.6 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2696082592010498,
+ 'loss_landlord_down': 1.3772633075714111,
+ 'loss_landlord_up': 1.6101796627044678,
+ 'mean_episode_return_landlord': 0.1387694627046585,
+ 'mean_episode_return_landlord_down': -0.13736818730831146,
+ 'mean_episode_return_landlord_up': -0.13799326121807098}
+[INFO:57858 dmc:233 2023-05-21 10:03:49,351] After 825600 (L:281600 U:268800 D:275200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7984816431999207,
+ 'loss_landlord_down': 0.9561179280281067,
+ 'loss_landlord_up': 0.9071201682090759,
+ 'mean_episode_return_landlord': -0.28147199749946594,
+ 'mean_episode_return_landlord_down': 0.2853761315345764,
+ 'mean_episode_return_landlord_up': 0.2853941023349762}
+[INFO:57726 dmc:233 2023-05-21 10:03:49,497] After 31036800 (L:10796800 U:9948800 D:10291200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2696082592010498,
+ 'loss_landlord_down': 1.3772633075714111,
+ 'loss_landlord_up': 1.6101796627044678,
+ 'mean_episode_return_landlord': 0.1387694627046585,
+ 'mean_episode_return_landlord_down': -0.13736818730831146,
+ 'mean_episode_return_landlord_up': -0.13799326121807098}
+[INFO:57858 dmc:233 2023-05-21 10:03:54,356] After 828800 (L:281600 U:272000 D:275200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7984816431999207,
+ 'loss_landlord_down': 0.9561179280281067,
+ 'loss_landlord_up': 0.9146960973739624,
+ 'mean_episode_return_landlord': -0.28147199749946594,
+ 'mean_episode_return_landlord_down': 0.2853761315345764,
+ 'mean_episode_return_landlord_up': 0.28189247846603394}
+[INFO:57726 dmc:233 2023-05-21 10:03:54,502] After 31043200 (L:10796800 U:9952000 D:10294400) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:0.0 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.2696082592010498,
+ 'loss_landlord_down': 1.6182760000228882,
+ 'loss_landlord_up': 2.049001455307007,
+ 'mean_episode_return_landlord': 0.1387694627046585,
+ 'mean_episode_return_landlord_down': -0.13748764991760254,
+ 'mean_episode_return_landlord_up': -0.1369253396987915}
+[INFO:57858 dmc:233 2023-05-21 10:03:59,361] After 835200 (L:284800 U:272000 D:278400) frames: @ 1279.0 fps (avg@ 586.1 fps) (L:639.5 U:0.0 D:639.5) Stats:
+{'loss_landlord': 0.9203625321388245,
+ 'loss_landlord_down': 0.9546943306922913,
+ 'loss_landlord_up': 0.9146960973739624,
+ 'mean_episode_return_landlord': -0.27708274126052856,
+ 'mean_episode_return_landlord_down': 0.28065916895866394,
+ 'mean_episode_return_landlord_up': 0.28189247846603394}
+[INFO:57726 dmc:233 2023-05-21 10:03:59,508] After 31046400 (L:10800000 U:9952000 D:10294400) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3962500095367432,
+ 'loss_landlord_down': 1.6182760000228882,
+ 'loss_landlord_up': 2.049001455307007,
+ 'mean_episode_return_landlord': 0.1388264298439026,
+ 'mean_episode_return_landlord_down': -0.13748764991760254,
+ 'mean_episode_return_landlord_up': -0.1369253396987915}
+[INFO:57858 dmc:233 2023-05-21 10:04:04,366] After 835200 (L:284800 U:272000 D:278400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.9203625321388245,
+ 'loss_landlord_down': 0.9546943306922913,
+ 'loss_landlord_up': 0.9146960973739624,
+ 'mean_episode_return_landlord': -0.27708274126052856,
+ 'mean_episode_return_landlord_down': 0.28065916895866394,
+ 'mean_episode_return_landlord_up': 0.28189247846603394}
+[INFO:57726 dmc:233 2023-05-21 10:04:04,509] After 31046400 (L:10800000 U:9952000 D:10294400) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3962500095367432,
+ 'loss_landlord_down': 1.6182760000228882,
+ 'loss_landlord_up': 2.049001455307007,
+ 'mean_episode_return_landlord': 0.1388264298439026,
+ 'mean_episode_return_landlord_down': -0.13748764991760254,
+ 'mean_episode_return_landlord_up': -0.1369253396987915}
+[INFO:57858 dmc:233 2023-05-21 10:04:09,372] After 835200 (L:284800 U:272000 D:278400) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.9203625321388245,
+ 'loss_landlord_down': 0.9546943306922913,
+ 'loss_landlord_up': 0.9146960973739624,
+ 'mean_episode_return_landlord': -0.27708274126052856,
+ 'mean_episode_return_landlord_down': 0.28065916895866394,
+ 'mean_episode_return_landlord_up': 0.28189247846603394}
+[INFO:57726 dmc:233 2023-05-21 10:04:09,513] After 31049600 (L:10800000 U:9955200 D:10294400) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.3962500095367432,
+ 'loss_landlord_down': 1.6182760000228882,
+ 'loss_landlord_up': 1.3829265832901,
+ 'mean_episode_return_landlord': 0.1388264298439026,
+ 'mean_episode_return_landlord_down': -0.13748764991760254,
+ 'mean_episode_return_landlord_up': -0.137342631816864}
+[INFO:57858 dmc:233 2023-05-21 10:04:14,377] After 841600 (L:288000 U:275200 D:278400) frames: @ 1279.0 fps (avg@ 586.1 fps) (L:639.5 U:639.5 D:0.0) Stats:
+{'loss_landlord': 0.9127212166786194,
+ 'loss_landlord_down': 0.9546943306922913,
+ 'loss_landlord_up': 0.9001867771148682,
+ 'mean_episode_return_landlord': -0.27338939905166626,
+ 'mean_episode_return_landlord_down': 0.28065916895866394,
+ 'mean_episode_return_landlord_up': 0.27724942564964294}
+[INFO:57726 dmc:233 2023-05-21 10:04:14,518] After 31056000 (L:10803200 U:9955200 D:10297600) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2227160930633545,
+ 'loss_landlord_down': 1.1286753416061401,
+ 'loss_landlord_up': 1.3829265832901,
+ 'mean_episode_return_landlord': 0.13802571594715118,
+ 'mean_episode_return_landlord_down': -0.1373659074306488,
+ 'mean_episode_return_landlord_up': -0.137342631816864}
+[INFO:57858 dmc:233 2023-05-21 10:04:19,382] After 844800 (L:288000 U:275200 D:281600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.9127212166786194,
+ 'loss_landlord_down': 0.9241337180137634,
+ 'loss_landlord_up': 0.9001867771148682,
+ 'mean_episode_return_landlord': -0.27338939905166626,
+ 'mean_episode_return_landlord_down': 0.2769109904766083,
+ 'mean_episode_return_landlord_up': 0.27724942564964294}
+[INFO:57726 dmc:233 2023-05-21 10:04:19,524] After 31056000 (L:10803200 U:9955200 D:10297600) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2227160930633545,
+ 'loss_landlord_down': 1.1286753416061401,
+ 'loss_landlord_up': 1.3829265832901,
+ 'mean_episode_return_landlord': 0.13802571594715118,
+ 'mean_episode_return_landlord_down': -0.1373659074306488,
+ 'mean_episode_return_landlord_up': -0.137342631816864}
+[INFO:57858 dmc:233 2023-05-21 10:04:24,385] After 844800 (L:288000 U:275200 D:281600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.9127212166786194,
+ 'loss_landlord_down': 0.9241337180137634,
+ 'loss_landlord_up': 0.9001867771148682,
+ 'mean_episode_return_landlord': -0.27338939905166626,
+ 'mean_episode_return_landlord_down': 0.2769109904766083,
+ 'mean_episode_return_landlord_up': 0.27724942564964294}
+[INFO:57726 dmc:233 2023-05-21 10:04:24,528] After 31056000 (L:10803200 U:9955200 D:10297600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2227160930633545,
+ 'loss_landlord_down': 1.1286753416061401,
+ 'loss_landlord_up': 1.3829265832901,
+ 'mean_episode_return_landlord': 0.13802571594715118,
+ 'mean_episode_return_landlord_down': -0.1373659074306488,
+ 'mean_episode_return_landlord_up': -0.137342631816864}
+[INFO:57858 dmc:233 2023-05-21 10:04:29,389] After 851200 (L:291200 U:278400 D:281600) frames: @ 1279.1 fps (avg@ 586.1 fps) (L:639.6 U:639.6 D:0.0) Stats:
+{'loss_landlord': 0.7830436825752258,
+ 'loss_landlord_down': 0.9241337180137634,
+ 'loss_landlord_up': 0.8987101316452026,
+ 'mean_episode_return_landlord': -0.2688677906990051,
+ 'mean_episode_return_landlord_down': 0.2769109904766083,
+ 'mean_episode_return_landlord_up': 0.2727554440498352}
+[INFO:57726 dmc:233 2023-05-21 10:04:29,534] After 31065600 (L:10806400 U:9958400 D:10300800) frames: @ 1918.1 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.5261056423187256,
+ 'loss_landlord_down': 1.7080655097961426,
+ 'loss_landlord_up': 1.7095131874084473,
+ 'mean_episode_return_landlord': 0.1384541243314743,
+ 'mean_episode_return_landlord_down': -0.13811750710010529,
+ 'mean_episode_return_landlord_up': -0.13817189633846283}
+[INFO:57858 dmc:233 2023-05-21 10:04:34,394] After 854400 (L:291200 U:278400 D:284800) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7830436825752258,
+ 'loss_landlord_down': 0.9086433053016663,
+ 'loss_landlord_up': 0.8987101316452026,
+ 'mean_episode_return_landlord': -0.2688677906990051,
+ 'mean_episode_return_landlord_down': 0.27320826053619385,
+ 'mean_episode_return_landlord_up': 0.2727554440498352}
+[INFO:57726 dmc:233 2023-05-21 10:04:34,538] After 31065600 (L:10806400 U:9958400 D:10300800) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.5261056423187256,
+ 'loss_landlord_down': 1.7080655097961426,
+ 'loss_landlord_up': 1.7095131874084473,
+ 'mean_episode_return_landlord': 0.1384541243314743,
+ 'mean_episode_return_landlord_down': -0.13811750710010529,
+ 'mean_episode_return_landlord_up': -0.13817189633846283}
+[INFO:57858 dmc:233 2023-05-21 10:04:39,400] After 854400 (L:291200 U:278400 D:284800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7830436825752258,
+ 'loss_landlord_down': 0.9086433053016663,
+ 'loss_landlord_up': 0.8987101316452026,
+ 'mean_episode_return_landlord': -0.2688677906990051,
+ 'mean_episode_return_landlord_down': 0.27320826053619385,
+ 'mean_episode_return_landlord_up': 0.2727554440498352}
+[INFO:57726 dmc:233 2023-05-21 10:04:39,544] After 31065600 (L:10806400 U:9958400 D:10300800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.5261056423187256,
+ 'loss_landlord_down': 1.7080655097961426,
+ 'loss_landlord_up': 1.7095131874084473,
+ 'mean_episode_return_landlord': 0.1384541243314743,
+ 'mean_episode_return_landlord_down': -0.13811750710010529,
+ 'mean_episode_return_landlord_up': -0.13817189633846283}
+[INFO:57858 dmc:233 2023-05-21 10:04:44,405] After 854400 (L:291200 U:278400 D:284800) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7830436825752258,
+ 'loss_landlord_down': 0.9086433053016663,
+ 'loss_landlord_up': 0.8987101316452026,
+ 'mean_episode_return_landlord': -0.2688677906990051,
+ 'mean_episode_return_landlord_down': 0.27320826053619385,
+ 'mean_episode_return_landlord_up': 0.2727554440498352}
+[INFO:57726 dmc:233 2023-05-21 10:04:44,549] After 31072000 (L:10806400 U:9961600 D:10304000) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:0.0 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.5261056423187256,
+ 'loss_landlord_down': 1.609245777130127,
+ 'loss_landlord_up': 1.8173400163650513,
+ 'mean_episode_return_landlord': 0.1384541243314743,
+ 'mean_episode_return_landlord_down': -0.1379859745502472,
+ 'mean_episode_return_landlord_up': -0.13742196559906006}
+[INFO:57858 dmc:233 2023-05-21 10:04:49,411] After 860800 (L:294400 U:281600 D:284800) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.8253291249275208,
+ 'loss_landlord_down': 0.9086433053016663,
+ 'loss_landlord_up': 0.8899084329605103,
+ 'mean_episode_return_landlord': -0.26660123467445374,
+ 'mean_episode_return_landlord_down': 0.27320826053619385,
+ 'mean_episode_return_landlord_up': 0.2704874575138092}
+[INFO:57726 dmc:233 2023-05-21 10:04:49,555] After 31075200 (L:10809600 U:9961600 D:10304000) frames: @ 639.3 fps (avg@ 586.2 fps) (L:639.3 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.7058876752853394,
+ 'loss_landlord_down': 1.609245777130127,
+ 'loss_landlord_up': 1.8173400163650513,
+ 'mean_episode_return_landlord': 0.1384243220090866,
+ 'mean_episode_return_landlord_down': -0.1379859745502472,
+ 'mean_episode_return_landlord_up': -0.13742196559906006}
+[INFO:57858 dmc:233 2023-05-21 10:04:54,416] After 864000 (L:294400 U:281600 D:288000) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.8253291249275208,
+ 'loss_landlord_down': 0.8717687129974365,
+ 'loss_landlord_up': 0.8899084329605103,
+ 'mean_episode_return_landlord': -0.26660123467445374,
+ 'mean_episode_return_landlord_down': 0.2703547775745392,
+ 'mean_episode_return_landlord_up': 0.2704874575138092}
+[INFO:57726 dmc:233 2023-05-21 10:04:54,560] After 31075200 (L:10809600 U:9961600 D:10304000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.7058876752853394,
+ 'loss_landlord_down': 1.609245777130127,
+ 'loss_landlord_up': 1.8173400163650513,
+ 'mean_episode_return_landlord': 0.1384243220090866,
+ 'mean_episode_return_landlord_down': -0.1379859745502472,
+ 'mean_episode_return_landlord_up': -0.13742196559906006}
+[INFO:57858 dmc:233 2023-05-21 10:04:59,422] After 864000 (L:294400 U:281600 D:288000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8253291249275208,
+ 'loss_landlord_down': 0.8717687129974365,
+ 'loss_landlord_up': 0.8899084329605103,
+ 'mean_episode_return_landlord': -0.26660123467445374,
+ 'mean_episode_return_landlord_down': 0.2703547775745392,
+ 'mean_episode_return_landlord_up': 0.2704874575138092}
+[INFO:57726 dmc:233 2023-05-21 10:04:59,564] After 31075200 (L:10809600 U:9961600 D:10304000) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.7058876752853394,
+ 'loss_landlord_down': 1.609245777130127,
+ 'loss_landlord_up': 1.8173400163650513,
+ 'mean_episode_return_landlord': 0.1384243220090866,
+ 'mean_episode_return_landlord_down': -0.1379859745502472,
+ 'mean_episode_return_landlord_up': -0.13742196559906006}
+[INFO:57858 dmc:233 2023-05-21 10:05:04,425] After 870400 (L:297600 U:284800 D:288000) frames: @ 1279.4 fps (avg@ 586.2 fps) (L:639.7 U:639.7 D:0.0) Stats:
+{'loss_landlord': 0.8134719729423523,
+ 'loss_landlord_down': 0.8717687129974365,
+ 'loss_landlord_up': 0.9160791635513306,
+ 'mean_episode_return_landlord': -0.262539803981781,
+ 'mean_episode_return_landlord_down': 0.2703547775745392,
+ 'mean_episode_return_landlord_up': 0.2660999596118927}
+[INFO:57726 dmc:233 2023-05-21 10:05:04,568] After 31084800 (L:10812800 U:9964800 D:10307200) frames: @ 1918.9 fps (avg@ 586.2 fps) (L:639.6 U:639.6 D:639.6) Stats:
+{'loss_landlord': 1.3667867183685303,
+ 'loss_landlord_down': 1.5788934230804443,
+ 'loss_landlord_up': 1.9301384687423706,
+ 'mean_episode_return_landlord': 0.13772447407245636,
+ 'mean_episode_return_landlord_down': -0.1374836415052414,
+ 'mean_episode_return_landlord_up': -0.13764047622680664}
+[INFO:57858 dmc:233 2023-05-21 10:05:09,430] After 873600 (L:297600 U:284800 D:291200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.8134719729423523,
+ 'loss_landlord_down': 0.8996655941009521,
+ 'loss_landlord_up': 0.9160791635513306,
+ 'mean_episode_return_landlord': -0.262539803981781,
+ 'mean_episode_return_landlord_down': 0.26556745171546936,
+ 'mean_episode_return_landlord_up': 0.2660999596118927}
+[INFO:57726 dmc:233 2023-05-21 10:05:09,571] After 31084800 (L:10812800 U:9964800 D:10307200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3667867183685303,
+ 'loss_landlord_down': 1.5788934230804443,
+ 'loss_landlord_up': 1.9301384687423706,
+ 'mean_episode_return_landlord': 0.13772447407245636,
+ 'mean_episode_return_landlord_down': -0.1374836415052414,
+ 'mean_episode_return_landlord_up': -0.13764047622680664}
+[INFO:57858 dmc:233 2023-05-21 10:05:14,436] After 873600 (L:297600 U:284800 D:291200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8134719729423523,
+ 'loss_landlord_down': 0.8996655941009521,
+ 'loss_landlord_up': 0.9160791635513306,
+ 'mean_episode_return_landlord': -0.262539803981781,
+ 'mean_episode_return_landlord_down': 0.26556745171546936,
+ 'mean_episode_return_landlord_up': 0.2660999596118927}
+[INFO:57726 dmc:233 2023-05-21 10:05:14,576] After 31084800 (L:10812800 U:9964800 D:10307200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3667867183685303,
+ 'loss_landlord_down': 1.5788934230804443,
+ 'loss_landlord_up': 1.9301384687423706,
+ 'mean_episode_return_landlord': 0.13772447407245636,
+ 'mean_episode_return_landlord_down': -0.1374836415052414,
+ 'mean_episode_return_landlord_up': -0.13764047622680664}
+[INFO:57858 dmc:233 2023-05-21 10:05:19,441] After 876800 (L:300800 U:284800 D:291200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7663651704788208,
+ 'loss_landlord_down': 0.8996655941009521,
+ 'loss_landlord_up': 0.9160791635513306,
+ 'mean_episode_return_landlord': -0.25883758068084717,
+ 'mean_episode_return_landlord_down': 0.26556745171546936,
+ 'mean_episode_return_landlord_up': 0.2660999596118927}
+[INFO:57726 dmc:233 2023-05-21 10:05:19,581] After 31094400 (L:10816000 U:9968000 D:10310400) frames: @ 1918.6 fps (avg@ 586.2 fps) (L:639.5 U:639.5 D:639.5) Stats:
+{'loss_landlord': 1.396894931793213,
+ 'loss_landlord_down': 1.6503323316574097,
+ 'loss_landlord_up': 1.8511877059936523,
+ 'mean_episode_return_landlord': 0.13554084300994873,
+ 'mean_episode_return_landlord_down': -0.13584592938423157,
+ 'mean_episode_return_landlord_up': -0.1350463479757309}
+[INFO:57858 dmc:233 2023-05-21 10:05:24,447] After 883200 (L:300800 U:288000 D:294400) frames: @ 1278.7 fps (avg@ 559.5 fps) (L:0.0 U:639.3 D:639.3) Stats:
+{'loss_landlord': 0.7663651704788208,
+ 'loss_landlord_down': 0.8866429924964905,
+ 'loss_landlord_up': 0.919899046421051,
+ 'mean_episode_return_landlord': -0.25883758068084717,
+ 'mean_episode_return_landlord_down': 0.26268085837364197,
+ 'mean_episode_return_landlord_up': 0.26291653513908386}
+[INFO:57726 dmc:233 2023-05-21 10:05:24,586] After 31094400 (L:10816000 U:9968000 D:10310400) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.396894931793213,
+ 'loss_landlord_down': 1.6503323316574097,
+ 'loss_landlord_up': 1.8511877059936523,
+ 'mean_episode_return_landlord': 0.13554084300994873,
+ 'mean_episode_return_landlord_down': -0.13584592938423157,
+ 'mean_episode_return_landlord_up': -0.1350463479757309}
+[INFO:57858 dmc:233 2023-05-21 10:05:29,450] After 883200 (L:300800 U:288000 D:294400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7663651704788208,
+ 'loss_landlord_down': 0.8866429924964905,
+ 'loss_landlord_up': 0.919899046421051,
+ 'mean_episode_return_landlord': -0.25883758068084717,
+ 'mean_episode_return_landlord_down': 0.26268085837364197,
+ 'mean_episode_return_landlord_up': 0.26291653513908386}
+[INFO:57726 dmc:233 2023-05-21 10:05:29,592] After 31094400 (L:10816000 U:9968000 D:10310400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.396894931793213,
+ 'loss_landlord_down': 1.6503323316574097,
+ 'loss_landlord_up': 1.8511877059936523,
+ 'mean_episode_return_landlord': 0.13554084300994873,
+ 'mean_episode_return_landlord_down': -0.13584592938423157,
+ 'mean_episode_return_landlord_up': -0.1350463479757309}
+[INFO:57858 dmc:233 2023-05-21 10:05:34,452] After 886400 (L:304000 U:288000 D:294400) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7267053723335266,
+ 'loss_landlord_down': 0.8866429924964905,
+ 'loss_landlord_up': 0.919899046421051,
+ 'mean_episode_return_landlord': -0.2557883858680725,
+ 'mean_episode_return_landlord_down': 0.26268085837364197,
+ 'mean_episode_return_landlord_up': 0.26291653513908386}
+[INFO:57726 dmc:233 2023-05-21 10:05:34,597] After 31100800 (L:10819200 U:9968000 D:10313600) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.9108153581619263,
+ 'loss_landlord_down': 1.6799803972244263,
+ 'loss_landlord_up': 1.8511877059936523,
+ 'mean_episode_return_landlord': 0.13451561331748962,
+ 'mean_episode_return_landlord_down': -0.13407225906848907,
+ 'mean_episode_return_landlord_up': -0.1350463479757309}
+[INFO:57858 dmc:233 2023-05-21 10:05:39,456] After 889600 (L:304000 U:291200 D:294400) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 0.7267053723335266,
+ 'loss_landlord_down': 0.8866429924964905,
+ 'loss_landlord_up': 0.8882046937942505,
+ 'mean_episode_return_landlord': -0.2557883858680725,
+ 'mean_episode_return_landlord_down': 0.26268085837364197,
+ 'mean_episode_return_landlord_up': 0.25892841815948486}
+[INFO:57726 dmc:233 2023-05-21 10:05:39,601] After 31104000 (L:10819200 U:9971200 D:10313600) frames: @ 639.7 fps (avg@ 586.2 fps) (L:0.0 U:639.7 D:0.0) Stats:
+{'loss_landlord': 1.9108153581619263,
+ 'loss_landlord_down': 1.6799803972244263,
+ 'loss_landlord_up': 1.8974337577819824,
+ 'mean_episode_return_landlord': 0.13451561331748962,
+ 'mean_episode_return_landlord_down': -0.13407225906848907,
+ 'mean_episode_return_landlord_up': -0.1340939998626709}
+[INFO:57858 dmc:233 2023-05-21 10:05:44,461] After 892800 (L:304000 U:291200 D:297600) frames: @ 639.5 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.5) Stats:
+{'loss_landlord': 0.7267053723335266,
+ 'loss_landlord_down': 0.9554824829101562,
+ 'loss_landlord_up': 0.8882046937942505,
+ 'mean_episode_return_landlord': -0.2557883858680725,
+ 'mean_episode_return_landlord_down': 0.2587720453739166,
+ 'mean_episode_return_landlord_up': 0.25892841815948486}
+[INFO:57726 dmc:233 2023-05-21 10:05:44,606] After 31104000 (L:10819200 U:9971200 D:10313600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.9108153581619263,
+ 'loss_landlord_down': 1.6799803972244263,
+ 'loss_landlord_up': 1.8974337577819824,
+ 'mean_episode_return_landlord': 0.13451561331748962,
+ 'mean_episode_return_landlord_down': -0.13407225906848907,
+ 'mean_episode_return_landlord_up': -0.1340939998626709}
+[INFO:57858 dmc:233 2023-05-21 10:05:49,465] After 892800 (L:304000 U:291200 D:297600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7267053723335266,
+ 'loss_landlord_down': 0.9554824829101562,
+ 'loss_landlord_up': 0.8882046937942505,
+ 'mean_episode_return_landlord': -0.2557883858680725,
+ 'mean_episode_return_landlord_down': 0.2587720453739166,
+ 'mean_episode_return_landlord_up': 0.25892841815948486}
+[INFO:57726 dmc:233 2023-05-21 10:05:49,608] After 31104000 (L:10819200 U:9971200 D:10313600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.9108153581619263,
+ 'loss_landlord_down': 1.6799803972244263,
+ 'loss_landlord_up': 1.8974337577819824,
+ 'mean_episode_return_landlord': 0.13451561331748962,
+ 'mean_episode_return_landlord_down': -0.13407225906848907,
+ 'mean_episode_return_landlord_up': -0.1340939998626709}
+[INFO:57858 dmc:233 2023-05-21 10:05:54,471] After 896000 (L:307200 U:291200 D:297600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8347083926200867,
+ 'loss_landlord_down': 0.9554824829101562,
+ 'loss_landlord_up': 0.8882046937942505,
+ 'mean_episode_return_landlord': -0.2527109384536743,
+ 'mean_episode_return_landlord_down': 0.2587720453739166,
+ 'mean_episode_return_landlord_up': 0.25892841815948486}
+[INFO:57726 dmc:233 2023-05-21 10:05:54,614] After 31113600 (L:10822400 U:9974400 D:10316800) frames: @ 1918.1 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.4685832262039185,
+ 'loss_landlord_down': 1.4875853061676025,
+ 'loss_landlord_up': 1.6933257579803467,
+ 'mean_episode_return_landlord': 0.1345321536064148,
+ 'mean_episode_return_landlord_down': -0.1339937150478363,
+ 'mean_episode_return_landlord_up': -0.1339271515607834}
+[INFO:57858 dmc:233 2023-05-21 10:05:59,473] After 902400 (L:307200 U:294400 D:300800) frames: @ 1279.7 fps (avg@ 559.6 fps) (L:0.0 U:639.8 D:639.8) Stats:
+{'loss_landlord': 0.8347083926200867,
+ 'loss_landlord_down': 0.8796621561050415,
+ 'loss_landlord_up': 0.9387750625610352,
+ 'mean_episode_return_landlord': -0.2527109384536743,
+ 'mean_episode_return_landlord_down': 0.25536778569221497,
+ 'mean_episode_return_landlord_up': 0.25562992691993713}
+[INFO:57726 dmc:233 2023-05-21 10:05:59,619] After 31113600 (L:10822400 U:9974400 D:10316800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4685832262039185,
+ 'loss_landlord_down': 1.4875853061676025,
+ 'loss_landlord_up': 1.6933257579803467,
+ 'mean_episode_return_landlord': 0.1345321536064148,
+ 'mean_episode_return_landlord_down': -0.1339937150478363,
+ 'mean_episode_return_landlord_up': -0.1339271515607834}
+[INFO:57858 dmc:233 2023-05-21 10:06:04,477] After 902400 (L:307200 U:294400 D:300800) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8347083926200867,
+ 'loss_landlord_down': 0.8796621561050415,
+ 'loss_landlord_up': 0.9387750625610352,
+ 'mean_episode_return_landlord': -0.2527109384536743,
+ 'mean_episode_return_landlord_down': 0.25536778569221497,
+ 'mean_episode_return_landlord_up': 0.25562992691993713}
+[INFO:57726 dmc:233 2023-05-21 10:06:04,625] After 31113600 (L:10822400 U:9974400 D:10316800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4685832262039185,
+ 'loss_landlord_down': 1.4875853061676025,
+ 'loss_landlord_up': 1.6933257579803467,
+ 'mean_episode_return_landlord': 0.1345321536064148,
+ 'mean_episode_return_landlord_down': -0.1339937150478363,
+ 'mean_episode_return_landlord_up': -0.1339271515607834}
+[INFO:57858 dmc:233 2023-05-21 10:06:09,481] After 905600 (L:310400 U:294400 D:300800) frames: @ 639.6 fps (avg@ 586.2 fps) (L:639.6 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7333173751831055,
+ 'loss_landlord_down': 0.8796621561050415,
+ 'loss_landlord_up': 0.9387750625610352,
+ 'mean_episode_return_landlord': -0.24919217824935913,
+ 'mean_episode_return_landlord_down': 0.25536778569221497,
+ 'mean_episode_return_landlord_up': 0.25562992691993713}
+[INFO:57726 dmc:233 2023-05-21 10:06:09,631] After 31120000 (L:10825600 U:9974400 D:10320000) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.3699207305908203,
+ 'loss_landlord_down': 1.4586601257324219,
+ 'loss_landlord_up': 1.6933257579803467,
+ 'mean_episode_return_landlord': 0.13500042259693146,
+ 'mean_episode_return_landlord_down': -0.13269612193107605,
+ 'mean_episode_return_landlord_up': -0.1339271515607834}
+[INFO:57858 dmc:233 2023-05-21 10:06:14,485] After 908800 (L:310400 U:297600 D:300800) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 0.7333173751831055,
+ 'loss_landlord_down': 0.8796621561050415,
+ 'loss_landlord_up': 0.863206148147583,
+ 'mean_episode_return_landlord': -0.24919217824935913,
+ 'mean_episode_return_landlord_down': 0.25536778569221497,
+ 'mean_episode_return_landlord_up': 0.25223860144615173}
+[INFO:57726 dmc:233 2023-05-21 10:06:14,636] After 31123200 (L:10825600 U:9977600 D:10320000) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.3699207305908203,
+ 'loss_landlord_down': 1.4586601257324219,
+ 'loss_landlord_up': 1.6664695739746094,
+ 'mean_episode_return_landlord': 0.13500042259693146,
+ 'mean_episode_return_landlord_down': -0.13269612193107605,
+ 'mean_episode_return_landlord_up': -0.1332504004240036}
+[INFO:57858 dmc:233 2023-05-21 10:06:19,490] After 912000 (L:310400 U:297600 D:304000) frames: @ 639.3 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.3) Stats:
+{'loss_landlord': 0.7333173751831055,
+ 'loss_landlord_down': 0.8605512976646423,
+ 'loss_landlord_up': 0.863206148147583,
+ 'mean_episode_return_landlord': -0.24919217824935913,
+ 'mean_episode_return_landlord_down': 0.251989483833313,
+ 'mean_episode_return_landlord_up': 0.25223860144615173}
+[INFO:57726 dmc:233 2023-05-21 10:06:19,642] After 31123200 (L:10825600 U:9977600 D:10320000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3699207305908203,
+ 'loss_landlord_down': 1.4586601257324219,
+ 'loss_landlord_up': 1.6664695739746094,
+ 'mean_episode_return_landlord': 0.13500042259693146,
+ 'mean_episode_return_landlord_down': -0.13269612193107605,
+ 'mean_episode_return_landlord_up': -0.1332504004240036}
+[INFO:57858 dmc:233 2023-05-21 10:06:24,492] After 915200 (L:313600 U:297600 D:304000) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7309322357177734,
+ 'loss_landlord_down': 0.8605512976646423,
+ 'loss_landlord_up': 0.863206148147583,
+ 'mean_episode_return_landlord': -0.24534118175506592,
+ 'mean_episode_return_landlord_down': 0.251989483833313,
+ 'mean_episode_return_landlord_up': 0.25223860144615173}
+[INFO:57726 dmc:233 2023-05-21 10:06:24,648] After 31129600 (L:10828800 U:9977600 D:10323200) frames: @ 1278.7 fps (avg@ 612.8 fps) (L:639.3 U:0.0 D:639.3) Stats:
+{'loss_landlord': 1.7170562744140625,
+ 'loss_landlord_down': 1.712302565574646,
+ 'loss_landlord_up': 1.6664695739746094,
+ 'mean_episode_return_landlord': 0.13376806676387787,
+ 'mean_episode_return_landlord_down': -0.13307805359363556,
+ 'mean_episode_return_landlord_up': -0.1332504004240036}
+[INFO:57858 dmc:233 2023-05-21 10:06:29,497] After 915200 (L:313600 U:297600 D:304000) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7309322357177734,
+ 'loss_landlord_down': 0.8605512976646423,
+ 'loss_landlord_up': 0.863206148147583,
+ 'mean_episode_return_landlord': -0.24534118175506592,
+ 'mean_episode_return_landlord_down': 0.251989483833313,
+ 'mean_episode_return_landlord_up': 0.25223860144615173}
+[INFO:57726 dmc:233 2023-05-21 10:06:29,652] After 31132800 (L:10828800 U:9980800 D:10323200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.7170562744140625,
+ 'loss_landlord_down': 1.712302565574646,
+ 'loss_landlord_up': 1.8451330661773682,
+ 'mean_episode_return_landlord': 0.13376806676387787,
+ 'mean_episode_return_landlord_down': -0.13307805359363556,
+ 'mean_episode_return_landlord_up': -0.13319514691829681}
+[INFO:57858 dmc:233 2023-05-21 10:06:34,503] After 921600 (L:313600 U:300800 D:307200) frames: @ 1278.7 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:639.4) Stats:
+{'loss_landlord': 0.7309322357177734,
+ 'loss_landlord_down': 0.920838475227356,
+ 'loss_landlord_up': 0.9345548748970032,
+ 'mean_episode_return_landlord': -0.24534118175506592,
+ 'mean_episode_return_landlord_down': 0.24832293391227722,
+ 'mean_episode_return_landlord_up': 0.24838285148143768}
+[INFO:57726 dmc:233 2023-05-21 10:06:34,658] After 31132800 (L:10828800 U:9980800 D:10323200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.7170562744140625,
+ 'loss_landlord_down': 1.712302565574646,
+ 'loss_landlord_up': 1.8451330661773682,
+ 'mean_episode_return_landlord': 0.13376806676387787,
+ 'mean_episode_return_landlord_down': -0.13307805359363556,
+ 'mean_episode_return_landlord_up': -0.13319514691829681}
+[INFO:57858 dmc:233 2023-05-21 10:06:39,508] After 921600 (L:313600 U:300800 D:307200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7309322357177734,
+ 'loss_landlord_down': 0.920838475227356,
+ 'loss_landlord_up': 0.9345548748970032,
+ 'mean_episode_return_landlord': -0.24534118175506592,
+ 'mean_episode_return_landlord_down': 0.24832293391227722,
+ 'mean_episode_return_landlord_up': 0.24838285148143768}
+[INFO:57726 dmc:233 2023-05-21 10:06:39,664] After 31136000 (L:10832000 U:9980800 D:10323200) frames: @ 639.4 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2953025102615356,
+ 'loss_landlord_down': 1.712302565574646,
+ 'loss_landlord_up': 1.8451330661773682,
+ 'mean_episode_return_landlord': 0.13310764729976654,
+ 'mean_episode_return_landlord_down': -0.13307805359363556,
+ 'mean_episode_return_landlord_up': -0.13319514691829681}
+[INFO:57858 dmc:233 2023-05-21 10:06:44,514] After 924800 (L:316800 U:300800 D:307200) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7755799889564514,
+ 'loss_landlord_down': 0.920838475227356,
+ 'loss_landlord_up': 0.9345548748970032,
+ 'mean_episode_return_landlord': -0.2422945499420166,
+ 'mean_episode_return_landlord_down': 0.24832293391227722,
+ 'mean_episode_return_landlord_up': 0.24838285148143768}
+[INFO:57726 dmc:233 2023-05-21 10:06:44,669] After 31139200 (L:10832000 U:9980800 D:10326400) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2953025102615356,
+ 'loss_landlord_down': 1.3082977533340454,
+ 'loss_landlord_up': 1.8451330661773682,
+ 'mean_episode_return_landlord': 0.13310764729976654,
+ 'mean_episode_return_landlord_down': -0.1329757571220398,
+ 'mean_episode_return_landlord_up': -0.13319514691829681}
+[INFO:57858 dmc:233 2023-05-21 10:06:49,519] After 928000 (L:316800 U:304000 D:307200) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7755799889564514,
+ 'loss_landlord_down': 0.920838475227356,
+ 'loss_landlord_up': 0.8886386156082153,
+ 'mean_episode_return_landlord': -0.2422945499420166,
+ 'mean_episode_return_landlord_down': 0.24832293391227722,
+ 'mean_episode_return_landlord_up': 0.245016410946846}
+[INFO:57726 dmc:233 2023-05-21 10:06:49,672] After 31142400 (L:10832000 U:9984000 D:10326400) frames: @ 639.7 fps (avg@ 559.5 fps) (L:0.0 U:639.7 D:0.0) Stats:
+{'loss_landlord': 1.2953025102615356,
+ 'loss_landlord_down': 1.3082977533340454,
+ 'loss_landlord_up': 1.5882415771484375,
+ 'mean_episode_return_landlord': 0.13310764729976654,
+ 'mean_episode_return_landlord_down': -0.1329757571220398,
+ 'mean_episode_return_landlord_up': -0.1330016851425171}
+[INFO:57858 dmc:233 2023-05-21 10:06:54,523] After 931200 (L:316800 U:304000 D:310400) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 0.7755799889564514,
+ 'loss_landlord_down': 0.9123745560646057,
+ 'loss_landlord_up': 0.8886386156082153,
+ 'mean_episode_return_landlord': -0.2422945499420166,
+ 'mean_episode_return_landlord_down': 0.24509236216545105,
+ 'mean_episode_return_landlord_up': 0.245016410946846}
+[INFO:57726 dmc:233 2023-05-21 10:06:54,677] After 31145600 (L:10835200 U:9984000 D:10326400) frames: @ 639.5 fps (avg@ 586.2 fps) (L:639.5 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.1444687843322754,
+ 'loss_landlord_down': 1.3082977533340454,
+ 'loss_landlord_up': 1.5882415771484375,
+ 'mean_episode_return_landlord': 0.1314290165901184,
+ 'mean_episode_return_landlord_down': -0.1329757571220398,
+ 'mean_episode_return_landlord_up': -0.1330016851425171}
+[INFO:57858 dmc:233 2023-05-21 10:06:59,528] After 934400 (L:320000 U:304000 D:310400) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7705585360527039,
+ 'loss_landlord_down': 0.9123745560646057,
+ 'loss_landlord_up': 0.8886386156082153,
+ 'mean_episode_return_landlord': -0.2392386645078659,
+ 'mean_episode_return_landlord_down': 0.24509236216545105,
+ 'mean_episode_return_landlord_up': 0.245016410946846}
+[INFO:57726 dmc:233 2023-05-21 10:06:59,682] After 31148800 (L:10835200 U:9984000 D:10329600) frames: @ 639.4 fps (avg@ 612.8 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.1444687843322754,
+ 'loss_landlord_down': 1.2622301578521729,
+ 'loss_landlord_up': 1.5882415771484375,
+ 'mean_episode_return_landlord': 0.1314290165901184,
+ 'mean_episode_return_landlord_down': -0.13297663629055023,
+ 'mean_episode_return_landlord_up': -0.1330016851425171}
+[INFO:57858 dmc:233 2023-05-21 10:07:04,533] After 934400 (L:320000 U:304000 D:310400) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7705585360527039,
+ 'loss_landlord_down': 0.9123745560646057,
+ 'loss_landlord_up': 0.8886386156082153,
+ 'mean_episode_return_landlord': -0.2392386645078659,
+ 'mean_episode_return_landlord_down': 0.24509236216545105,
+ 'mean_episode_return_landlord_up': 0.245016410946846}
+[INFO:57726 dmc:233 2023-05-21 10:07:04,684] After 31152000 (L:10835200 U:9987200 D:10329600) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:639.8 D:0.0) Stats:
+{'loss_landlord': 1.1444687843322754,
+ 'loss_landlord_down': 1.2622301578521729,
+ 'loss_landlord_up': 1.7912685871124268,
+ 'mean_episode_return_landlord': 0.1314290165901184,
+ 'mean_episode_return_landlord_down': -0.13297663629055023,
+ 'mean_episode_return_landlord_up': -0.13336896896362305}
+[INFO:57858 dmc:233 2023-05-21 10:07:09,536] After 940800 (L:320000 U:307200 D:313600) frames: @ 1279.4 fps (avg@ 559.6 fps) (L:0.0 U:639.7 D:639.7) Stats:
+{'loss_landlord': 0.7705585360527039,
+ 'loss_landlord_down': 0.8632851243019104,
+ 'loss_landlord_up': 0.8898475170135498,
+ 'mean_episode_return_landlord': -0.2392386645078659,
+ 'mean_episode_return_landlord_down': 0.24263373017311096,
+ 'mean_episode_return_landlord_up': 0.24187134206295013}
+[INFO:57726 dmc:233 2023-05-21 10:07:09,690] After 31152000 (L:10835200 U:9987200 D:10329600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.1444687843322754,
+ 'loss_landlord_down': 1.2622301578521729,
+ 'loss_landlord_up': 1.7912685871124268,
+ 'mean_episode_return_landlord': 0.1314290165901184,
+ 'mean_episode_return_landlord_down': -0.13297663629055023,
+ 'mean_episode_return_landlord_up': -0.13336896896362305}
+[INFO:57858 dmc:233 2023-05-21 10:07:14,541] After 944000 (L:323200 U:307200 D:313600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7954394221305847,
+ 'loss_landlord_down': 0.8632851243019104,
+ 'loss_landlord_up': 0.8898475170135498,
+ 'mean_episode_return_landlord': -0.2331782430410385,
+ 'mean_episode_return_landlord_down': 0.24263373017311096,
+ 'mean_episode_return_landlord_up': 0.24187134206295013}
+[INFO:57726 dmc:233 2023-05-21 10:07:14,695] After 31155200 (L:10838400 U:9987200 D:10329600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.775875210762024,
+ 'loss_landlord_down': 1.2622301578521729,
+ 'loss_landlord_up': 1.7912685871124268,
+ 'mean_episode_return_landlord': 0.1335630714893341,
+ 'mean_episode_return_landlord_down': -0.13297663629055023,
+ 'mean_episode_return_landlord_up': -0.13336896896362305}
+[INFO:57858 dmc:233 2023-05-21 10:07:19,544] After 944000 (L:323200 U:307200 D:313600) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7954394221305847,
+ 'loss_landlord_down': 0.8632851243019104,
+ 'loss_landlord_up': 0.8898475170135498,
+ 'mean_episode_return_landlord': -0.2331782430410385,
+ 'mean_episode_return_landlord_down': 0.24263373017311096,
+ 'mean_episode_return_landlord_up': 0.24187134206295013}
+[INFO:57726 dmc:233 2023-05-21 10:07:19,701] After 31158400 (L:10838400 U:9987200 D:10332800) frames: @ 639.4 fps (avg@ 532.8 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.775875210762024,
+ 'loss_landlord_down': 1.7280913591384888,
+ 'loss_landlord_up': 1.7912685871124268,
+ 'mean_episode_return_landlord': 0.1335630714893341,
+ 'mean_episode_return_landlord_down': -0.13448257744312286,
+ 'mean_episode_return_landlord_up': -0.13336896896362305}
+[INFO:57858 dmc:233 2023-05-21 10:07:24,550] After 947200 (L:323200 U:310400 D:313600) frames: @ 639.4 fps (avg@ 532.9 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7954394221305847,
+ 'loss_landlord_down': 0.8632851243019104,
+ 'loss_landlord_up': 0.8772744536399841,
+ 'mean_episode_return_landlord': -0.2331782430410385,
+ 'mean_episode_return_landlord_down': 0.24263373017311096,
+ 'mean_episode_return_landlord_up': 0.23843279480934143}
+[INFO:57726 dmc:233 2023-05-21 10:07:24,703] After 31161600 (L:10838400 U:9990400 D:10332800) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:639.8 D:0.0) Stats:
+{'loss_landlord': 1.775875210762024,
+ 'loss_landlord_down': 1.7280913591384888,
+ 'loss_landlord_up': 1.8961039781570435,
+ 'mean_episode_return_landlord': 0.1335630714893341,
+ 'mean_episode_return_landlord_down': -0.13448257744312286,
+ 'mean_episode_return_landlord_up': -0.13410532474517822}
+[INFO:57858 dmc:233 2023-05-21 10:07:29,553] After 950400 (L:323200 U:310400 D:316800) frames: @ 639.7 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.7) Stats:
+{'loss_landlord': 0.7954394221305847,
+ 'loss_landlord_down': 0.9121913909912109,
+ 'loss_landlord_up': 0.8772744536399841,
+ 'mean_episode_return_landlord': -0.2331782430410385,
+ 'mean_episode_return_landlord_down': 0.23857012391090393,
+ 'mean_episode_return_landlord_up': 0.23843279480934143}
+[INFO:57726 dmc:233 2023-05-21 10:07:29,709] After 31164800 (L:10841600 U:9990400 D:10332800) frames: @ 639.4 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3988491296768188,
+ 'loss_landlord_down': 1.7280913591384888,
+ 'loss_landlord_up': 1.8961039781570435,
+ 'mean_episode_return_landlord': 0.13497990369796753,
+ 'mean_episode_return_landlord_down': -0.13448257744312286,
+ 'mean_episode_return_landlord_up': -0.13410532474517822}
+[INFO:57858 dmc:233 2023-05-21 10:07:34,558] After 953600 (L:326400 U:310400 D:316800) frames: @ 639.4 fps (avg@ 559.6 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8026782274246216,
+ 'loss_landlord_down': 0.9121913909912109,
+ 'loss_landlord_up': 0.8772744536399841,
+ 'mean_episode_return_landlord': -0.22337478399276733,
+ 'mean_episode_return_landlord_down': 0.23857012391090393,
+ 'mean_episode_return_landlord_up': 0.23843279480934143}
+[INFO:57726 dmc:233 2023-05-21 10:07:34,713] After 31168000 (L:10841600 U:9990400 D:10336000) frames: @ 639.5 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.5) Stats:
+{'loss_landlord': 1.3988491296768188,
+ 'loss_landlord_down': 1.3925695419311523,
+ 'loss_landlord_up': 1.8961039781570435,
+ 'mean_episode_return_landlord': 0.13497990369796753,
+ 'mean_episode_return_landlord_down': -0.1349908858537674,
+ 'mean_episode_return_landlord_up': -0.13410532474517822}
+[INFO:57858 dmc:233 2023-05-21 10:07:39,561] After 953600 (L:326400 U:310400 D:316800) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8026782274246216,
+ 'loss_landlord_down': 0.9121913909912109,
+ 'loss_landlord_up': 0.8772744536399841,
+ 'mean_episode_return_landlord': -0.22337478399276733,
+ 'mean_episode_return_landlord_down': 0.23857012391090393,
+ 'mean_episode_return_landlord_up': 0.23843279480934143}
+[INFO:57726 dmc:233 2023-05-21 10:07:39,717] After 31171200 (L:10841600 U:9993600 D:10336000) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.3988491296768188,
+ 'loss_landlord_down': 1.3925695419311523,
+ 'loss_landlord_up': 1.7175381183624268,
+ 'mean_episode_return_landlord': 0.13497990369796753,
+ 'mean_episode_return_landlord_down': -0.1349908858537674,
+ 'mean_episode_return_landlord_up': -0.13330313563346863}
+[INFO:57858 dmc:233 2023-05-21 10:07:44,565] After 960000 (L:326400 U:313600 D:320000) frames: @ 1279.1 fps (avg@ 559.6 fps) (L:0.0 U:639.5 D:639.5) Stats:
+{'loss_landlord': 0.8026782274246216,
+ 'loss_landlord_down': 0.9257469177246094,
+ 'loss_landlord_up': 0.8876480460166931,
+ 'mean_episode_return_landlord': -0.22337478399276733,
+ 'mean_episode_return_landlord_down': 0.2356288880109787,
+ 'mean_episode_return_landlord_up': 0.23552148044109344}
+[INFO:57726 dmc:233 2023-05-21 10:07:44,719] After 31174400 (L:10844800 U:9993600 D:10336000) frames: @ 639.7 fps (avg@ 586.2 fps) (L:639.7 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.557201623916626,
+ 'loss_landlord_down': 1.3925695419311523,
+ 'loss_landlord_up': 1.7175381183624268,
+ 'mean_episode_return_landlord': 0.13650035858154297,
+ 'mean_episode_return_landlord_down': -0.1349908858537674,
+ 'mean_episode_return_landlord_up': -0.13330313563346863}
+[INFO:57858 dmc:233 2023-05-21 10:07:49,571] After 963200 (L:329600 U:313600 D:320000) frames: @ 639.3 fps (avg@ 586.2 fps) (L:639.3 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8329780101776123,
+ 'loss_landlord_down': 0.9257469177246094,
+ 'loss_landlord_up': 0.8876480460166931,
+ 'mean_episode_return_landlord': -0.2144477367401123,
+ 'mean_episode_return_landlord_down': 0.2356288880109787,
+ 'mean_episode_return_landlord_up': 0.23552148044109344}
+[INFO:57726 dmc:233 2023-05-21 10:07:49,725] After 31177600 (L:10844800 U:9993600 D:10339200) frames: @ 639.4 fps (avg@ 612.8 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.557201623916626,
+ 'loss_landlord_down': 1.6005423069000244,
+ 'loss_landlord_up': 1.7175381183624268,
+ 'mean_episode_return_landlord': 0.13650035858154297,
+ 'mean_episode_return_landlord_down': -0.13314832746982574,
+ 'mean_episode_return_landlord_up': -0.13330313563346863}
+[INFO:57858 dmc:233 2023-05-21 10:07:54,576] After 963200 (L:329600 U:313600 D:320000) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8329780101776123,
+ 'loss_landlord_down': 0.9257469177246094,
+ 'loss_landlord_up': 0.8876480460166931,
+ 'mean_episode_return_landlord': -0.2144477367401123,
+ 'mean_episode_return_landlord_down': 0.2356288880109787,
+ 'mean_episode_return_landlord_up': 0.23552148044109344}
+[INFO:57726 dmc:233 2023-05-21 10:07:54,731] After 31180800 (L:10844800 U:9996800 D:10339200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.557201623916626,
+ 'loss_landlord_down': 1.6005423069000244,
+ 'loss_landlord_up': 1.6326061487197876,
+ 'mean_episode_return_landlord': 0.13650035858154297,
+ 'mean_episode_return_landlord_down': -0.13314832746982574,
+ 'mean_episode_return_landlord_up': -0.13342680037021637}
+[INFO:57858 dmc:233 2023-05-21 10:07:59,578] After 969600 (L:329600 U:316800 D:323200) frames: @ 1279.7 fps (avg@ 559.6 fps) (L:0.0 U:639.8 D:639.8) Stats:
+{'loss_landlord': 0.8329780101776123,
+ 'loss_landlord_down': 0.893703281879425,
+ 'loss_landlord_up': 0.9066463112831116,
+ 'mean_episode_return_landlord': -0.2144477367401123,
+ 'mean_episode_return_landlord_down': 0.2291199415922165,
+ 'mean_episode_return_landlord_up': 0.23191066086292267}
+[INFO:57726 dmc:233 2023-05-21 10:07:59,733] After 31184000 (L:10848000 U:9996800 D:10339200) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2238304615020752,
+ 'loss_landlord_down': 1.6005423069000244,
+ 'loss_landlord_up': 1.6326061487197876,
+ 'mean_episode_return_landlord': 0.13676325976848602,
+ 'mean_episode_return_landlord_down': -0.13314832746982574,
+ 'mean_episode_return_landlord_up': -0.13342680037021637}
+[INFO:57858 dmc:233 2023-05-21 10:08:04,583] After 972800 (L:332800 U:316800 D:323200) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8085639476776123,
+ 'loss_landlord_down': 0.893703281879425,
+ 'loss_landlord_up': 0.9066463112831116,
+ 'mean_episode_return_landlord': -0.20584823191165924,
+ 'mean_episode_return_landlord_down': 0.2291199415922165,
+ 'mean_episode_return_landlord_up': 0.23191066086292267}
+[INFO:57726 dmc:233 2023-05-21 10:08:04,736] After 31187200 (L:10848000 U:9996800 D:10342400) frames: @ 639.7 fps (avg@ 612.8 fps) (L:0.0 U:0.0 D:639.7) Stats:
+{'loss_landlord': 1.2238304615020752,
+ 'loss_landlord_down': 1.5458170175552368,
+ 'loss_landlord_up': 1.6326061487197876,
+ 'mean_episode_return_landlord': 0.13676325976848602,
+ 'mean_episode_return_landlord_down': -0.1325550377368927,
+ 'mean_episode_return_landlord_up': -0.13342680037021637}
+[INFO:57858 dmc:233 2023-05-21 10:08:09,588] After 972800 (L:332800 U:316800 D:323200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8085639476776123,
+ 'loss_landlord_down': 0.893703281879425,
+ 'loss_landlord_up': 0.9066463112831116,
+ 'mean_episode_return_landlord': -0.20584823191165924,
+ 'mean_episode_return_landlord_down': 0.2291199415922165,
+ 'mean_episode_return_landlord_up': 0.23191066086292267}
+[INFO:57726 dmc:233 2023-05-21 10:08:09,741] After 31187200 (L:10848000 U:9996800 D:10342400) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2238304615020752,
+ 'loss_landlord_down': 1.5458170175552368,
+ 'loss_landlord_up': 1.6326061487197876,
+ 'mean_episode_return_landlord': 0.13676325976848602,
+ 'mean_episode_return_landlord_down': -0.1325550377368927,
+ 'mean_episode_return_landlord_up': -0.13342680037021637}
+[INFO:57858 dmc:233 2023-05-21 10:08:14,594] After 972800 (L:332800 U:316800 D:323200) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8085639476776123,
+ 'loss_landlord_down': 0.893703281879425,
+ 'loss_landlord_up': 0.9066463112831116,
+ 'mean_episode_return_landlord': -0.20584823191165924,
+ 'mean_episode_return_landlord_down': 0.2291199415922165,
+ 'mean_episode_return_landlord_up': 0.23191066086292267}
+[INFO:57726 dmc:233 2023-05-21 10:08:14,747] After 31190400 (L:10848000 U:10000000 D:10342400) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.2238304615020752,
+ 'loss_landlord_down': 1.5458170175552368,
+ 'loss_landlord_up': 2.0870232582092285,
+ 'mean_episode_return_landlord': 0.13676325976848602,
+ 'mean_episode_return_landlord_down': -0.1325550377368927,
+ 'mean_episode_return_landlord_up': -0.1349024772644043}
+[INFO:57858 dmc:233 2023-05-21 10:08:19,599] After 982400 (L:336000 U:320000 D:326400) frames: @ 1918.1 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:639.4) Stats:
+{'loss_landlord': 0.7819007635116577,
+ 'loss_landlord_down': 0.8655744791030884,
+ 'loss_landlord_up': 0.9006416201591492,
+ 'mean_episode_return_landlord': -0.19703416526317596,
+ 'mean_episode_return_landlord_down': 0.2199798971414566,
+ 'mean_episode_return_landlord_up': 0.22918832302093506}
+[INFO:57726 dmc:233 2023-05-21 10:08:19,749] After 31193600 (L:10851200 U:10000000 D:10342400) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.8013732433319092,
+ 'loss_landlord_down': 1.5458170175552368,
+ 'loss_landlord_up': 2.0870232582092285,
+ 'mean_episode_return_landlord': 0.13681891560554504,
+ 'mean_episode_return_landlord_down': -0.1325550377368927,
+ 'mean_episode_return_landlord_up': -0.1349024772644043}
+[INFO:57858 dmc:233 2023-05-21 10:08:24,605] After 982400 (L:336000 U:320000 D:326400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7819007635116577,
+ 'loss_landlord_down': 0.8655744791030884,
+ 'loss_landlord_up': 0.9006416201591492,
+ 'mean_episode_return_landlord': -0.19703416526317596,
+ 'mean_episode_return_landlord_down': 0.2199798971414566,
+ 'mean_episode_return_landlord_up': 0.22918832302093506}
+[INFO:57726 dmc:233 2023-05-21 10:08:24,752] After 31196800 (L:10851200 U:10000000 D:10345600) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 1.8013732433319092,
+ 'loss_landlord_down': 1.5337319374084473,
+ 'loss_landlord_up': 2.0870232582092285,
+ 'mean_episode_return_landlord': 0.13681891560554504,
+ 'mean_episode_return_landlord_down': -0.13462884724140167,
+ 'mean_episode_return_landlord_up': -0.1349024772644043}
+[INFO:57858 dmc:233 2023-05-21 10:08:29,610] After 982400 (L:336000 U:320000 D:326400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7819007635116577,
+ 'loss_landlord_down': 0.8655744791030884,
+ 'loss_landlord_up': 0.9006416201591492,
+ 'mean_episode_return_landlord': -0.19703416526317596,
+ 'mean_episode_return_landlord_down': 0.2199798971414566,
+ 'mean_episode_return_landlord_up': 0.22918832302093506}
+[INFO:57726 dmc:233 2023-05-21 10:08:29,758] After 31200000 (L:10851200 U:10003200 D:10345600) frames: @ 639.3 fps (avg@ 559.6 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 1.8013732433319092,
+ 'loss_landlord_down': 1.5337319374084473,
+ 'loss_landlord_up': 1.6034832000732422,
+ 'mean_episode_return_landlord': 0.13681891560554504,
+ 'mean_episode_return_landlord_down': -0.13462884724140167,
+ 'mean_episode_return_landlord_up': -0.1347755640745163}
+[INFO:57858 dmc:233 2023-05-21 10:08:34,616] After 988800 (L:336000 U:323200 D:329600) frames: @ 1278.7 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:639.4) Stats:
+{'loss_landlord': 0.7819007635116577,
+ 'loss_landlord_down': 0.9142481684684753,
+ 'loss_landlord_up': 0.9464572668075562,
+ 'mean_episode_return_landlord': -0.19703416526317596,
+ 'mean_episode_return_landlord_down': 0.2105141282081604,
+ 'mean_episode_return_landlord_up': 0.22204025089740753}
+[INFO:57726 dmc:233 2023-05-21 10:08:34,761] After 31203200 (L:10854400 U:10003200 D:10345600) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.6696521043777466,
+ 'loss_landlord_down': 1.5337319374084473,
+ 'loss_landlord_up': 1.6034832000732422,
+ 'mean_episode_return_landlord': 0.13845987617969513,
+ 'mean_episode_return_landlord_down': -0.13462884724140167,
+ 'mean_episode_return_landlord_up': -0.1347755640745163}
+[INFO:57858 dmc:233 2023-05-21 10:08:39,621] After 992000 (L:339200 U:323200 D:329600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8059210777282715,
+ 'loss_landlord_down': 0.9142481684684753,
+ 'loss_landlord_up': 0.9464572668075562,
+ 'mean_episode_return_landlord': -0.1874166876077652,
+ 'mean_episode_return_landlord_down': 0.2105141282081604,
+ 'mean_episode_return_landlord_up': 0.22204025089740753}
+[INFO:57726 dmc:233 2023-05-21 10:08:39,766] After 31206400 (L:10854400 U:10003200 D:10348800) frames: @ 639.4 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.6696521043777466,
+ 'loss_landlord_down': 1.7657302618026733,
+ 'loss_landlord_up': 1.6034832000732422,
+ 'mean_episode_return_landlord': 0.13845987617969513,
+ 'mean_episode_return_landlord_down': -0.13556326925754547,
+ 'mean_episode_return_landlord_up': -0.1347755640745163}
+[INFO:57858 dmc:233 2023-05-21 10:08:44,625] After 992000 (L:339200 U:323200 D:329600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8059210777282715,
+ 'loss_landlord_down': 0.9142481684684753,
+ 'loss_landlord_up': 0.9464572668075562,
+ 'mean_episode_return_landlord': -0.1874166876077652,
+ 'mean_episode_return_landlord_down': 0.2105141282081604,
+ 'mean_episode_return_landlord_up': 0.22204025089740753}
+[INFO:57726 dmc:233 2023-05-21 10:08:44,771] After 31206400 (L:10854400 U:10003200 D:10348800) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.6696521043777466,
+ 'loss_landlord_down': 1.7657302618026733,
+ 'loss_landlord_up': 1.6034832000732422,
+ 'mean_episode_return_landlord': 0.13845987617969513,
+ 'mean_episode_return_landlord_down': -0.13556326925754547,
+ 'mean_episode_return_landlord_up': -0.1347755640745163}
+[INFO:57858 dmc:233 2023-05-21 10:08:49,630] After 995200 (L:339200 U:326400 D:329600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.8059210777282715,
+ 'loss_landlord_down': 0.9142481684684753,
+ 'loss_landlord_up': 0.8868709206581116,
+ 'mean_episode_return_landlord': -0.1874166876077652,
+ 'mean_episode_return_landlord_down': 0.2105141282081604,
+ 'mean_episode_return_landlord_up': 0.21204949915409088}
+[INFO:57726 dmc:233 2023-05-21 10:08:49,772] After 31212800 (L:10857600 U:10006400 D:10348800) frames: @ 1279.7 fps (avg@ 586.3 fps) (L:639.8 U:639.8 D:0.0) Stats:
+{'loss_landlord': 1.3689794540405273,
+ 'loss_landlord_down': 1.7657302618026733,
+ 'loss_landlord_up': 2.0007035732269287,
+ 'mean_episode_return_landlord': 0.13895435631275177,
+ 'mean_episode_return_landlord_down': -0.13556326925754547,
+ 'mean_episode_return_landlord_up': -0.13420937955379486}
+[INFO:57858 dmc:233 2023-05-21 10:08:54,636] After 1001600 (L:342400 U:326400 D:332800) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.8021899461746216,
+ 'loss_landlord_down': 0.8672959804534912,
+ 'loss_landlord_up': 0.8868709206581116,
+ 'mean_episode_return_landlord': -0.1771552562713623,
+ 'mean_episode_return_landlord_down': 0.20069314539432526,
+ 'mean_episode_return_landlord_up': 0.21204949915409088}
+[INFO:57726 dmc:233 2023-05-21 10:08:54,778] After 31212800 (L:10857600 U:10006400 D:10348800) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3689794540405273,
+ 'loss_landlord_down': 1.7657302618026733,
+ 'loss_landlord_up': 2.0007035732269287,
+ 'mean_episode_return_landlord': 0.13895435631275177,
+ 'mean_episode_return_landlord_down': -0.13556326925754547,
+ 'mean_episode_return_landlord_up': -0.13420937955379486}
+[INFO:57858 dmc:233 2023-05-21 10:08:59,640] After 1001600 (L:342400 U:326400 D:332800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8021899461746216,
+ 'loss_landlord_down': 0.8672959804534912,
+ 'loss_landlord_up': 0.8868709206581116,
+ 'mean_episode_return_landlord': -0.1771552562713623,
+ 'mean_episode_return_landlord_down': 0.20069314539432526,
+ 'mean_episode_return_landlord_up': 0.21204949915409088}
+[INFO:57726 dmc:233 2023-05-21 10:08:59,783] After 31216000 (L:10857600 U:10006400 D:10352000) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.3689794540405273,
+ 'loss_landlord_down': 1.6654201745986938,
+ 'loss_landlord_up': 2.0007035732269287,
+ 'mean_episode_return_landlord': 0.13895435631275177,
+ 'mean_episode_return_landlord_down': -0.13868774473667145,
+ 'mean_episode_return_landlord_up': -0.13420937955379486}
+[INFO:57858 dmc:233 2023-05-21 10:09:04,646] After 1001600 (L:342400 U:326400 D:332800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8021899461746216,
+ 'loss_landlord_down': 0.8672959804534912,
+ 'loss_landlord_up': 0.8868709206581116,
+ 'mean_episode_return_landlord': -0.1771552562713623,
+ 'mean_episode_return_landlord_down': 0.20069314539432526,
+ 'mean_episode_return_landlord_up': 0.21204949915409088}
+[INFO:57726 dmc:233 2023-05-21 10:09:04,789] After 31222400 (L:10860800 U:10009600 D:10352000) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.3 U:639.3 D:0.0) Stats:
+{'loss_landlord': 1.8266314268112183,
+ 'loss_landlord_down': 1.6654201745986938,
+ 'loss_landlord_up': 1.9631222486495972,
+ 'mean_episode_return_landlord': 0.13982465863227844,
+ 'mean_episode_return_landlord_down': -0.13868774473667145,
+ 'mean_episode_return_landlord_up': -0.13438159227371216}
+[INFO:57858 dmc:233 2023-05-21 10:09:09,650] After 1011200 (L:345600 U:329600 D:336000) frames: @ 1918.7 fps (avg@ 586.2 fps) (L:639.6 U:639.6 D:639.6) Stats:
+{'loss_landlord': 0.8098016381263733,
+ 'loss_landlord_down': 0.8602288365364075,
+ 'loss_landlord_up': 0.8838174343109131,
+ 'mean_episode_return_landlord': -0.16722796857357025,
+ 'mean_episode_return_landlord_down': 0.1916072815656662,
+ 'mean_episode_return_landlord_up': 0.20314715802669525}
+[INFO:57726 dmc:233 2023-05-21 10:09:09,795] After 31222400 (L:10860800 U:10009600 D:10352000) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.8266314268112183,
+ 'loss_landlord_down': 1.6654201745986938,
+ 'loss_landlord_up': 1.9631222486495972,
+ 'mean_episode_return_landlord': 0.13982465863227844,
+ 'mean_episode_return_landlord_down': -0.13868774473667145,
+ 'mean_episode_return_landlord_up': -0.13438159227371216}
+[INFO:57858 dmc:233 2023-05-21 10:09:14,652] After 1011200 (L:345600 U:329600 D:336000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8098016381263733,
+ 'loss_landlord_down': 0.8602288365364075,
+ 'loss_landlord_up': 0.8838174343109131,
+ 'mean_episode_return_landlord': -0.16722796857357025,
+ 'mean_episode_return_landlord_down': 0.1916072815656662,
+ 'mean_episode_return_landlord_up': 0.20314715802669525}
+[INFO:57726 dmc:194 2023-05-21 10:09:14,800] Saving checkpoint to douzero_checkpoints/douzero/model.tar
+[INFO:57726 dmc:233 2023-05-21 10:09:14,928] After 31225600 (L:10860800 U:10009600 D:10355200) frames: @ 623.5 fps (avg@ 585.6 fps) (L:0.0 U:0.0 D:623.5) Stats:
+{'loss_landlord': 1.8266314268112183,
+ 'loss_landlord_down': 1.2634541988372803,
+ 'loss_landlord_up': 1.9631222486495972,
+ 'mean_episode_return_landlord': 0.13982465863227844,
+ 'mean_episode_return_landlord_down': -0.13838818669319153,
+ 'mean_episode_return_landlord_up': -0.13438159227371216}
+[INFO:57858 dmc:194 2023-05-21 10:09:19,656] Saving checkpoint to douzero_checkpoints_wp/douzero/model.tar
+[INFO:57858 dmc:233 2023-05-21 10:09:19,766] After 1011200 (L:345600 U:329600 D:336000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8098016381263733,
+ 'loss_landlord_down': 0.8602288365364075,
+ 'loss_landlord_up': 0.8838174343109131,
+ 'mean_episode_return_landlord': -0.16722796857357025,
+ 'mean_episode_return_landlord_down': 0.1916072815656662,
+ 'mean_episode_return_landlord_up': 0.20314715802669525}
+[INFO:57726 dmc:233 2023-05-21 10:09:19,933] After 31228800 (L:10864000 U:10009600 D:10355200) frames: @ 639.4 fps (avg@ 585.6 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3523839712142944,
+ 'loss_landlord_down': 1.2634541988372803,
+ 'loss_landlord_up': 1.9631222486495972,
+ 'mean_episode_return_landlord': 0.1404016613960266,
+ 'mean_episode_return_landlord_down': -0.13838818669319153,
+ 'mean_episode_return_landlord_up': -0.13438159227371216}
+[INFO:57858 dmc:233 2023-05-21 10:09:24,771] After 1020800 (L:348800 U:332800 D:339200) frames: @ 1918.1 fps (avg@ 612.8 fps) (L:639.4 U:639.4 D:639.4) Stats:
+{'loss_landlord': 0.7695103883743286,
+ 'loss_landlord_down': 0.8561679720878601,
+ 'loss_landlord_up': 0.8499045968055725,
+ 'mean_episode_return_landlord': -0.15760557353496552,
+ 'mean_episode_return_landlord_down': 0.18330806493759155,
+ 'mean_episode_return_landlord_up': 0.19421638548374176}
+[INFO:57726 dmc:233 2023-05-21 10:09:24,939] After 31232000 (L:10864000 U:10012800 D:10355200) frames: @ 639.3 fps (avg@ 585.6 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 1.3523839712142944,
+ 'loss_landlord_down': 1.2634541988372803,
+ 'loss_landlord_up': 1.6735742092132568,
+ 'mean_episode_return_landlord': 0.1404016613960266,
+ 'mean_episode_return_landlord_down': -0.13838818669319153,
+ 'mean_episode_return_landlord_up': -0.1371973752975464}
+[INFO:57858 dmc:233 2023-05-21 10:09:29,776] After 1020800 (L:348800 U:332800 D:339200) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7695103883743286,
+ 'loss_landlord_down': 0.8561679720878601,
+ 'loss_landlord_up': 0.8499045968055725,
+ 'mean_episode_return_landlord': -0.15760557353496552,
+ 'mean_episode_return_landlord_down': 0.18330806493759155,
+ 'mean_episode_return_landlord_up': 0.19421638548374176}
+[INFO:57726 dmc:233 2023-05-21 10:09:29,944] After 31235200 (L:10864000 U:10012800 D:10358400) frames: @ 639.4 fps (avg@ 585.6 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.3523839712142944,
+ 'loss_landlord_down': 1.351623773574829,
+ 'loss_landlord_up': 1.6735742092132568,
+ 'mean_episode_return_landlord': 0.1404016613960266,
+ 'mean_episode_return_landlord_down': -0.1383928656578064,
+ 'mean_episode_return_landlord_up': -0.1371973752975464}
+[INFO:57858 dmc:233 2023-05-21 10:09:34,782] After 1020800 (L:348800 U:332800 D:339200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7695103883743286,
+ 'loss_landlord_down': 0.8561679720878601,
+ 'loss_landlord_up': 0.8499045968055725,
+ 'mean_episode_return_landlord': -0.15760557353496552,
+ 'mean_episode_return_landlord_down': 0.18330806493759155,
+ 'mean_episode_return_landlord_up': 0.19421638548374176}
+[INFO:57726 dmc:233 2023-05-21 10:09:34,950] After 31235200 (L:10864000 U:10012800 D:10358400) frames: @ 0.0 fps (avg@ 558.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3523839712142944,
+ 'loss_landlord_down': 1.351623773574829,
+ 'loss_landlord_up': 1.6735742092132568,
+ 'mean_episode_return_landlord': 0.1404016613960266,
+ 'mean_episode_return_landlord_down': -0.1383928656578064,
+ 'mean_episode_return_landlord_up': -0.1371973752975464}
+[INFO:57858 dmc:233 2023-05-21 10:09:39,784] After 1020800 (L:348800 U:332800 D:339200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7695103883743286,
+ 'loss_landlord_down': 0.8561679720878601,
+ 'loss_landlord_up': 0.8499045968055725,
+ 'mean_episode_return_landlord': -0.15760557353496552,
+ 'mean_episode_return_landlord_down': 0.18330806493759155,
+ 'mean_episode_return_landlord_up': 0.19421638548374176}
+[INFO:57726 dmc:233 2023-05-21 10:09:39,954] After 31241600 (L:10867200 U:10016000 D:10358400) frames: @ 1279.2 fps (avg@ 585.6 fps) (L:639.6 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.3120434284210205,
+ 'loss_landlord_down': 1.351623773574829,
+ 'loss_landlord_up': 1.5219091176986694,
+ 'mean_episode_return_landlord': 0.1389680951833725,
+ 'mean_episode_return_landlord_down': -0.1383928656578064,
+ 'mean_episode_return_landlord_up': -0.13653331995010376}
+[INFO:57858 dmc:233 2023-05-21 10:09:44,788] After 1030400 (L:352000 U:336000 D:342400) frames: @ 1918.8 fps (avg@ 586.2 fps) (L:639.6 U:639.6 D:639.6) Stats:
+{'loss_landlord': 0.7528217434883118,
+ 'loss_landlord_down': 0.8393688797950745,
+ 'loss_landlord_up': 0.8625158667564392,
+ 'mean_episode_return_landlord': -0.146615669131279,
+ 'mean_episode_return_landlord_down': 0.17235839366912842,
+ 'mean_episode_return_landlord_up': 0.1840488761663437}
+[INFO:57726 dmc:233 2023-05-21 10:09:44,957] After 31241600 (L:10867200 U:10016000 D:10358400) frames: @ 0.0 fps (avg@ 558.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3120434284210205,
+ 'loss_landlord_down': 1.351623773574829,
+ 'loss_landlord_up': 1.5219091176986694,
+ 'mean_episode_return_landlord': 0.1389680951833725,
+ 'mean_episode_return_landlord_down': -0.1383928656578064,
+ 'mean_episode_return_landlord_up': -0.13653331995010376}
+[INFO:57858 dmc:233 2023-05-21 10:09:49,794] After 1030400 (L:352000 U:336000 D:342400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7528217434883118,
+ 'loss_landlord_down': 0.8393688797950745,
+ 'loss_landlord_up': 0.8625158667564392,
+ 'mean_episode_return_landlord': -0.146615669131279,
+ 'mean_episode_return_landlord_down': 0.17235839366912842,
+ 'mean_episode_return_landlord_up': 0.1840488761663437}
+[INFO:57726 dmc:233 2023-05-21 10:09:49,960] After 31244800 (L:10867200 U:10016000 D:10361600) frames: @ 639.6 fps (avg@ 558.9 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 1.3120434284210205,
+ 'loss_landlord_down': 1.5148742198944092,
+ 'loss_landlord_up': 1.5219091176986694,
+ 'mean_episode_return_landlord': 0.1389680951833725,
+ 'mean_episode_return_landlord_down': -0.1389249712228775,
+ 'mean_episode_return_landlord_up': -0.13653331995010376}
+[INFO:57858 dmc:233 2023-05-21 10:09:54,797] After 1030400 (L:352000 U:336000 D:342400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7528217434883118,
+ 'loss_landlord_down': 0.8393688797950745,
+ 'loss_landlord_up': 0.8625158667564392,
+ 'mean_episode_return_landlord': -0.146615669131279,
+ 'mean_episode_return_landlord_down': 0.17235839366912842,
+ 'mean_episode_return_landlord_up': 0.1840488761663437}
+[INFO:57726 dmc:233 2023-05-21 10:09:54,966] After 31248000 (L:10870400 U:10016000 D:10361600) frames: @ 639.4 fps (avg@ 558.9 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3535101413726807,
+ 'loss_landlord_down': 1.5148742198944092,
+ 'loss_landlord_up': 1.5219091176986694,
+ 'mean_episode_return_landlord': 0.13905592262744904,
+ 'mean_episode_return_landlord_down': -0.1389249712228775,
+ 'mean_episode_return_landlord_up': -0.13653331995010376}
+[INFO:57858 dmc:233 2023-05-21 10:09:59,800] After 1040000 (L:355200 U:339200 D:345600) frames: @ 1918.8 fps (avg@ 586.2 fps) (L:639.6 U:639.6 D:639.6) Stats:
+{'loss_landlord': 0.8615702390670776,
+ 'loss_landlord_down': 0.954687774181366,
+ 'loss_landlord_up': 0.9759838581085205,
+ 'mean_episode_return_landlord': -0.13754981756210327,
+ 'mean_episode_return_landlord_down': 0.1631270945072174,
+ 'mean_episode_return_landlord_up': 0.17624782025814056}
+[INFO:57726 dmc:233 2023-05-21 10:09:59,969] After 31251200 (L:10870400 U:10019200 D:10361600) frames: @ 639.7 fps (avg@ 558.9 fps) (L:0.0 U:639.7 D:0.0) Stats:
+{'loss_landlord': 1.3535101413726807,
+ 'loss_landlord_down': 1.5148742198944092,
+ 'loss_landlord_up': 1.8148449659347534,
+ 'mean_episode_return_landlord': 0.13905592262744904,
+ 'mean_episode_return_landlord_down': -0.1389249712228775,
+ 'mean_episode_return_landlord_up': -0.13920095562934875}
+[INFO:57858 dmc:233 2023-05-21 10:10:04,806] After 1040000 (L:355200 U:339200 D:345600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8615702390670776,
+ 'loss_landlord_down': 0.954687774181366,
+ 'loss_landlord_up': 0.9759838581085205,
+ 'mean_episode_return_landlord': -0.13754981756210327,
+ 'mean_episode_return_landlord_down': 0.1631270945072174,
+ 'mean_episode_return_landlord_up': 0.17624782025814056}
+[INFO:57726 dmc:233 2023-05-21 10:10:04,974] After 31254400 (L:10870400 U:10019200 D:10364800) frames: @ 639.4 fps (avg@ 558.9 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.3535101413726807,
+ 'loss_landlord_down': 1.7468444108963013,
+ 'loss_landlord_up': 1.8148449659347534,
+ 'mean_episode_return_landlord': 0.13905592262744904,
+ 'mean_episode_return_landlord_down': -0.13908885419368744,
+ 'mean_episode_return_landlord_up': -0.13920095562934875}
+[INFO:57858 dmc:233 2023-05-21 10:10:09,811] After 1040000 (L:355200 U:339200 D:345600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8615702390670776,
+ 'loss_landlord_down': 0.954687774181366,
+ 'loss_landlord_up': 0.9759838581085205,
+ 'mean_episode_return_landlord': -0.13754981756210327,
+ 'mean_episode_return_landlord_down': 0.1631270945072174,
+ 'mean_episode_return_landlord_up': 0.17624782025814056}
+[INFO:57726 dmc:233 2023-05-21 10:10:09,980] After 31257600 (L:10873600 U:10019200 D:10364800) frames: @ 639.3 fps (avg@ 585.5 fps) (L:639.3 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.682098627090454,
+ 'loss_landlord_down': 1.7468444108963013,
+ 'loss_landlord_up': 1.8148449659347534,
+ 'mean_episode_return_landlord': 0.14018268883228302,
+ 'mean_episode_return_landlord_down': -0.13908885419368744,
+ 'mean_episode_return_landlord_up': -0.13920095562934875}
+[INFO:57858 dmc:233 2023-05-21 10:10:14,817] After 1046400 (L:358400 U:339200 D:348800) frames: @ 1278.8 fps (avg@ 612.8 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.8027616739273071,
+ 'loss_landlord_down': 0.8663464188575745,
+ 'loss_landlord_up': 0.9759838581085205,
+ 'mean_episode_return_landlord': -0.12742730975151062,
+ 'mean_episode_return_landlord_down': 0.15266747772693634,
+ 'mean_episode_return_landlord_up': 0.17624782025814056}
+[INFO:57726 dmc:233 2023-05-21 10:10:14,985] After 31260800 (L:10873600 U:10022400 D:10364800) frames: @ 639.3 fps (avg@ 585.5 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 1.682098627090454,
+ 'loss_landlord_down': 1.7468444108963013,
+ 'loss_landlord_up': 1.6587371826171875,
+ 'mean_episode_return_landlord': 0.14018268883228302,
+ 'mean_episode_return_landlord_down': -0.13908885419368744,
+ 'mean_episode_return_landlord_up': -0.13811561465263367}
+[INFO:57858 dmc:233 2023-05-21 10:10:19,822] After 1049600 (L:358400 U:342400 D:348800) frames: @ 639.3 fps (avg@ 559.5 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 0.8027616739273071,
+ 'loss_landlord_down': 0.8663464188575745,
+ 'loss_landlord_up': 0.9220205545425415,
+ 'mean_episode_return_landlord': -0.12742730975151062,
+ 'mean_episode_return_landlord_down': 0.15266747772693634,
+ 'mean_episode_return_landlord_up': 0.16583091020584106}
+[INFO:57726 dmc:233 2023-05-21 10:10:19,991] After 31264000 (L:10873600 U:10022400 D:10368000) frames: @ 639.4 fps (avg@ 585.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.682098627090454,
+ 'loss_landlord_down': 1.5300180912017822,
+ 'loss_landlord_up': 1.6587371826171875,
+ 'mean_episode_return_landlord': 0.14018268883228302,
+ 'mean_episode_return_landlord_down': -0.13865934312343597,
+ 'mean_episode_return_landlord_up': -0.13811561465263367}
+[INFO:57858 dmc:233 2023-05-21 10:10:24,828] After 1049600 (L:358400 U:342400 D:348800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8027616739273071,
+ 'loss_landlord_down': 0.8663464188575745,
+ 'loss_landlord_up': 0.9220205545425415,
+ 'mean_episode_return_landlord': -0.12742730975151062,
+ 'mean_episode_return_landlord_down': 0.15266747772693634,
+ 'mean_episode_return_landlord_up': 0.16583091020584106}
+[INFO:57726 dmc:233 2023-05-21 10:10:24,997] After 31267200 (L:10876800 U:10022400 D:10368000) frames: @ 639.3 fps (avg@ 585.5 fps) (L:639.3 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3582814931869507,
+ 'loss_landlord_down': 1.5300180912017822,
+ 'loss_landlord_up': 1.6587371826171875,
+ 'mean_episode_return_landlord': 0.14105401933193207,
+ 'mean_episode_return_landlord_down': -0.13865934312343597,
+ 'mean_episode_return_landlord_up': -0.13811561465263367}
+[INFO:57858 dmc:233 2023-05-21 10:10:29,834] After 1052800 (L:361600 U:342400 D:348800) frames: @ 639.3 fps (avg@ 586.2 fps) (L:639.3 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7221677899360657,
+ 'loss_landlord_down': 0.8663464188575745,
+ 'loss_landlord_up': 0.9220205545425415,
+ 'mean_episode_return_landlord': -0.11584507673978806,
+ 'mean_episode_return_landlord_down': 0.15266747772693634,
+ 'mean_episode_return_landlord_up': 0.16583091020584106}
+[INFO:57726 dmc:233 2023-05-21 10:10:29,999] After 31270400 (L:10876800 U:10025600 D:10368000) frames: @ 639.7 fps (avg@ 585.5 fps) (L:0.0 U:639.7 D:0.0) Stats:
+{'loss_landlord': 1.3582814931869507,
+ 'loss_landlord_down': 1.5300180912017822,
+ 'loss_landlord_up': 1.7206426858901978,
+ 'mean_episode_return_landlord': 0.14105401933193207,
+ 'mean_episode_return_landlord_down': -0.13865934312343597,
+ 'mean_episode_return_landlord_up': -0.13865803182125092}
+[INFO:57858 dmc:233 2023-05-21 10:10:34,838] After 1059200 (L:361600 U:345600 D:352000) frames: @ 1279.1 fps (avg@ 586.2 fps) (L:0.0 U:639.6 D:639.6) Stats:
+{'loss_landlord': 0.7221677899360657,
+ 'loss_landlord_down': 0.8468626141548157,
+ 'loss_landlord_up': 0.8581569194793701,
+ 'mean_episode_return_landlord': -0.11584507673978806,
+ 'mean_episode_return_landlord_down': 0.14162768423557281,
+ 'mean_episode_return_landlord_up': 0.15447449684143066}
+[INFO:57726 dmc:233 2023-05-21 10:10:35,001] After 31273600 (L:10876800 U:10025600 D:10371200) frames: @ 639.9 fps (avg@ 585.5 fps) (L:0.0 U:0.0 D:639.9) Stats:
+{'loss_landlord': 1.3582814931869507,
+ 'loss_landlord_down': 1.3457109928131104,
+ 'loss_landlord_up': 1.7206426858901978,
+ 'mean_episode_return_landlord': 0.14105401933193207,
+ 'mean_episode_return_landlord_down': -0.13892382383346558,
+ 'mean_episode_return_landlord_up': -0.13865803182125092}
+[INFO:57858 dmc:233 2023-05-21 10:10:39,843] After 1059200 (L:361600 U:345600 D:352000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7221677899360657,
+ 'loss_landlord_down': 0.8468626141548157,
+ 'loss_landlord_up': 0.8581569194793701,
+ 'mean_episode_return_landlord': -0.11584507673978806,
+ 'mean_episode_return_landlord_down': 0.14162768423557281,
+ 'mean_episode_return_landlord_up': 0.15447449684143066}
+[INFO:57726 dmc:233 2023-05-21 10:10:40,004] After 31276800 (L:10880000 U:10025600 D:10371200) frames: @ 639.7 fps (avg@ 585.5 fps) (L:639.7 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2368371486663818,
+ 'loss_landlord_down': 1.3457109928131104,
+ 'loss_landlord_up': 1.7206426858901978,
+ 'mean_episode_return_landlord': 0.14067569375038147,
+ 'mean_episode_return_landlord_down': -0.13892382383346558,
+ 'mean_episode_return_landlord_up': -0.13865803182125092}
+[INFO:57858 dmc:233 2023-05-21 10:10:44,848] After 1059200 (L:361600 U:345600 D:352000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7221677899360657,
+ 'loss_landlord_down': 0.8468626141548157,
+ 'loss_landlord_up': 0.8581569194793701,
+ 'mean_episode_return_landlord': -0.11584507673978806,
+ 'mean_episode_return_landlord_down': 0.14162768423557281,
+ 'mean_episode_return_landlord_up': 0.15447449684143066}
+[INFO:57726 dmc:233 2023-05-21 10:10:45,010] After 31276800 (L:10880000 U:10025600 D:10371200) frames: @ 0.0 fps (avg@ 585.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2368371486663818,
+ 'loss_landlord_down': 1.3457109928131104,
+ 'loss_landlord_up': 1.7206426858901978,
+ 'mean_episode_return_landlord': 0.14067569375038147,
+ 'mean_episode_return_landlord_down': -0.13892382383346558,
+ 'mean_episode_return_landlord_up': -0.13865803182125092}
+[INFO:57858 dmc:233 2023-05-21 10:10:49,853] After 1065600 (L:364800 U:345600 D:355200) frames: @ 1278.8 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7951066493988037,
+ 'loss_landlord_down': 0.870756208896637,
+ 'loss_landlord_up': 0.8581569194793701,
+ 'mean_episode_return_landlord': -0.10632903128862381,
+ 'mean_episode_return_landlord_down': 0.13195902109146118,
+ 'mean_episode_return_landlord_up': 0.15447449684143066}
+[INFO:57726 dmc:233 2023-05-21 10:10:50,015] After 31280000 (L:10880000 U:10028800 D:10371200) frames: @ 639.4 fps (avg@ 558.9 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.2368371486663818,
+ 'loss_landlord_down': 1.3457109928131104,
+ 'loss_landlord_up': 1.7287415266036987,
+ 'mean_episode_return_landlord': 0.14067569375038147,
+ 'mean_episode_return_landlord_down': -0.13892382383346558,
+ 'mean_episode_return_landlord_up': -0.1390146166086197}
+[INFO:57858 dmc:233 2023-05-21 10:10:54,859] After 1068800 (L:364800 U:348800 D:355200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7951066493988037,
+ 'loss_landlord_down': 0.870756208896637,
+ 'loss_landlord_up': 0.86459881067276,
+ 'mean_episode_return_landlord': -0.10632903128862381,
+ 'mean_episode_return_landlord_down': 0.13195902109146118,
+ 'mean_episode_return_landlord_up': 0.1444637030363083}
+[INFO:57726 dmc:233 2023-05-21 10:10:55,021] After 31283200 (L:10880000 U:10028800 D:10374400) frames: @ 639.4 fps (avg@ 585.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2368371486663818,
+ 'loss_landlord_down': 1.5104773044586182,
+ 'loss_landlord_up': 1.7287415266036987,
+ 'mean_episode_return_landlord': 0.14067569375038147,
+ 'mean_episode_return_landlord_down': -0.1376824676990509,
+ 'mean_episode_return_landlord_up': -0.1390146166086197}
+[INFO:57858 dmc:233 2023-05-21 10:10:59,864] After 1068800 (L:364800 U:348800 D:355200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7951066493988037,
+ 'loss_landlord_down': 0.870756208896637,
+ 'loss_landlord_up': 0.86459881067276,
+ 'mean_episode_return_landlord': -0.10632903128862381,
+ 'mean_episode_return_landlord_down': 0.13195902109146118,
+ 'mean_episode_return_landlord_up': 0.1444637030363083}
+[INFO:57726 dmc:233 2023-05-21 10:11:00,026] After 31286400 (L:10883200 U:10028800 D:10374400) frames: @ 639.4 fps (avg@ 585.5 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.454937219619751,
+ 'loss_landlord_down': 1.5104773044586182,
+ 'loss_landlord_up': 1.7287415266036987,
+ 'mean_episode_return_landlord': 0.1383647620677948,
+ 'mean_episode_return_landlord_down': -0.1376824676990509,
+ 'mean_episode_return_landlord_up': -0.1390146166086197}
+[INFO:57858 dmc:233 2023-05-21 10:11:04,868] After 1072000 (L:368000 U:348800 D:355200) frames: @ 639.6 fps (avg@ 586.2 fps) (L:639.6 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.72177654504776,
+ 'loss_landlord_down': 0.870756208896637,
+ 'loss_landlord_up': 0.86459881067276,
+ 'mean_episode_return_landlord': -0.09735996276140213,
+ 'mean_episode_return_landlord_down': 0.13195902109146118,
+ 'mean_episode_return_landlord_up': 0.1444637030363083}
+[INFO:57726 dmc:233 2023-05-21 10:11:05,028] After 31289600 (L:10883200 U:10032000 D:10374400) frames: @ 639.9 fps (avg@ 558.9 fps) (L:0.0 U:639.9 D:0.0) Stats:
+{'loss_landlord': 1.454937219619751,
+ 'loss_landlord_down': 1.5104773044586182,
+ 'loss_landlord_up': 1.5092594623565674,
+ 'mean_episode_return_landlord': 0.1383647620677948,
+ 'mean_episode_return_landlord_down': -0.1376824676990509,
+ 'mean_episode_return_landlord_up': -0.13758830726146698}
+[INFO:57858 dmc:233 2023-05-21 10:11:09,874] After 1078400 (L:368000 U:352000 D:358400) frames: @ 1278.7 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:639.4) Stats:
+{'loss_landlord': 0.72177654504776,
+ 'loss_landlord_down': 0.8525609970092773,
+ 'loss_landlord_up': 0.7884671688079834,
+ 'mean_episode_return_landlord': -0.09735996276140213,
+ 'mean_episode_return_landlord_down': 0.12217595428228378,
+ 'mean_episode_return_landlord_up': 0.13565225899219513}
+[INFO:57726 dmc:233 2023-05-21 10:11:10,033] After 31292800 (L:10883200 U:10032000 D:10377600) frames: @ 639.4 fps (avg@ 585.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.454937219619751,
+ 'loss_landlord_down': 1.3514641523361206,
+ 'loss_landlord_up': 1.5092594623565674,
+ 'mean_episode_return_landlord': 0.1383647620677948,
+ 'mean_episode_return_landlord_down': -0.13852143287658691,
+ 'mean_episode_return_landlord_up': -0.13758830726146698}
+[INFO:57858 dmc:233 2023-05-21 10:11:14,878] After 1078400 (L:368000 U:352000 D:358400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.72177654504776,
+ 'loss_landlord_down': 0.8525609970092773,
+ 'loss_landlord_up': 0.7884671688079834,
+ 'mean_episode_return_landlord': -0.09735996276140213,
+ 'mean_episode_return_landlord_down': 0.12217595428228378,
+ 'mean_episode_return_landlord_up': 0.13565225899219513}
+[INFO:57726 dmc:233 2023-05-21 10:11:15,039] After 31296000 (L:10886400 U:10032000 D:10377600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2687681913375854,
+ 'loss_landlord_down': 1.3514641523361206,
+ 'loss_landlord_up': 1.5092594623565674,
+ 'mean_episode_return_landlord': 0.1375177949666977,
+ 'mean_episode_return_landlord_down': -0.13852143287658691,
+ 'mean_episode_return_landlord_up': -0.13758830726146698}
+[INFO:57858 dmc:233 2023-05-21 10:11:19,884] After 1081600 (L:371200 U:352000 D:358400) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6533160209655762,
+ 'loss_landlord_down': 0.8525609970092773,
+ 'loss_landlord_up': 0.7884671688079834,
+ 'mean_episode_return_landlord': -0.08762969076633453,
+ 'mean_episode_return_landlord_down': 0.12217595428228378,
+ 'mean_episode_return_landlord_up': 0.13565225899219513}
+[INFO:57726 dmc:233 2023-05-21 10:11:20,041] After 31296000 (L:10886400 U:10032000 D:10377600) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2687681913375854,
+ 'loss_landlord_down': 1.3514641523361206,
+ 'loss_landlord_up': 1.5092594623565674,
+ 'mean_episode_return_landlord': 0.1375177949666977,
+ 'mean_episode_return_landlord_down': -0.13852143287658691,
+ 'mean_episode_return_landlord_up': -0.13758830726146698}
+[INFO:57858 dmc:233 2023-05-21 10:11:24,889] After 1084800 (L:371200 U:352000 D:361600) frames: @ 639.4 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.6533160209655762,
+ 'loss_landlord_down': 0.8073803782463074,
+ 'loss_landlord_up': 0.7884671688079834,
+ 'mean_episode_return_landlord': -0.08762969076633453,
+ 'mean_episode_return_landlord_down': 0.1121433675289154,
+ 'mean_episode_return_landlord_up': 0.13565225899219513}
+[INFO:57726 dmc:233 2023-05-21 10:11:25,044] After 31299200 (L:10886400 U:10035200 D:10377600) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.2687681913375854,
+ 'loss_landlord_down': 1.3514641523361206,
+ 'loss_landlord_up': 1.9041303396224976,
+ 'mean_episode_return_landlord': 0.1375177949666977,
+ 'mean_episode_return_landlord_down': -0.13852143287658691,
+ 'mean_episode_return_landlord_up': -0.13789503276348114}
+[INFO:57858 dmc:233 2023-05-21 10:11:29,894] After 1088000 (L:371200 U:355200 D:361600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.6533160209655762,
+ 'loss_landlord_down': 0.8073803782463074,
+ 'loss_landlord_up': 0.8160520792007446,
+ 'mean_episode_return_landlord': -0.08762969076633453,
+ 'mean_episode_return_landlord_down': 0.1121433675289154,
+ 'mean_episode_return_landlord_up': 0.125544473528862}
+[INFO:57726 dmc:233 2023-05-21 10:11:30,050] After 31305600 (L:10889600 U:10035200 D:10380800) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.4907013177871704,
+ 'loss_landlord_down': 1.6824336051940918,
+ 'loss_landlord_up': 1.9041303396224976,
+ 'mean_episode_return_landlord': 0.13728103041648865,
+ 'mean_episode_return_landlord_down': -0.13944751024246216,
+ 'mean_episode_return_landlord_up': -0.13789503276348114}
+[INFO:57858 dmc:233 2023-05-21 10:11:34,899] After 1088000 (L:371200 U:355200 D:361600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6533160209655762,
+ 'loss_landlord_down': 0.8073803782463074,
+ 'loss_landlord_up': 0.8160520792007446,
+ 'mean_episode_return_landlord': -0.08762969076633453,
+ 'mean_episode_return_landlord_down': 0.1121433675289154,
+ 'mean_episode_return_landlord_up': 0.125544473528862}
+[INFO:57726 dmc:233 2023-05-21 10:11:35,055] After 31305600 (L:10889600 U:10035200 D:10380800) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4907013177871704,
+ 'loss_landlord_down': 1.6824336051940918,
+ 'loss_landlord_up': 1.9041303396224976,
+ 'mean_episode_return_landlord': 0.13728103041648865,
+ 'mean_episode_return_landlord_down': -0.13944751024246216,
+ 'mean_episode_return_landlord_up': -0.13789503276348114}
+[INFO:57858 dmc:233 2023-05-21 10:11:39,905] After 1091200 (L:374400 U:355200 D:361600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6468891501426697,
+ 'loss_landlord_down': 0.8073803782463074,
+ 'loss_landlord_up': 0.8160520792007446,
+ 'mean_episode_return_landlord': -0.07873867452144623,
+ 'mean_episode_return_landlord_down': 0.1121433675289154,
+ 'mean_episode_return_landlord_up': 0.125544473528862}
+[INFO:57726 dmc:233 2023-05-21 10:11:40,057] After 31308800 (L:10889600 U:10038400 D:10380800) frames: @ 639.8 fps (avg@ 559.6 fps) (L:0.0 U:639.8 D:0.0) Stats:
+{'loss_landlord': 1.4907013177871704,
+ 'loss_landlord_down': 1.6824336051940918,
+ 'loss_landlord_up': 1.5233733654022217,
+ 'mean_episode_return_landlord': 0.13728103041648865,
+ 'mean_episode_return_landlord_down': -0.13944751024246216,
+ 'mean_episode_return_landlord_up': -0.1377582848072052}
+[INFO:57858 dmc:233 2023-05-21 10:11:44,908] After 1097600 (L:374400 U:358400 D:364800) frames: @ 1279.2 fps (avg@ 559.5 fps) (L:0.0 U:639.6 D:639.6) Stats:
+{'loss_landlord': 0.6468891501426697,
+ 'loss_landlord_down': 0.7463634610176086,
+ 'loss_landlord_up': 0.8009241819381714,
+ 'mean_episode_return_landlord': -0.07873867452144623,
+ 'mean_episode_return_landlord_down': 0.10259384661912918,
+ 'mean_episode_return_landlord_up': 0.11544985324144363}
+[INFO:57726 dmc:233 2023-05-21 10:11:45,058] After 31315200 (L:10892800 U:10038400 D:10384000) frames: @ 1279.8 fps (avg@ 612.9 fps) (L:639.9 U:0.0 D:639.9) Stats:
+{'loss_landlord': 1.8300222158432007,
+ 'loss_landlord_down': 1.564282774925232,
+ 'loss_landlord_up': 1.5233733654022217,
+ 'mean_episode_return_landlord': 0.1377960443496704,
+ 'mean_episode_return_landlord_down': -0.1402566134929657,
+ 'mean_episode_return_landlord_up': -0.1377582848072052}
+[INFO:57858 dmc:233 2023-05-21 10:11:49,913] After 1097600 (L:374400 U:358400 D:364800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6468891501426697,
+ 'loss_landlord_down': 0.7463634610176086,
+ 'loss_landlord_up': 0.8009241819381714,
+ 'mean_episode_return_landlord': -0.07873867452144623,
+ 'mean_episode_return_landlord_down': 0.10259384661912918,
+ 'mean_episode_return_landlord_up': 0.11544985324144363}
+[INFO:57726 dmc:233 2023-05-21 10:11:50,063] After 31315200 (L:10892800 U:10038400 D:10384000) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.8300222158432007,
+ 'loss_landlord_down': 1.564282774925232,
+ 'loss_landlord_up': 1.5233733654022217,
+ 'mean_episode_return_landlord': 0.1377960443496704,
+ 'mean_episode_return_landlord_down': -0.1402566134929657,
+ 'mean_episode_return_landlord_up': -0.1377582848072052}
+[INFO:57858 dmc:233 2023-05-21 10:11:54,918] After 1100800 (L:377600 U:358400 D:364800) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6945385336875916,
+ 'loss_landlord_down': 0.7463634610176086,
+ 'loss_landlord_up': 0.8009241819381714,
+ 'mean_episode_return_landlord': -0.06863749027252197,
+ 'mean_episode_return_landlord_down': 0.10259384661912918,
+ 'mean_episode_return_landlord_up': 0.11544985324144363}
+[INFO:57726 dmc:233 2023-05-21 10:11:55,069] After 31315200 (L:10892800 U:10038400 D:10384000) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.8300222158432007,
+ 'loss_landlord_down': 1.564282774925232,
+ 'loss_landlord_up': 1.5233733654022217,
+ 'mean_episode_return_landlord': 0.1377960443496704,
+ 'mean_episode_return_landlord_down': -0.1402566134929657,
+ 'mean_episode_return_landlord_up': -0.1377582848072052}
+[INFO:57858 dmc:233 2023-05-21 10:11:59,921] After 1104000 (L:377600 U:358400 D:368000) frames: @ 639.8 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.6945385336875916,
+ 'loss_landlord_down': 0.8928831219673157,
+ 'loss_landlord_up': 0.8009241819381714,
+ 'mean_episode_return_landlord': -0.06863749027252197,
+ 'mean_episode_return_landlord_down': 0.09258095175027847,
+ 'mean_episode_return_landlord_up': 0.11544985324144363}
+[INFO:57726 dmc:233 2023-05-21 10:12:00,074] After 31324800 (L:10896000 U:10041600 D:10387200) frames: @ 1918.1 fps (avg@ 612.9 fps) (L:639.4 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.791644811630249,
+ 'loss_landlord_down': 1.6466336250305176,
+ 'loss_landlord_up': 2.070420265197754,
+ 'mean_episode_return_landlord': 0.1391139030456543,
+ 'mean_episode_return_landlord_down': -0.13941992819309235,
+ 'mean_episode_return_landlord_up': -0.13920773565769196}
+[INFO:57858 dmc:233 2023-05-21 10:12:04,926] After 1107200 (L:377600 U:361600 D:368000) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.6945385336875916,
+ 'loss_landlord_down': 0.8928831219673157,
+ 'loss_landlord_up': 0.8653561472892761,
+ 'mean_episode_return_landlord': -0.06863749027252197,
+ 'mean_episode_return_landlord_down': 0.09258095175027847,
+ 'mean_episode_return_landlord_up': 0.10507692396640778}
+[INFO:57726 dmc:233 2023-05-21 10:12:05,077] After 31324800 (L:10896000 U:10041600 D:10387200) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.791644811630249,
+ 'loss_landlord_down': 1.6466336250305176,
+ 'loss_landlord_up': 2.070420265197754,
+ 'mean_episode_return_landlord': 0.1391139030456543,
+ 'mean_episode_return_landlord_down': -0.13941992819309235,
+ 'mean_episode_return_landlord_up': -0.13920773565769196}
+[INFO:57858 dmc:233 2023-05-21 10:12:09,931] After 1110400 (L:380800 U:361600 D:368000) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.763294517993927,
+ 'loss_landlord_down': 0.8928831219673157,
+ 'loss_landlord_up': 0.8653561472892761,
+ 'mean_episode_return_landlord': -0.05942889675498009,
+ 'mean_episode_return_landlord_down': 0.09258095175027847,
+ 'mean_episode_return_landlord_up': 0.10507692396640778}
+[INFO:57726 dmc:233 2023-05-21 10:12:10,082] After 31324800 (L:10896000 U:10041600 D:10387200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.791644811630249,
+ 'loss_landlord_down': 1.6466336250305176,
+ 'loss_landlord_up': 2.070420265197754,
+ 'mean_episode_return_landlord': 0.1391139030456543,
+ 'mean_episode_return_landlord_down': -0.13941992819309235,
+ 'mean_episode_return_landlord_up': -0.13920773565769196}
+[INFO:57858 dmc:233 2023-05-21 10:12:14,936] After 1113600 (L:380800 U:361600 D:371200) frames: @ 639.5 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.5) Stats:
+{'loss_landlord': 0.763294517993927,
+ 'loss_landlord_down': 0.8391010165214539,
+ 'loss_landlord_up': 0.8653561472892761,
+ 'mean_episode_return_landlord': -0.05942889675498009,
+ 'mean_episode_return_landlord_down': 0.08305247873067856,
+ 'mean_episode_return_landlord_up': 0.10507692396640778}
+[INFO:57726 dmc:233 2023-05-21 10:12:15,088] After 31328000 (L:10896000 U:10044800 D:10387200) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.791644811630249,
+ 'loss_landlord_down': 1.6466336250305176,
+ 'loss_landlord_up': 2.4676198959350586,
+ 'mean_episode_return_landlord': 0.1391139030456543,
+ 'mean_episode_return_landlord_down': -0.13941992819309235,
+ 'mean_episode_return_landlord_up': -0.1410076916217804}
+[INFO:57858 dmc:233 2023-05-21 10:12:19,942] After 1116800 (L:380800 U:364800 D:371200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.763294517993927,
+ 'loss_landlord_down': 0.8391010165214539,
+ 'loss_landlord_up': 0.8417688012123108,
+ 'mean_episode_return_landlord': -0.05942889675498009,
+ 'mean_episode_return_landlord_down': 0.08305247873067856,
+ 'mean_episode_return_landlord_up': 0.09561975300312042}
+[INFO:57726 dmc:233 2023-05-21 10:12:20,094] After 31334400 (L:10899200 U:10044800 D:10390400) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.9905413389205933,
+ 'loss_landlord_down': 2.2984695434570312,
+ 'loss_landlord_up': 2.4676198959350586,
+ 'mean_episode_return_landlord': 0.1401766687631607,
+ 'mean_episode_return_landlord_down': -0.13966915011405945,
+ 'mean_episode_return_landlord_up': -0.1410076916217804}
+[INFO:57858 dmc:233 2023-05-21 10:12:24,944] After 1120000 (L:384000 U:364800 D:371200) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.686234712600708,
+ 'loss_landlord_down': 0.8391010165214539,
+ 'loss_landlord_up': 0.8417688012123108,
+ 'mean_episode_return_landlord': -0.0518326498568058,
+ 'mean_episode_return_landlord_down': 0.08305247873067856,
+ 'mean_episode_return_landlord_up': 0.09561975300312042}
+[INFO:57726 dmc:233 2023-05-21 10:12:25,099] After 31334400 (L:10899200 U:10044800 D:10390400) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.9905413389205933,
+ 'loss_landlord_down': 2.2984695434570312,
+ 'loss_landlord_up': 2.4676198959350586,
+ 'mean_episode_return_landlord': 0.1401766687631607,
+ 'mean_episode_return_landlord_down': -0.13966915011405945,
+ 'mean_episode_return_landlord_up': -0.1410076916217804}
+[INFO:57858 dmc:233 2023-05-21 10:12:29,948] After 1120000 (L:384000 U:364800 D:371200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.686234712600708,
+ 'loss_landlord_down': 0.8391010165214539,
+ 'loss_landlord_up': 0.8417688012123108,
+ 'mean_episode_return_landlord': -0.0518326498568058,
+ 'mean_episode_return_landlord_down': 0.08305247873067856,
+ 'mean_episode_return_landlord_up': 0.09561975300312042}
+[INFO:57726 dmc:233 2023-05-21 10:12:30,104] After 31334400 (L:10899200 U:10044800 D:10390400) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.9905413389205933,
+ 'loss_landlord_down': 2.2984695434570312,
+ 'loss_landlord_up': 2.4676198959350586,
+ 'mean_episode_return_landlord': 0.1401766687631607,
+ 'mean_episode_return_landlord_down': -0.13966915011405945,
+ 'mean_episode_return_landlord_up': -0.1410076916217804}
+[INFO:57858 dmc:233 2023-05-21 10:12:34,952] After 1123200 (L:384000 U:364800 D:374400) frames: @ 639.6 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 0.686234712600708,
+ 'loss_landlord_down': 0.8184939622879028,
+ 'loss_landlord_up': 0.8417688012123108,
+ 'mean_episode_return_landlord': -0.0518326498568058,
+ 'mean_episode_return_landlord_down': 0.07507074624300003,
+ 'mean_episode_return_landlord_up': 0.09561975300312042}
+[INFO:57726 dmc:233 2023-05-21 10:12:35,110] After 31344000 (L:10902400 U:10048000 D:10393600) frames: @ 1918.1 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.1156375408172607,
+ 'loss_landlord_down': 1.375693678855896,
+ 'loss_landlord_up': 1.4647023677825928,
+ 'mean_episode_return_landlord': 0.1376243680715561,
+ 'mean_episode_return_landlord_down': -0.13813717663288116,
+ 'mean_episode_return_landlord_up': -0.14160315692424774}
+[INFO:57858 dmc:233 2023-05-21 10:12:39,956] After 1126400 (L:384000 U:368000 D:374400) frames: @ 639.5 fps (avg@ 559.5 fps) (L:0.0 U:639.5 D:0.0) Stats:
+{'loss_landlord': 0.686234712600708,
+ 'loss_landlord_down': 0.8184939622879028,
+ 'loss_landlord_up': 0.8829918503761292,
+ 'mean_episode_return_landlord': -0.0518326498568058,
+ 'mean_episode_return_landlord_down': 0.07507074624300003,
+ 'mean_episode_return_landlord_up': 0.08645521849393845}
+[INFO:57726 dmc:233 2023-05-21 10:12:40,115] After 31344000 (L:10902400 U:10048000 D:10393600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.1156375408172607,
+ 'loss_landlord_down': 1.375693678855896,
+ 'loss_landlord_up': 1.4647023677825928,
+ 'mean_episode_return_landlord': 0.1376243680715561,
+ 'mean_episode_return_landlord_down': -0.13813717663288116,
+ 'mean_episode_return_landlord_up': -0.14160315692424774}
+[INFO:57858 dmc:233 2023-05-21 10:12:44,961] After 1129600 (L:387200 U:368000 D:374400) frames: @ 639.5 fps (avg@ 586.2 fps) (L:639.5 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.847899317741394,
+ 'loss_landlord_down': 0.8184939622879028,
+ 'loss_landlord_up': 0.8829918503761292,
+ 'mean_episode_return_landlord': -0.044341567903757095,
+ 'mean_episode_return_landlord_down': 0.07507074624300003,
+ 'mean_episode_return_landlord_up': 0.08645521849393845}
+[INFO:57726 dmc:233 2023-05-21 10:12:45,121] After 31344000 (L:10902400 U:10048000 D:10393600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.1156375408172607,
+ 'loss_landlord_down': 1.375693678855896,
+ 'loss_landlord_up': 1.4647023677825928,
+ 'mean_episode_return_landlord': 0.1376243680715561,
+ 'mean_episode_return_landlord_down': -0.13813717663288116,
+ 'mean_episode_return_landlord_up': -0.14160315692424774}
+[INFO:57858 dmc:233 2023-05-21 10:12:49,966] After 1132800 (L:387200 U:368000 D:377600) frames: @ 639.3 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.3) Stats:
+{'loss_landlord': 0.847899317741394,
+ 'loss_landlord_down': 0.9001100063323975,
+ 'loss_landlord_up': 0.8829918503761292,
+ 'mean_episode_return_landlord': -0.044341567903757095,
+ 'mean_episode_return_landlord_down': 0.06440999358892441,
+ 'mean_episode_return_landlord_up': 0.08645521849393845}
+[INFO:57726 dmc:233 2023-05-21 10:12:50,126] After 31353600 (L:10905600 U:10051200 D:10396800) frames: @ 1918.1 fps (avg@ 612.8 fps) (L:639.4 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.6156682968139648,
+ 'loss_landlord_down': 1.6736665964126587,
+ 'loss_landlord_up': 1.8655309677124023,
+ 'mean_episode_return_landlord': 0.1387329250574112,
+ 'mean_episode_return_landlord_down': -0.13956575095653534,
+ 'mean_episode_return_landlord_up': -0.14112012088298798}
+[INFO:57858 dmc:233 2023-05-21 10:12:54,972] After 1136000 (L:387200 U:371200 D:377600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.847899317741394,
+ 'loss_landlord_down': 0.9001100063323975,
+ 'loss_landlord_up': 0.858220100402832,
+ 'mean_episode_return_landlord': -0.044341567903757095,
+ 'mean_episode_return_landlord_down': 0.06440999358892441,
+ 'mean_episode_return_landlord_up': 0.07619701325893402}
+[INFO:57726 dmc:233 2023-05-21 10:12:55,132] After 31353600 (L:10905600 U:10051200 D:10396800) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.6156682968139648,
+ 'loss_landlord_down': 1.6736665964126587,
+ 'loss_landlord_up': 1.8655309677124023,
+ 'mean_episode_return_landlord': 0.1387329250574112,
+ 'mean_episode_return_landlord_down': -0.13956575095653534,
+ 'mean_episode_return_landlord_up': -0.14112012088298798}
+[INFO:57858 dmc:233 2023-05-21 10:12:59,977] After 1139200 (L:390400 U:371200 D:377600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7651020884513855,
+ 'loss_landlord_down': 0.9001100063323975,
+ 'loss_landlord_up': 0.858220100402832,
+ 'mean_episode_return_landlord': -0.03561445698142052,
+ 'mean_episode_return_landlord_down': 0.06440999358892441,
+ 'mean_episode_return_landlord_up': 0.07619701325893402}
+[INFO:57726 dmc:233 2023-05-21 10:13:00,134] After 31353600 (L:10905600 U:10051200 D:10396800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.6156682968139648,
+ 'loss_landlord_down': 1.6736665964126587,
+ 'loss_landlord_up': 1.8655309677124023,
+ 'mean_episode_return_landlord': 0.1387329250574112,
+ 'mean_episode_return_landlord_down': -0.13956575095653534,
+ 'mean_episode_return_landlord_up': -0.14112012088298798}
+[INFO:57858 dmc:233 2023-05-21 10:13:04,979] After 1139200 (L:390400 U:371200 D:377600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7651020884513855,
+ 'loss_landlord_down': 0.9001100063323975,
+ 'loss_landlord_up': 0.858220100402832,
+ 'mean_episode_return_landlord': -0.03561445698142052,
+ 'mean_episode_return_landlord_down': 0.06440999358892441,
+ 'mean_episode_return_landlord_up': 0.07619701325893402}
+[INFO:57726 dmc:233 2023-05-21 10:13:05,137] After 31356800 (L:10908800 U:10051200 D:10396800) frames: @ 639.8 fps (avg@ 559.5 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.707621455192566,
+ 'loss_landlord_down': 1.6736665964126587,
+ 'loss_landlord_up': 1.8655309677124023,
+ 'mean_episode_return_landlord': 0.13671466708183289,
+ 'mean_episode_return_landlord_down': -0.13956575095653534,
+ 'mean_episode_return_landlord_up': -0.14112012088298798}
+[INFO:57858 dmc:233 2023-05-21 10:13:09,984] After 1142400 (L:390400 U:371200 D:380800) frames: @ 639.4 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7651020884513855,
+ 'loss_landlord_down': 0.8396057486534119,
+ 'loss_landlord_up': 0.858220100402832,
+ 'mean_episode_return_landlord': -0.03561445698142052,
+ 'mean_episode_return_landlord_down': 0.054782263934612274,
+ 'mean_episode_return_landlord_up': 0.07619701325893402}
+[INFO:57726 dmc:233 2023-05-21 10:13:10,140] After 31363200 (L:10908800 U:10054400 D:10400000) frames: @ 1279.5 fps (avg@ 586.2 fps) (L:0.0 U:639.7 D:639.7) Stats:
+{'loss_landlord': 1.707621455192566,
+ 'loss_landlord_down': 1.717636227607727,
+ 'loss_landlord_up': 2.114382266998291,
+ 'mean_episode_return_landlord': 0.13671466708183289,
+ 'mean_episode_return_landlord_down': -0.13865312933921814,
+ 'mean_episode_return_landlord_up': -0.1389763206243515}
+[INFO:57858 dmc:233 2023-05-21 10:13:14,990] After 1148800 (L:393600 U:374400 D:380800) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7112083435058594,
+ 'loss_landlord_down': 0.8396057486534119,
+ 'loss_landlord_up': 0.8751024603843689,
+ 'mean_episode_return_landlord': -0.02754020132124424,
+ 'mean_episode_return_landlord_down': 0.054782263934612274,
+ 'mean_episode_return_landlord_up': 0.0659925565123558}
+[INFO:57726 dmc:233 2023-05-21 10:13:15,144] After 31363200 (L:10908800 U:10054400 D:10400000) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.707621455192566,
+ 'loss_landlord_down': 1.717636227607727,
+ 'loss_landlord_up': 2.114382266998291,
+ 'mean_episode_return_landlord': 0.13671466708183289,
+ 'mean_episode_return_landlord_down': -0.13865312933921814,
+ 'mean_episode_return_landlord_up': -0.1389763206243515}
+[INFO:57858 dmc:233 2023-05-21 10:13:19,992] After 1148800 (L:393600 U:374400 D:380800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7112083435058594,
+ 'loss_landlord_down': 0.8396057486534119,
+ 'loss_landlord_up': 0.8751024603843689,
+ 'mean_episode_return_landlord': -0.02754020132124424,
+ 'mean_episode_return_landlord_down': 0.054782263934612274,
+ 'mean_episode_return_landlord_up': 0.0659925565123558}
+[INFO:57726 dmc:233 2023-05-21 10:13:20,149] After 31363200 (L:10908800 U:10054400 D:10400000) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.707621455192566,
+ 'loss_landlord_down': 1.717636227607727,
+ 'loss_landlord_up': 2.114382266998291,
+ 'mean_episode_return_landlord': 0.13671466708183289,
+ 'mean_episode_return_landlord_down': -0.13865312933921814,
+ 'mean_episode_return_landlord_up': -0.1389763206243515}
+[INFO:57858 dmc:233 2023-05-21 10:13:24,998] After 1152000 (L:393600 U:374400 D:384000) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7112083435058594,
+ 'loss_landlord_down': 0.8998048901557922,
+ 'loss_landlord_up': 0.8751024603843689,
+ 'mean_episode_return_landlord': -0.02754020132124424,
+ 'mean_episode_return_landlord_down': 0.04759892448782921,
+ 'mean_episode_return_landlord_up': 0.0659925565123558}
+[INFO:57726 dmc:233 2023-05-21 10:13:25,152] After 31372800 (L:10912000 U:10057600 D:10403200) frames: @ 1918.8 fps (avg@ 612.9 fps) (L:639.6 U:639.6 D:639.6) Stats:
+{'loss_landlord': 1.4342433214187622,
+ 'loss_landlord_down': 1.5803823471069336,
+ 'loss_landlord_up': 1.6792742013931274,
+ 'mean_episode_return_landlord': 0.13713383674621582,
+ 'mean_episode_return_landlord_down': -0.13796158134937286,
+ 'mean_episode_return_landlord_up': -0.13724489510059357}
+[INFO:57858 dmc:233 2023-05-21 10:13:30,004] After 1158400 (L:396800 U:377600 D:384000) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.3 U:639.3 D:0.0) Stats:
+{'loss_landlord': 0.7883250117301941,
+ 'loss_landlord_down': 0.8998048901557922,
+ 'loss_landlord_up': 0.9736958742141724,
+ 'mean_episode_return_landlord': -0.023184452205896378,
+ 'mean_episode_return_landlord_down': 0.04759892448782921,
+ 'mean_episode_return_landlord_up': 0.058334097266197205}
+[INFO:57726 dmc:233 2023-05-21 10:13:30,156] After 31372800 (L:10912000 U:10057600 D:10403200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4342433214187622,
+ 'loss_landlord_down': 1.5803823471069336,
+ 'loss_landlord_up': 1.6792742013931274,
+ 'mean_episode_return_landlord': 0.13713383674621582,
+ 'mean_episode_return_landlord_down': -0.13796158134937286,
+ 'mean_episode_return_landlord_up': -0.13724489510059357}
+[INFO:57858 dmc:233 2023-05-21 10:13:35,009] After 1158400 (L:396800 U:377600 D:384000) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7883250117301941,
+ 'loss_landlord_down': 0.8998048901557922,
+ 'loss_landlord_up': 0.9736958742141724,
+ 'mean_episode_return_landlord': -0.023184452205896378,
+ 'mean_episode_return_landlord_down': 0.04759892448782921,
+ 'mean_episode_return_landlord_up': 0.058334097266197205}
+[INFO:57726 dmc:233 2023-05-21 10:13:35,161] After 31372800 (L:10912000 U:10057600 D:10403200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4342433214187622,
+ 'loss_landlord_down': 1.5803823471069336,
+ 'loss_landlord_up': 1.6792742013931274,
+ 'mean_episode_return_landlord': 0.13713383674621582,
+ 'mean_episode_return_landlord_down': -0.13796158134937286,
+ 'mean_episode_return_landlord_up': -0.13724489510059357}
+[INFO:57858 dmc:233 2023-05-21 10:13:40,015] After 1161600 (L:396800 U:377600 D:387200) frames: @ 639.3 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.3) Stats:
+{'loss_landlord': 0.7883250117301941,
+ 'loss_landlord_down': 0.8427473306655884,
+ 'loss_landlord_up': 0.9736958742141724,
+ 'mean_episode_return_landlord': -0.023184452205896378,
+ 'mean_episode_return_landlord_down': 0.03974871709942818,
+ 'mean_episode_return_landlord_up': 0.058334097266197205}
+[INFO:57726 dmc:233 2023-05-21 10:13:40,166] After 31379200 (L:10915200 U:10057600 D:10406400) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.0295376777648926,
+ 'loss_landlord_down': 1.4246186017990112,
+ 'loss_landlord_up': 1.6792742013931274,
+ 'mean_episode_return_landlord': 0.1358184814453125,
+ 'mean_episode_return_landlord_down': -0.13477972149848938,
+ 'mean_episode_return_landlord_up': -0.13724489510059357}
+[INFO:57858 dmc:233 2023-05-21 10:13:45,020] After 1164800 (L:396800 U:380800 D:387200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7883250117301941,
+ 'loss_landlord_down': 0.8427473306655884,
+ 'loss_landlord_up': 0.944001317024231,
+ 'mean_episode_return_landlord': -0.023184452205896378,
+ 'mean_episode_return_landlord_down': 0.03974871709942818,
+ 'mean_episode_return_landlord_up': 0.049050502479076385}
+[INFO:57726 dmc:233 2023-05-21 10:13:45,169] After 31382400 (L:10915200 U:10060800 D:10406400) frames: @ 639.7 fps (avg@ 559.5 fps) (L:0.0 U:639.7 D:0.0) Stats:
+{'loss_landlord': 1.0295376777648926,
+ 'loss_landlord_down': 1.4246186017990112,
+ 'loss_landlord_up': 1.6053158044815063,
+ 'mean_episode_return_landlord': 0.1358184814453125,
+ 'mean_episode_return_landlord_down': -0.13477972149848938,
+ 'mean_episode_return_landlord_up': -0.13615113496780396}
+[INFO:57858 dmc:233 2023-05-21 10:13:50,025] After 1168000 (L:400000 U:380800 D:387200) frames: @ 639.5 fps (avg@ 586.1 fps) (L:639.5 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7845811247825623,
+ 'loss_landlord_down': 0.8427473306655884,
+ 'loss_landlord_up': 0.944001317024231,
+ 'mean_episode_return_landlord': -0.01626778393983841,
+ 'mean_episode_return_landlord_down': 0.03974871709942818,
+ 'mean_episode_return_landlord_up': 0.049050502479076385}
+[INFO:57726 dmc:233 2023-05-21 10:13:50,173] After 31382400 (L:10915200 U:10060800 D:10406400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.0295376777648926,
+ 'loss_landlord_down': 1.4246186017990112,
+ 'loss_landlord_up': 1.6053158044815063,
+ 'mean_episode_return_landlord': 0.1358184814453125,
+ 'mean_episode_return_landlord_down': -0.13477972149848938,
+ 'mean_episode_return_landlord_up': -0.13615113496780396}
+[INFO:57858 dmc:233 2023-05-21 10:13:55,029] After 1168000 (L:400000 U:380800 D:387200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7845811247825623,
+ 'loss_landlord_down': 0.8427473306655884,
+ 'loss_landlord_up': 0.944001317024231,
+ 'mean_episode_return_landlord': -0.01626778393983841,
+ 'mean_episode_return_landlord_down': 0.03974871709942818,
+ 'mean_episode_return_landlord_up': 0.049050502479076385}
+[INFO:57726 dmc:233 2023-05-21 10:13:55,176] After 31385600 (L:10918400 U:10060800 D:10406400) frames: @ 639.6 fps (avg@ 586.2 fps) (L:639.6 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.324475884437561,
+ 'loss_landlord_down': 1.4246186017990112,
+ 'loss_landlord_up': 1.6053158044815063,
+ 'mean_episode_return_landlord': 0.13598032295703888,
+ 'mean_episode_return_landlord_down': -0.13477972149848938,
+ 'mean_episode_return_landlord_up': -0.13615113496780396}
+[INFO:57858 dmc:233 2023-05-21 10:14:00,033] After 1171200 (L:400000 U:380800 D:390400) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 0.7845811247825623,
+ 'loss_landlord_down': 0.8685444593429565,
+ 'loss_landlord_up': 0.944001317024231,
+ 'mean_episode_return_landlord': -0.01626778393983841,
+ 'mean_episode_return_landlord_down': 0.030909378081560135,
+ 'mean_episode_return_landlord_up': 0.049050502479076385}
+[INFO:57726 dmc:233 2023-05-21 10:14:00,181] After 31392000 (L:10918400 U:10064000 D:10409600) frames: @ 1279.1 fps (avg@ 559.6 fps) (L:0.0 U:639.5 D:639.5) Stats:
+{'loss_landlord': 1.324475884437561,
+ 'loss_landlord_down': 1.1816890239715576,
+ 'loss_landlord_up': 1.3094841241836548,
+ 'mean_episode_return_landlord': 0.13598032295703888,
+ 'mean_episode_return_landlord_down': -0.13567832112312317,
+ 'mean_episode_return_landlord_up': -0.13678821921348572}
+[INFO:57858 dmc:233 2023-05-21 10:14:05,038] After 1177600 (L:403200 U:384000 D:390400) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.8940974473953247,
+ 'loss_landlord_down': 0.8685444593429565,
+ 'loss_landlord_up': 0.8895811438560486,
+ 'mean_episode_return_landlord': -0.01064036600291729,
+ 'mean_episode_return_landlord_down': 0.030909378081560135,
+ 'mean_episode_return_landlord_up': 0.04049360007047653}
+[INFO:57726 dmc:233 2023-05-21 10:14:05,186] After 31392000 (L:10918400 U:10064000 D:10409600) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.324475884437561,
+ 'loss_landlord_down': 1.1816890239715576,
+ 'loss_landlord_up': 1.3094841241836548,
+ 'mean_episode_return_landlord': 0.13598032295703888,
+ 'mean_episode_return_landlord_down': -0.13567832112312317,
+ 'mean_episode_return_landlord_up': -0.13678821921348572}
+[INFO:57858 dmc:233 2023-05-21 10:14:10,044] After 1177600 (L:403200 U:384000 D:390400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.8940974473953247,
+ 'loss_landlord_down': 0.8685444593429565,
+ 'loss_landlord_up': 0.8895811438560486,
+ 'mean_episode_return_landlord': -0.01064036600291729,
+ 'mean_episode_return_landlord_down': 0.030909378081560135,
+ 'mean_episode_return_landlord_up': 0.04049360007047653}
+[INFO:57726 dmc:233 2023-05-21 10:14:10,188] After 31395200 (L:10921600 U:10064000 D:10409600) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.1381570100784302,
+ 'loss_landlord_down': 1.1816890239715576,
+ 'loss_landlord_up': 1.3094841241836548,
+ 'mean_episode_return_landlord': 0.13650713860988617,
+ 'mean_episode_return_landlord_down': -0.13567832112312317,
+ 'mean_episode_return_landlord_up': -0.13678821921348572}
+[INFO:57858 dmc:233 2023-05-21 10:14:15,046] After 1180800 (L:403200 U:384000 D:393600) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.8940974473953247,
+ 'loss_landlord_down': 0.874725341796875,
+ 'loss_landlord_up': 0.8895811438560486,
+ 'mean_episode_return_landlord': -0.01064036600291729,
+ 'mean_episode_return_landlord_down': 0.025260400027036667,
+ 'mean_episode_return_landlord_up': 0.04049360007047653}
+[INFO:57726 dmc:233 2023-05-21 10:14:15,192] After 31398400 (L:10921600 U:10064000 D:10412800) frames: @ 639.6 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 1.1381570100784302,
+ 'loss_landlord_down': 1.2387303113937378,
+ 'loss_landlord_up': 1.3094841241836548,
+ 'mean_episode_return_landlord': 0.13650713860988617,
+ 'mean_episode_return_landlord_down': -0.13611793518066406,
+ 'mean_episode_return_landlord_up': -0.13678821921348572}
+[INFO:57858 dmc:233 2023-05-21 10:14:20,051] After 1187200 (L:406400 U:387200 D:393600) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7501305937767029,
+ 'loss_landlord_down': 0.874725341796875,
+ 'loss_landlord_up': 0.8810494542121887,
+ 'mean_episode_return_landlord': -0.007153939921408892,
+ 'mean_episode_return_landlord_down': 0.025260400027036667,
+ 'mean_episode_return_landlord_up': 0.03312201052904129}
+[INFO:57726 dmc:233 2023-05-21 10:14:20,196] After 31401600 (L:10921600 U:10067200 D:10412800) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.1381570100784302,
+ 'loss_landlord_down': 1.2387303113937378,
+ 'loss_landlord_up': 1.5117961168289185,
+ 'mean_episode_return_landlord': 0.13650713860988617,
+ 'mean_episode_return_landlord_down': -0.13611793518066406,
+ 'mean_episode_return_landlord_up': -0.13693910837173462}
+[INFO:57858 dmc:233 2023-05-21 10:14:25,057] After 1187200 (L:406400 U:387200 D:393600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7501305937767029,
+ 'loss_landlord_down': 0.874725341796875,
+ 'loss_landlord_up': 0.8810494542121887,
+ 'mean_episode_return_landlord': -0.007153939921408892,
+ 'mean_episode_return_landlord_down': 0.025260400027036667,
+ 'mean_episode_return_landlord_up': 0.03312201052904129}
+[INFO:57726 dmc:233 2023-05-21 10:14:25,201] After 31404800 (L:10924800 U:10067200 D:10412800) frames: @ 639.5 fps (avg@ 586.2 fps) (L:639.5 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2927089929580688,
+ 'loss_landlord_down': 1.2387303113937378,
+ 'loss_landlord_up': 1.5117961168289185,
+ 'mean_episode_return_landlord': 0.1377709060907364,
+ 'mean_episode_return_landlord_down': -0.13611793518066406,
+ 'mean_episode_return_landlord_up': -0.13693910837173462}
+[INFO:57858 dmc:233 2023-05-21 10:14:30,063] After 1187200 (L:406400 U:387200 D:393600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7501305937767029,
+ 'loss_landlord_down': 0.874725341796875,
+ 'loss_landlord_up': 0.8810494542121887,
+ 'mean_episode_return_landlord': -0.007153939921408892,
+ 'mean_episode_return_landlord_down': 0.025260400027036667,
+ 'mean_episode_return_landlord_up': 0.03312201052904129}
+[INFO:57726 dmc:233 2023-05-21 10:14:30,206] After 31408000 (L:10924800 U:10067200 D:10416000) frames: @ 639.4 fps (avg@ 612.9 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2927089929580688,
+ 'loss_landlord_down': 1.5877946615219116,
+ 'loss_landlord_up': 1.5117961168289185,
+ 'mean_episode_return_landlord': 0.1377709060907364,
+ 'mean_episode_return_landlord_down': -0.13627129793167114,
+ 'mean_episode_return_landlord_up': -0.13693910837173462}
+[INFO:57858 dmc:233 2023-05-21 10:14:35,065] After 1190400 (L:406400 U:387200 D:396800) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.7501305937767029,
+ 'loss_landlord_down': 0.886551022529602,
+ 'loss_landlord_up': 0.8810494542121887,
+ 'mean_episode_return_landlord': -0.007153939921408892,
+ 'mean_episode_return_landlord_down': 0.019157545641064644,
+ 'mean_episode_return_landlord_up': 0.03312201052904129}
+[INFO:57726 dmc:233 2023-05-21 10:14:35,210] After 31411200 (L:10924800 U:10070400 D:10416000) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.2927089929580688,
+ 'loss_landlord_down': 1.5877946615219116,
+ 'loss_landlord_up': 1.6644365787506104,
+ 'mean_episode_return_landlord': 0.1377709060907364,
+ 'mean_episode_return_landlord_down': -0.13627129793167114,
+ 'mean_episode_return_landlord_up': -0.13487346470355988}
+[INFO:57858 dmc:233 2023-05-21 10:14:40,070] After 1196800 (L:409600 U:390400 D:396800) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7986876368522644,
+ 'loss_landlord_down': 0.886551022529602,
+ 'loss_landlord_up': 0.8843161463737488,
+ 'mean_episode_return_landlord': -0.0020537828095257282,
+ 'mean_episode_return_landlord_down': 0.019157545641064644,
+ 'mean_episode_return_landlord_up': 0.02665966935455799}
+[INFO:57726 dmc:233 2023-05-21 10:14:40,215] After 31411200 (L:10924800 U:10070400 D:10416000) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2927089929580688,
+ 'loss_landlord_down': 1.5877946615219116,
+ 'loss_landlord_up': 1.6644365787506104,
+ 'mean_episode_return_landlord': 0.1377709060907364,
+ 'mean_episode_return_landlord_down': -0.13627129793167114,
+ 'mean_episode_return_landlord_up': -0.13487346470355988}
+[INFO:57858 dmc:233 2023-05-21 10:14:45,076] After 1196800 (L:409600 U:390400 D:396800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7986876368522644,
+ 'loss_landlord_down': 0.886551022529602,
+ 'loss_landlord_up': 0.8843161463737488,
+ 'mean_episode_return_landlord': -0.0020537828095257282,
+ 'mean_episode_return_landlord_down': 0.019157545641064644,
+ 'mean_episode_return_landlord_up': 0.02665966935455799}
+[INFO:57726 dmc:233 2023-05-21 10:14:45,221] After 31414400 (L:10928000 U:10070400 D:10416000) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.6147701740264893,
+ 'loss_landlord_down': 1.5877946615219116,
+ 'loss_landlord_up': 1.6644365787506104,
+ 'mean_episode_return_landlord': 0.13669492304325104,
+ 'mean_episode_return_landlord_down': -0.13627129793167114,
+ 'mean_episode_return_landlord_up': -0.13487346470355988}
+[INFO:57858 dmc:233 2023-05-21 10:14:50,081] After 1200000 (L:409600 U:390400 D:400000) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7986876368522644,
+ 'loss_landlord_down': 0.8962910175323486,
+ 'loss_landlord_up': 0.8843161463737488,
+ 'mean_episode_return_landlord': -0.0020537828095257282,
+ 'mean_episode_return_landlord_down': 0.013449056074023247,
+ 'mean_episode_return_landlord_up': 0.02665966935455799}
+[INFO:57726 dmc:233 2023-05-21 10:14:50,226] After 31420800 (L:10928000 U:10073600 D:10419200) frames: @ 1278.7 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:639.4) Stats:
+{'loss_landlord': 1.6147701740264893,
+ 'loss_landlord_down': 1.5041581392288208,
+ 'loss_landlord_up': 1.926084280014038,
+ 'mean_episode_return_landlord': 0.13669492304325104,
+ 'mean_episode_return_landlord_down': -0.13642878830432892,
+ 'mean_episode_return_landlord_up': -0.13625848293304443}
+[INFO:57858 dmc:233 2023-05-21 10:14:55,087] After 1206400 (L:412800 U:393600 D:400000) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7478044629096985,
+ 'loss_landlord_down': 0.8962910175323486,
+ 'loss_landlord_up': 0.8458231687545776,
+ 'mean_episode_return_landlord': 0.0005302500794641674,
+ 'mean_episode_return_landlord_down': 0.013449056074023247,
+ 'mean_episode_return_landlord_up': 0.01978665590286255}
+[INFO:57726 dmc:233 2023-05-21 10:14:55,232] After 31420800 (L:10928000 U:10073600 D:10419200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.6147701740264893,
+ 'loss_landlord_down': 1.5041581392288208,
+ 'loss_landlord_up': 1.926084280014038,
+ 'mean_episode_return_landlord': 0.13669492304325104,
+ 'mean_episode_return_landlord_down': -0.13642878830432892,
+ 'mean_episode_return_landlord_up': -0.13625848293304443}
+[INFO:57858 dmc:233 2023-05-21 10:15:00,090] After 1206400 (L:412800 U:393600 D:400000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7478044629096985,
+ 'loss_landlord_down': 0.8962910175323486,
+ 'loss_landlord_up': 0.8458231687545776,
+ 'mean_episode_return_landlord': 0.0005302500794641674,
+ 'mean_episode_return_landlord_down': 0.013449056074023247,
+ 'mean_episode_return_landlord_up': 0.01978665590286255}
+[INFO:57726 dmc:233 2023-05-21 10:15:00,238] After 31424000 (L:10931200 U:10073600 D:10419200) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3670296669006348,
+ 'loss_landlord_down': 1.5041581392288208,
+ 'loss_landlord_up': 1.926084280014038,
+ 'mean_episode_return_landlord': 0.1357233226299286,
+ 'mean_episode_return_landlord_down': -0.13642878830432892,
+ 'mean_episode_return_landlord_up': -0.13625848293304443}
+[INFO:57858 dmc:233 2023-05-21 10:15:05,095] After 1209600 (L:412800 U:393600 D:403200) frames: @ 639.4 fps (avg@ 586.1 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7478044629096985,
+ 'loss_landlord_down': 0.8496062755584717,
+ 'loss_landlord_up': 0.8458231687545776,
+ 'mean_episode_return_landlord': 0.0005302500794641674,
+ 'mean_episode_return_landlord_down': 0.007814701646566391,
+ 'mean_episode_return_landlord_up': 0.01978665590286255}
+[INFO:57726 dmc:233 2023-05-21 10:15:05,241] After 31427200 (L:10931200 U:10073600 D:10422400) frames: @ 639.7 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.7) Stats:
+{'loss_landlord': 1.3670296669006348,
+ 'loss_landlord_down': 1.4183109998703003,
+ 'loss_landlord_up': 1.926084280014038,
+ 'mean_episode_return_landlord': 0.1357233226299286,
+ 'mean_episode_return_landlord_down': -0.1375843584537506,
+ 'mean_episode_return_landlord_up': -0.13625848293304443}
+[INFO:57858 dmc:233 2023-05-21 10:15:10,101] After 1212800 (L:416000 U:393600 D:403200) frames: @ 639.4 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6973443627357483,
+ 'loss_landlord_down': 0.8496062755584717,
+ 'loss_landlord_up': 0.8458231687545776,
+ 'mean_episode_return_landlord': 0.004427608102560043,
+ 'mean_episode_return_landlord_down': 0.007814701646566391,
+ 'mean_episode_return_landlord_up': 0.01978665590286255}
+[INFO:57726 dmc:233 2023-05-21 10:15:10,246] After 31430400 (L:10931200 U:10076800 D:10422400) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.3670296669006348,
+ 'loss_landlord_down': 1.4183109998703003,
+ 'loss_landlord_up': 1.5655207633972168,
+ 'mean_episode_return_landlord': 0.1357233226299286,
+ 'mean_episode_return_landlord_down': -0.1375843584537506,
+ 'mean_episode_return_landlord_up': -0.13651719689369202}
+[INFO:57858 dmc:233 2023-05-21 10:15:15,106] After 1216000 (L:416000 U:396800 D:403200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.6973443627357483,
+ 'loss_landlord_down': 0.8496062755584717,
+ 'loss_landlord_up': 0.8606575727462769,
+ 'mean_episode_return_landlord': 0.004427608102560043,
+ 'mean_episode_return_landlord_down': 0.007814701646566391,
+ 'mean_episode_return_landlord_up': 0.015020668506622314}
+[INFO:57726 dmc:233 2023-05-21 10:15:15,248] After 31433600 (L:10934400 U:10076800 D:10422400) frames: @ 639.8 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2454612255096436,
+ 'loss_landlord_down': 1.4183109998703003,
+ 'loss_landlord_up': 1.5655207633972168,
+ 'mean_episode_return_landlord': 0.1367427110671997,
+ 'mean_episode_return_landlord_down': -0.1375843584537506,
+ 'mean_episode_return_landlord_up': -0.13651719689369202}
+[INFO:57858 dmc:233 2023-05-21 10:15:20,112] After 1216000 (L:416000 U:396800 D:403200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6973443627357483,
+ 'loss_landlord_down': 0.8496062755584717,
+ 'loss_landlord_up': 0.8606575727462769,
+ 'mean_episode_return_landlord': 0.004427608102560043,
+ 'mean_episode_return_landlord_down': 0.007814701646566391,
+ 'mean_episode_return_landlord_up': 0.015020668506622314}
+[INFO:57726 dmc:233 2023-05-21 10:15:20,253] After 31436800 (L:10934400 U:10076800 D:10425600) frames: @ 639.5 fps (avg@ 612.9 fps) (L:0.0 U:0.0 D:639.5) Stats:
+{'loss_landlord': 1.2454612255096436,
+ 'loss_landlord_down': 1.6046156883239746,
+ 'loss_landlord_up': 1.5655207633972168,
+ 'mean_episode_return_landlord': 0.1367427110671997,
+ 'mean_episode_return_landlord_down': -0.13741226494312286,
+ 'mean_episode_return_landlord_up': -0.13651719689369202}
+[INFO:57858 dmc:233 2023-05-21 10:15:25,117] After 1222400 (L:419200 U:396800 D:406400) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7234285473823547,
+ 'loss_landlord_down': 0.8503826856613159,
+ 'loss_landlord_up': 0.8606575727462769,
+ 'mean_episode_return_landlord': 0.008701073005795479,
+ 'mean_episode_return_landlord_down': 0.0035808300599455833,
+ 'mean_episode_return_landlord_up': 0.015020668506622314}
+[INFO:57726 dmc:233 2023-05-21 10:15:25,258] After 31440000 (L:10934400 U:10080000 D:10425600) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.2454612255096436,
+ 'loss_landlord_down': 1.6046156883239746,
+ 'loss_landlord_up': 1.6025861501693726,
+ 'mean_episode_return_landlord': 0.1367427110671997,
+ 'mean_episode_return_landlord_down': -0.13741226494312286,
+ 'mean_episode_return_landlord_up': -0.13593898713588715}
+[INFO:57858 dmc:233 2023-05-21 10:15:30,121] After 1225600 (L:419200 U:400000 D:406400) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 0.7234285473823547,
+ 'loss_landlord_down': 0.8503826856613159,
+ 'loss_landlord_up': 0.8538097739219666,
+ 'mean_episode_return_landlord': 0.008701073005795479,
+ 'mean_episode_return_landlord_down': 0.0035808300599455833,
+ 'mean_episode_return_landlord_up': 0.00792522169649601}
+[INFO:57726 dmc:233 2023-05-21 10:15:30,264] After 31443200 (L:10937600 U:10080000 D:10425600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.191224217414856,
+ 'loss_landlord_down': 1.6046156883239746,
+ 'loss_landlord_up': 1.6025861501693726,
+ 'mean_episode_return_landlord': 0.13452839851379395,
+ 'mean_episode_return_landlord_down': -0.13741226494312286,
+ 'mean_episode_return_landlord_up': -0.13593898713588715}
+[INFO:57858 dmc:233 2023-05-21 10:15:35,126] After 1225600 (L:419200 U:400000 D:406400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7234285473823547,
+ 'loss_landlord_down': 0.8503826856613159,
+ 'loss_landlord_up': 0.8538097739219666,
+ 'mean_episode_return_landlord': 0.008701073005795479,
+ 'mean_episode_return_landlord_down': 0.0035808300599455833,
+ 'mean_episode_return_landlord_up': 0.00792522169649601}
+[INFO:57726 dmc:233 2023-05-21 10:15:35,269] After 31443200 (L:10937600 U:10080000 D:10425600) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.191224217414856,
+ 'loss_landlord_down': 1.6046156883239746,
+ 'loss_landlord_up': 1.6025861501693726,
+ 'mean_episode_return_landlord': 0.13452839851379395,
+ 'mean_episode_return_landlord_down': -0.13741226494312286,
+ 'mean_episode_return_landlord_up': -0.13593898713588715}
+[INFO:57858 dmc:233 2023-05-21 10:15:40,128] After 1228800 (L:419200 U:400000 D:409600) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.7234285473823547,
+ 'loss_landlord_down': 0.8507487773895264,
+ 'loss_landlord_up': 0.8538097739219666,
+ 'mean_episode_return_landlord': 0.008701073005795479,
+ 'mean_episode_return_landlord_down': -7.224798173410818e-05,
+ 'mean_episode_return_landlord_up': 0.00792522169649601}
+[INFO:57726 dmc:233 2023-05-21 10:15:40,273] After 31446400 (L:10937600 U:10080000 D:10428800) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 1.191224217414856,
+ 'loss_landlord_down': 1.2492493391036987,
+ 'loss_landlord_up': 1.6025861501693726,
+ 'mean_episode_return_landlord': 0.13452839851379395,
+ 'mean_episode_return_landlord_down': -0.13588812947273254,
+ 'mean_episode_return_landlord_up': -0.13593898713588715}
+[INFO:57858 dmc:233 2023-05-21 10:15:45,134] After 1232000 (L:422400 U:400000 D:409600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7478088140487671,
+ 'loss_landlord_down': 0.8507487773895264,
+ 'loss_landlord_up': 0.8538097739219666,
+ 'mean_episode_return_landlord': 0.010761372745037079,
+ 'mean_episode_return_landlord_down': -7.224798173410818e-05,
+ 'mean_episode_return_landlord_up': 0.00792522169649601}
+[INFO:57726 dmc:233 2023-05-21 10:15:45,277] After 31452800 (L:10940800 U:10083200 D:10428800) frames: @ 1279.2 fps (avg@ 586.2 fps) (L:639.6 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.4506689310073853,
+ 'loss_landlord_down': 1.2492493391036987,
+ 'loss_landlord_up': 1.5657740831375122,
+ 'mean_episode_return_landlord': 0.13403381407260895,
+ 'mean_episode_return_landlord_down': -0.13588812947273254,
+ 'mean_episode_return_landlord_up': -0.1354687660932541}
+[INFO:57858 dmc:233 2023-05-21 10:15:50,140] After 1235200 (L:422400 U:403200 D:409600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7478088140487671,
+ 'loss_landlord_down': 0.8507487773895264,
+ 'loss_landlord_up': 0.8754352331161499,
+ 'mean_episode_return_landlord': 0.010761372745037079,
+ 'mean_episode_return_landlord_down': -7.224798173410818e-05,
+ 'mean_episode_return_landlord_up': 0.004758585710078478}
+[INFO:57726 dmc:233 2023-05-21 10:15:50,282] After 31452800 (L:10940800 U:10083200 D:10428800) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4506689310073853,
+ 'loss_landlord_down': 1.2492493391036987,
+ 'loss_landlord_up': 1.5657740831375122,
+ 'mean_episode_return_landlord': 0.13403381407260895,
+ 'mean_episode_return_landlord_down': -0.13588812947273254,
+ 'mean_episode_return_landlord_up': -0.1354687660932541}
+[INFO:57858 dmc:233 2023-05-21 10:15:55,146] After 1235200 (L:422400 U:403200 D:409600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7478088140487671,
+ 'loss_landlord_down': 0.8507487773895264,
+ 'loss_landlord_up': 0.8754352331161499,
+ 'mean_episode_return_landlord': 0.010761372745037079,
+ 'mean_episode_return_landlord_down': -7.224798173410818e-05,
+ 'mean_episode_return_landlord_up': 0.004758585710078478}
+[INFO:57726 dmc:233 2023-05-21 10:15:55,284] After 31456000 (L:10940800 U:10083200 D:10432000) frames: @ 639.8 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 1.4506689310073853,
+ 'loss_landlord_down': 1.6195303201675415,
+ 'loss_landlord_up': 1.5657740831375122,
+ 'mean_episode_return_landlord': 0.13403381407260895,
+ 'mean_episode_return_landlord_down': -0.13425998389720917,
+ 'mean_episode_return_landlord_up': -0.1354687660932541}
+[INFO:57858 dmc:233 2023-05-21 10:16:00,150] After 1241600 (L:425600 U:403200 D:412800) frames: @ 1278.9 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7375916242599487,
+ 'loss_landlord_down': 0.8154208660125732,
+ 'loss_landlord_up': 0.8754352331161499,
+ 'mean_episode_return_landlord': 0.01642562262713909,
+ 'mean_episode_return_landlord_down': -0.004320900421589613,
+ 'mean_episode_return_landlord_up': 0.004758585710078478}
+[INFO:57726 dmc:233 2023-05-21 10:16:00,288] After 31459200 (L:10940800 U:10086400 D:10432000) frames: @ 639.5 fps (avg@ 559.6 fps) (L:0.0 U:639.5 D:0.0) Stats:
+{'loss_landlord': 1.4506689310073853,
+ 'loss_landlord_down': 1.6195303201675415,
+ 'loss_landlord_up': 1.6971163749694824,
+ 'mean_episode_return_landlord': 0.13403381407260895,
+ 'mean_episode_return_landlord_down': -0.13425998389720917,
+ 'mean_episode_return_landlord_up': -0.136416494846344}
+[INFO:57858 dmc:233 2023-05-21 10:16:05,152] After 1244800 (L:425600 U:406400 D:412800) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:639.8 D:0.0) Stats:
+{'loss_landlord': 0.7375916242599487,
+ 'loss_landlord_down': 0.8154208660125732,
+ 'loss_landlord_up': 0.8669776916503906,
+ 'mean_episode_return_landlord': 0.01642562262713909,
+ 'mean_episode_return_landlord_down': -0.004320900421589613,
+ 'mean_episode_return_landlord_up': -0.0006513929110951722}
+[INFO:57726 dmc:233 2023-05-21 10:16:05,292] After 31462400 (L:10944000 U:10086400 D:10432000) frames: @ 639.5 fps (avg@ 586.2 fps) (L:639.5 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3673144578933716,
+ 'loss_landlord_down': 1.6195303201675415,
+ 'loss_landlord_up': 1.6971163749694824,
+ 'mean_episode_return_landlord': 0.1339883655309677,
+ 'mean_episode_return_landlord_down': -0.13425998389720917,
+ 'mean_episode_return_landlord_up': -0.136416494846344}
+[INFO:57858 dmc:233 2023-05-21 10:16:10,158] After 1244800 (L:425600 U:406400 D:412800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7375916242599487,
+ 'loss_landlord_down': 0.8154208660125732,
+ 'loss_landlord_up': 0.8669776916503906,
+ 'mean_episode_return_landlord': 0.01642562262713909,
+ 'mean_episode_return_landlord_down': -0.004320900421589613,
+ 'mean_episode_return_landlord_up': -0.0006513929110951722}
+[INFO:57726 dmc:233 2023-05-21 10:16:10,298] After 31465600 (L:10944000 U:10086400 D:10435200) frames: @ 639.4 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.3673144578933716,
+ 'loss_landlord_down': 1.5558292865753174,
+ 'loss_landlord_up': 1.6971163749694824,
+ 'mean_episode_return_landlord': 0.1339883655309677,
+ 'mean_episode_return_landlord_down': -0.13436906039714813,
+ 'mean_episode_return_landlord_up': -0.136416494846344}
+[INFO:57858 dmc:233 2023-05-21 10:16:15,164] After 1251200 (L:428800 U:406400 D:416000) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.3 U:0.0 D:639.3) Stats:
+{'loss_landlord': 0.7231590151786804,
+ 'loss_landlord_down': 0.8338041305541992,
+ 'loss_landlord_up': 0.8669776916503906,
+ 'mean_episode_return_landlord': 0.019476745277643204,
+ 'mean_episode_return_landlord_down': -0.007702553179115057,
+ 'mean_episode_return_landlord_up': -0.0006513929110951722}
+[INFO:57726 dmc:233 2023-05-21 10:16:15,303] After 31465600 (L:10944000 U:10086400 D:10435200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3673144578933716,
+ 'loss_landlord_down': 1.5558292865753174,
+ 'loss_landlord_up': 1.6971163749694824,
+ 'mean_episode_return_landlord': 0.1339883655309677,
+ 'mean_episode_return_landlord_down': -0.13436906039714813,
+ 'mean_episode_return_landlord_up': -0.136416494846344}
+[INFO:57858 dmc:233 2023-05-21 10:16:20,168] After 1251200 (L:428800 U:406400 D:416000) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7231590151786804,
+ 'loss_landlord_down': 0.8338041305541992,
+ 'loss_landlord_up': 0.8669776916503906,
+ 'mean_episode_return_landlord': 0.019476745277643204,
+ 'mean_episode_return_landlord_down': -0.007702553179115057,
+ 'mean_episode_return_landlord_up': -0.0006513929110951722}
+[INFO:57726 dmc:233 2023-05-21 10:16:20,308] After 31472000 (L:10947200 U:10089600 D:10435200) frames: @ 1278.8 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.3433294296264648,
+ 'loss_landlord_down': 1.5558292865753174,
+ 'loss_landlord_up': 1.8013569116592407,
+ 'mean_episode_return_landlord': 0.1352599859237671,
+ 'mean_episode_return_landlord_down': -0.13436906039714813,
+ 'mean_episode_return_landlord_up': -0.13611088693141937}
+[INFO:57858 dmc:233 2023-05-21 10:16:25,173] After 1254400 (L:428800 U:409600 D:416000) frames: @ 639.5 fps (avg@ 559.5 fps) (L:0.0 U:639.5 D:0.0) Stats:
+{'loss_landlord': 0.7231590151786804,
+ 'loss_landlord_down': 0.8338041305541992,
+ 'loss_landlord_up': 0.8519012331962585,
+ 'mean_episode_return_landlord': 0.019476745277643204,
+ 'mean_episode_return_landlord_down': -0.007702553179115057,
+ 'mean_episode_return_landlord_up': -0.004244809038937092}
+[INFO:57726 dmc:233 2023-05-21 10:16:25,314] After 31472000 (L:10947200 U:10089600 D:10435200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3433294296264648,
+ 'loss_landlord_down': 1.5558292865753174,
+ 'loss_landlord_up': 1.8013569116592407,
+ 'mean_episode_return_landlord': 0.1352599859237671,
+ 'mean_episode_return_landlord_down': -0.13436906039714813,
+ 'mean_episode_return_landlord_up': -0.13611088693141937}
+[INFO:57858 dmc:233 2023-05-21 10:16:30,178] After 1254400 (L:428800 U:409600 D:416000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7231590151786804,
+ 'loss_landlord_down': 0.8338041305541992,
+ 'loss_landlord_up': 0.8519012331962585,
+ 'mean_episode_return_landlord': 0.019476745277643204,
+ 'mean_episode_return_landlord_down': -0.007702553179115057,
+ 'mean_episode_return_landlord_up': -0.004244809038937092}
+[INFO:57726 dmc:233 2023-05-21 10:16:30,315] After 31475200 (L:10947200 U:10089600 D:10438400) frames: @ 639.9 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.9) Stats:
+{'loss_landlord': 1.3433294296264648,
+ 'loss_landlord_down': 1.9038901329040527,
+ 'loss_landlord_up': 1.8013569116592407,
+ 'mean_episode_return_landlord': 0.1352599859237671,
+ 'mean_episode_return_landlord_down': -0.1364164501428604,
+ 'mean_episode_return_landlord_up': -0.13611088693141937}
+[INFO:57858 dmc:233 2023-05-21 10:16:35,184] After 1260800 (L:432000 U:409600 D:419200) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.3 U:0.0 D:639.3) Stats:
+{'loss_landlord': 0.7825825810432434,
+ 'loss_landlord_down': 0.9143461585044861,
+ 'loss_landlord_up': 0.8519012331962585,
+ 'mean_episode_return_landlord': 0.024306215345859528,
+ 'mean_episode_return_landlord_down': -0.01179957389831543,
+ 'mean_episode_return_landlord_up': -0.004244809038937092}
+[INFO:57726 dmc:233 2023-05-21 10:16:35,321] After 31481600 (L:10950400 U:10092800 D:10438400) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.9398034811019897,
+ 'loss_landlord_down': 1.9038901329040527,
+ 'loss_landlord_up': 2.1359801292419434,
+ 'mean_episode_return_landlord': 0.13686171174049377,
+ 'mean_episode_return_landlord_down': -0.1364164501428604,
+ 'mean_episode_return_landlord_up': -0.1378825306892395}
+[INFO:57858 dmc:233 2023-05-21 10:16:40,189] After 1264000 (L:432000 U:412800 D:419200) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7825825810432434,
+ 'loss_landlord_down': 0.9143461585044861,
+ 'loss_landlord_up': 0.8388018608093262,
+ 'mean_episode_return_landlord': 0.024306215345859528,
+ 'mean_episode_return_landlord_down': -0.01179957389831543,
+ 'mean_episode_return_landlord_up': -0.00862730760127306}
+[INFO:57726 dmc:233 2023-05-21 10:16:40,326] After 31481600 (L:10950400 U:10092800 D:10438400) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.9398034811019897,
+ 'loss_landlord_down': 1.9038901329040527,
+ 'loss_landlord_up': 2.1359801292419434,
+ 'mean_episode_return_landlord': 0.13686171174049377,
+ 'mean_episode_return_landlord_down': -0.1364164501428604,
+ 'mean_episode_return_landlord_up': -0.1378825306892395}
+[INFO:57858 dmc:233 2023-05-21 10:16:45,195] After 1264000 (L:432000 U:412800 D:419200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7825825810432434,
+ 'loss_landlord_down': 0.9143461585044861,
+ 'loss_landlord_up': 0.8388018608093262,
+ 'mean_episode_return_landlord': 0.024306215345859528,
+ 'mean_episode_return_landlord_down': -0.01179957389831543,
+ 'mean_episode_return_landlord_up': -0.00862730760127306}
+[INFO:57726 dmc:233 2023-05-21 10:16:45,329] After 31484800 (L:10950400 U:10092800 D:10441600) frames: @ 639.8 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 1.9398034811019897,
+ 'loss_landlord_down': 1.2160650491714478,
+ 'loss_landlord_up': 2.1359801292419434,
+ 'mean_episode_return_landlord': 0.13686171174049377,
+ 'mean_episode_return_landlord_down': -0.1362335979938507,
+ 'mean_episode_return_landlord_up': -0.1378825306892395}
+[INFO:57858 dmc:233 2023-05-21 10:16:50,197] After 1270400 (L:435200 U:412800 D:422400) frames: @ 1279.6 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.7354207634925842,
+ 'loss_landlord_down': 0.8665534853935242,
+ 'loss_landlord_up': 0.8388018608093262,
+ 'mean_episode_return_landlord': 0.028031054884195328,
+ 'mean_episode_return_landlord_down': -0.015453032217919827,
+ 'mean_episode_return_landlord_up': -0.00862730760127306}
+[INFO:57726 dmc:233 2023-05-21 10:16:50,334] After 31488000 (L:10953600 U:10092800 D:10441600) frames: @ 639.4 fps (avg@ 559.6 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2925708293914795,
+ 'loss_landlord_down': 1.2160650491714478,
+ 'loss_landlord_up': 2.1359801292419434,
+ 'mean_episode_return_landlord': 0.13498455286026,
+ 'mean_episode_return_landlord_down': -0.1362335979938507,
+ 'mean_episode_return_landlord_up': -0.1378825306892395}
+[INFO:57858 dmc:233 2023-05-21 10:16:55,202] After 1270400 (L:435200 U:412800 D:422400) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7354207634925842,
+ 'loss_landlord_down': 0.8665534853935242,
+ 'loss_landlord_up': 0.8388018608093262,
+ 'mean_episode_return_landlord': 0.028031054884195328,
+ 'mean_episode_return_landlord_down': -0.015453032217919827,
+ 'mean_episode_return_landlord_up': -0.00862730760127306}
+[INFO:57726 dmc:233 2023-05-21 10:16:55,340] After 31491200 (L:10953600 U:10096000 D:10441600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.2925708293914795,
+ 'loss_landlord_down': 1.2160650491714478,
+ 'loss_landlord_up': 1.588128685951233,
+ 'mean_episode_return_landlord': 0.13498455286026,
+ 'mean_episode_return_landlord_down': -0.1362335979938507,
+ 'mean_episode_return_landlord_up': -0.1348196417093277}
+[INFO:57858 dmc:233 2023-05-21 10:17:00,208] After 1273600 (L:435200 U:416000 D:422400) frames: @ 639.3 fps (avg@ 559.5 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 0.7354207634925842,
+ 'loss_landlord_down': 0.8665534853935242,
+ 'loss_landlord_up': 0.8379629254341125,
+ 'mean_episode_return_landlord': 0.028031054884195328,
+ 'mean_episode_return_landlord_down': -0.015453032217919827,
+ 'mean_episode_return_landlord_up': -0.012244055047631264}
+[INFO:57726 dmc:233 2023-05-21 10:17:00,345] After 31494400 (L:10953600 U:10096000 D:10444800) frames: @ 639.4 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2925708293914795,
+ 'loss_landlord_down': 1.4683740139007568,
+ 'loss_landlord_up': 1.588128685951233,
+ 'mean_episode_return_landlord': 0.13498455286026,
+ 'mean_episode_return_landlord_down': -0.13626936078071594,
+ 'mean_episode_return_landlord_up': -0.1348196417093277}
+[INFO:57858 dmc:233 2023-05-21 10:17:05,213] After 1276800 (L:438400 U:416000 D:422400) frames: @ 639.5 fps (avg@ 559.5 fps) (L:639.5 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7129942178726196,
+ 'loss_landlord_down': 0.8665534853935242,
+ 'loss_landlord_up': 0.8379629254341125,
+ 'mean_episode_return_landlord': 0.03158300742506981,
+ 'mean_episode_return_landlord_down': -0.015453032217919827,
+ 'mean_episode_return_landlord_up': -0.012244055047631264}
+[INFO:57726 dmc:233 2023-05-21 10:17:05,349] After 31497600 (L:10956800 U:10096000 D:10444800) frames: @ 639.6 fps (avg@ 586.2 fps) (L:639.6 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3993135690689087,
+ 'loss_landlord_down': 1.4683740139007568,
+ 'loss_landlord_up': 1.588128685951233,
+ 'mean_episode_return_landlord': 0.13627558946609497,
+ 'mean_episode_return_landlord_down': -0.13626936078071594,
+ 'mean_episode_return_landlord_up': -0.1348196417093277}
+[INFO:57858 dmc:233 2023-05-21 10:17:10,217] After 1280000 (L:438400 U:416000 D:425600) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 0.7129942178726196,
+ 'loss_landlord_down': 0.7873875498771667,
+ 'loss_landlord_up': 0.8379629254341125,
+ 'mean_episode_return_landlord': 0.03158300742506981,
+ 'mean_episode_return_landlord_down': -0.019760262221097946,
+ 'mean_episode_return_landlord_up': -0.012244055047631264}
+[INFO:57726 dmc:233 2023-05-21 10:17:10,354] After 31500800 (L:10956800 U:10099200 D:10444800) frames: @ 639.4 fps (avg@ 586.2 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.3993135690689087,
+ 'loss_landlord_down': 1.4683740139007568,
+ 'loss_landlord_up': 1.661326289176941,
+ 'mean_episode_return_landlord': 0.13627558946609497,
+ 'mean_episode_return_landlord_down': -0.13626936078071594,
+ 'mean_episode_return_landlord_up': -0.13622108101844788}
+[INFO:57858 dmc:233 2023-05-21 10:17:15,221] After 1283200 (L:438400 U:419200 D:425600) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 0.7129942178726196,
+ 'loss_landlord_down': 0.7873875498771667,
+ 'loss_landlord_up': 0.8395001292228699,
+ 'mean_episode_return_landlord': 0.03158300742506981,
+ 'mean_episode_return_landlord_down': -0.019760262221097946,
+ 'mean_episode_return_landlord_up': -0.01517235767096281}
+[INFO:57726 dmc:233 2023-05-21 10:17:15,358] After 31500800 (L:10956800 U:10099200 D:10444800) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3993135690689087,
+ 'loss_landlord_down': 1.4683740139007568,
+ 'loss_landlord_up': 1.661326289176941,
+ 'mean_episode_return_landlord': 0.13627558946609497,
+ 'mean_episode_return_landlord_down': -0.13626936078071594,
+ 'mean_episode_return_landlord_up': -0.13622108101844788}
+[INFO:57858 dmc:233 2023-05-21 10:17:20,226] After 1286400 (L:441600 U:419200 D:425600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6775177717208862,
+ 'loss_landlord_down': 0.7873875498771667,
+ 'loss_landlord_up': 0.8395001292228699,
+ 'mean_episode_return_landlord': 0.03495662659406662,
+ 'mean_episode_return_landlord_down': -0.019760262221097946,
+ 'mean_episode_return_landlord_up': -0.01517235767096281}
+[INFO:57726 dmc:233 2023-05-21 10:17:20,360] After 31504000 (L:10956800 U:10099200 D:10448000) frames: @ 639.7 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.7) Stats:
+{'loss_landlord': 1.3993135690689087,
+ 'loss_landlord_down': 1.3953522443771362,
+ 'loss_landlord_up': 1.661326289176941,
+ 'mean_episode_return_landlord': 0.13627558946609497,
+ 'mean_episode_return_landlord_down': -0.13629530370235443,
+ 'mean_episode_return_landlord_up': -0.13622108101844788}
+[INFO:57858 dmc:233 2023-05-21 10:17:25,232] After 1289600 (L:441600 U:419200 D:428800) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.6775177717208862,
+ 'loss_landlord_down': 0.8088698983192444,
+ 'loss_landlord_up': 0.8395001292228699,
+ 'mean_episode_return_landlord': 0.03495662659406662,
+ 'mean_episode_return_landlord_down': -0.02372477948665619,
+ 'mean_episode_return_landlord_up': -0.01517235767096281}
+[INFO:57726 dmc:233 2023-05-21 10:17:25,366] After 31507200 (L:10960000 U:10099200 D:10448000) frames: @ 639.4 fps (avg@ 559.6 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.391022801399231,
+ 'loss_landlord_down': 1.3953522443771362,
+ 'loss_landlord_up': 1.661326289176941,
+ 'mean_episode_return_landlord': 0.13580751419067383,
+ 'mean_episode_return_landlord_down': -0.13629530370235443,
+ 'mean_episode_return_landlord_up': -0.13622108101844788}
+[INFO:57858 dmc:233 2023-05-21 10:17:30,233] After 1289600 (L:441600 U:419200 D:428800) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6775177717208862,
+ 'loss_landlord_down': 0.8088698983192444,
+ 'loss_landlord_up': 0.8395001292228699,
+ 'mean_episode_return_landlord': 0.03495662659406662,
+ 'mean_episode_return_landlord_down': -0.02372477948665619,
+ 'mean_episode_return_landlord_up': -0.01517235767096281}
+[INFO:57726 dmc:233 2023-05-21 10:17:30,372] After 31510400 (L:10960000 U:10102400 D:10448000) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.391022801399231,
+ 'loss_landlord_down': 1.3953522443771362,
+ 'loss_landlord_up': 1.4650754928588867,
+ 'mean_episode_return_landlord': 0.13580751419067383,
+ 'mean_episode_return_landlord_down': -0.13629530370235443,
+ 'mean_episode_return_landlord_up': -0.1357257217168808}
+[INFO:57858 dmc:233 2023-05-21 10:17:35,238] After 1292800 (L:441600 U:422400 D:428800) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.6775177717208862,
+ 'loss_landlord_down': 0.8088698983192444,
+ 'loss_landlord_up': 0.8420083522796631,
+ 'mean_episode_return_landlord': 0.03495662659406662,
+ 'mean_episode_return_landlord_down': -0.02372477948665619,
+ 'mean_episode_return_landlord_up': -0.020208002999424934}
+[INFO:57726 dmc:233 2023-05-21 10:17:35,378] After 31513600 (L:10960000 U:10102400 D:10451200) frames: @ 639.3 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.3) Stats:
+{'loss_landlord': 1.391022801399231,
+ 'loss_landlord_down': 1.5848931074142456,
+ 'loss_landlord_up': 1.4650754928588867,
+ 'mean_episode_return_landlord': 0.13580751419067383,
+ 'mean_episode_return_landlord_down': -0.13645383715629578,
+ 'mean_episode_return_landlord_up': -0.1357257217168808}
+[INFO:57858 dmc:233 2023-05-21 10:17:40,241] After 1299200 (L:444800 U:422400 D:432000) frames: @ 1279.5 fps (avg@ 586.2 fps) (L:639.8 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.700530469417572,
+ 'loss_landlord_down': 0.8195632696151733,
+ 'loss_landlord_up': 0.8420083522796631,
+ 'mean_episode_return_landlord': 0.03759972006082535,
+ 'mean_episode_return_landlord_down': -0.02830524370074272,
+ 'mean_episode_return_landlord_up': -0.020208002999424934}
+[INFO:57726 dmc:233 2023-05-21 10:17:40,382] After 31516800 (L:10963200 U:10102400 D:10451200) frames: @ 639.5 fps (avg@ 586.2 fps) (L:639.5 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4647377729415894,
+ 'loss_landlord_down': 1.5848931074142456,
+ 'loss_landlord_up': 1.4650754928588867,
+ 'mean_episode_return_landlord': 0.13617177307605743,
+ 'mean_episode_return_landlord_down': -0.13645383715629578,
+ 'mean_episode_return_landlord_up': -0.1357257217168808}
+[INFO:57858 dmc:233 2023-05-21 10:17:45,246] After 1299200 (L:444800 U:422400 D:432000) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.700530469417572,
+ 'loss_landlord_down': 0.8195632696151733,
+ 'loss_landlord_up': 0.8420083522796631,
+ 'mean_episode_return_landlord': 0.03759972006082535,
+ 'mean_episode_return_landlord_down': -0.02830524370074272,
+ 'mean_episode_return_landlord_up': -0.020208002999424934}
+[INFO:57726 dmc:233 2023-05-21 10:17:45,384] After 31520000 (L:10963200 U:10105600 D:10451200) frames: @ 639.7 fps (avg@ 559.6 fps) (L:0.0 U:639.7 D:0.0) Stats:
+{'loss_landlord': 1.4647377729415894,
+ 'loss_landlord_down': 1.5848931074142456,
+ 'loss_landlord_up': 1.7739571332931519,
+ 'mean_episode_return_landlord': 0.13617177307605743,
+ 'mean_episode_return_landlord_down': -0.13645383715629578,
+ 'mean_episode_return_landlord_up': -0.13620002567768097}
+[INFO:57858 dmc:233 2023-05-21 10:17:50,252] After 1302400 (L:444800 U:425600 D:432000) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.700530469417572,
+ 'loss_landlord_down': 0.8195632696151733,
+ 'loss_landlord_up': 0.8329673409461975,
+ 'mean_episode_return_landlord': 0.03759972006082535,
+ 'mean_episode_return_landlord_down': -0.02830524370074272,
+ 'mean_episode_return_landlord_up': -0.024402117356657982}
+[INFO:57726 dmc:233 2023-05-21 10:17:50,390] After 31520000 (L:10963200 U:10105600 D:10451200) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4647377729415894,
+ 'loss_landlord_down': 1.5848931074142456,
+ 'loss_landlord_up': 1.7739571332931519,
+ 'mean_episode_return_landlord': 0.13617177307605743,
+ 'mean_episode_return_landlord_down': -0.13645383715629578,
+ 'mean_episode_return_landlord_up': -0.13620002567768097}
+[INFO:57858 dmc:233 2023-05-21 10:17:55,257] After 1305600 (L:448000 U:425600 D:432000) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6842551827430725,
+ 'loss_landlord_down': 0.8195632696151733,
+ 'loss_landlord_up': 0.8329673409461975,
+ 'mean_episode_return_landlord': 0.040400829166173935,
+ 'mean_episode_return_landlord_down': -0.02830524370074272,
+ 'mean_episode_return_landlord_up': -0.024402117356657982}
+[INFO:57726 dmc:233 2023-05-21 10:17:55,396] After 31526400 (L:10966400 U:10105600 D:10454400) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2810968160629272,
+ 'loss_landlord_down': 1.5488680601119995,
+ 'loss_landlord_up': 1.7739571332931519,
+ 'mean_episode_return_landlord': 0.1360541433095932,
+ 'mean_episode_return_landlord_down': -0.13761134445667267,
+ 'mean_episode_return_landlord_up': -0.13620002567768097}
+[INFO:57858 dmc:233 2023-05-21 10:18:00,262] After 1308800 (L:448000 U:425600 D:435200) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.6842551827430725,
+ 'loss_landlord_down': 0.8441925644874573,
+ 'loss_landlord_up': 0.8329673409461975,
+ 'mean_episode_return_landlord': 0.040400829166173935,
+ 'mean_episode_return_landlord_down': -0.031074022874236107,
+ 'mean_episode_return_landlord_up': -0.024402117356657982}
+[INFO:57726 dmc:233 2023-05-21 10:18:00,401] After 31526400 (L:10966400 U:10105600 D:10454400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2810968160629272,
+ 'loss_landlord_down': 1.5488680601119995,
+ 'loss_landlord_up': 1.7739571332931519,
+ 'mean_episode_return_landlord': 0.1360541433095932,
+ 'mean_episode_return_landlord_down': -0.13761134445667267,
+ 'mean_episode_return_landlord_up': -0.13620002567768097}
+[INFO:57858 dmc:233 2023-05-21 10:18:05,268] After 1308800 (L:448000 U:425600 D:435200) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6842551827430725,
+ 'loss_landlord_down': 0.8441925644874573,
+ 'loss_landlord_up': 0.8329673409461975,
+ 'mean_episode_return_landlord': 0.040400829166173935,
+ 'mean_episode_return_landlord_down': -0.031074022874236107,
+ 'mean_episode_return_landlord_up': -0.024402117356657982}
+[INFO:57726 dmc:233 2023-05-21 10:18:05,406] After 31529600 (L:10966400 U:10108800 D:10454400) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.2810968160629272,
+ 'loss_landlord_down': 1.5488680601119995,
+ 'loss_landlord_up': 1.6443769931793213,
+ 'mean_episode_return_landlord': 0.1360541433095932,
+ 'mean_episode_return_landlord_down': -0.13761134445667267,
+ 'mean_episode_return_landlord_up': -0.13688339293003082}
+[INFO:57858 dmc:233 2023-05-21 10:18:10,273] After 1315200 (L:451200 U:428800 D:435200) frames: @ 1278.9 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7433583736419678,
+ 'loss_landlord_down': 0.8441925644874573,
+ 'loss_landlord_up': 0.889821469783783,
+ 'mean_episode_return_landlord': 0.0428253635764122,
+ 'mean_episode_return_landlord_down': -0.031074022874236107,
+ 'mean_episode_return_landlord_up': -0.02843352034687996}
+[INFO:57726 dmc:233 2023-05-21 10:18:10,412] After 31536000 (L:10969600 U:10108800 D:10457600) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.3514219522476196,
+ 'loss_landlord_down': 1.3045378923416138,
+ 'loss_landlord_up': 1.6443769931793213,
+ 'mean_episode_return_landlord': 0.1335008144378662,
+ 'mean_episode_return_landlord_down': -0.13512252271175385,
+ 'mean_episode_return_landlord_up': -0.13688339293003082}
+[INFO:57858 dmc:233 2023-05-21 10:18:15,276] After 1318400 (L:451200 U:428800 D:438400) frames: @ 639.6 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 0.7433583736419678,
+ 'loss_landlord_down': 0.8742286562919617,
+ 'loss_landlord_up': 0.889821469783783,
+ 'mean_episode_return_landlord': 0.0428253635764122,
+ 'mean_episode_return_landlord_down': -0.035295646637678146,
+ 'mean_episode_return_landlord_up': -0.02843352034687996}
+[INFO:57726 dmc:233 2023-05-21 10:18:15,417] After 31536000 (L:10969600 U:10108800 D:10457600) frames: @ 0.0 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3514219522476196,
+ 'loss_landlord_down': 1.3045378923416138,
+ 'loss_landlord_up': 1.6443769931793213,
+ 'mean_episode_return_landlord': 0.1335008144378662,
+ 'mean_episode_return_landlord_down': -0.13512252271175385,
+ 'mean_episode_return_landlord_up': -0.13688339293003082}
+[INFO:57858 dmc:233 2023-05-21 10:18:20,281] After 1318400 (L:451200 U:428800 D:438400) frames: @ 0.0 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7433583736419678,
+ 'loss_landlord_down': 0.8742286562919617,
+ 'loss_landlord_up': 0.889821469783783,
+ 'mean_episode_return_landlord': 0.0428253635764122,
+ 'mean_episode_return_landlord_down': -0.035295646637678146,
+ 'mean_episode_return_landlord_up': -0.02843352034687996}
+[INFO:57726 dmc:233 2023-05-21 10:18:20,422] After 31539200 (L:10969600 U:10112000 D:10457600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.3514219522476196,
+ 'loss_landlord_down': 1.3045378923416138,
+ 'loss_landlord_up': 1.4589709043502808,
+ 'mean_episode_return_landlord': 0.1335008144378662,
+ 'mean_episode_return_landlord_down': -0.13512252271175385,
+ 'mean_episode_return_landlord_up': -0.13561776280403137}
+[INFO:57858 dmc:233 2023-05-21 10:18:25,287] After 1321600 (L:451200 U:432000 D:438400) frames: @ 639.3 fps (avg@ 559.5 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 0.7433583736419678,
+ 'loss_landlord_down': 0.8742286562919617,
+ 'loss_landlord_up': 0.8148390054702759,
+ 'mean_episode_return_landlord': 0.0428253635764122,
+ 'mean_episode_return_landlord_down': -0.035295646637678146,
+ 'mean_episode_return_landlord_up': -0.0326436311006546}
+[INFO:57726 dmc:233 2023-05-21 10:18:25,428] After 31542400 (L:10969600 U:10112000 D:10460800) frames: @ 639.4 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.3514219522476196,
+ 'loss_landlord_down': 1.620195746421814,
+ 'loss_landlord_up': 1.4589709043502808,
+ 'mean_episode_return_landlord': 0.1335008144378662,
+ 'mean_episode_return_landlord_down': -0.1352711319923401,
+ 'mean_episode_return_landlord_up': -0.13561776280403137}
+[INFO:57858 dmc:233 2023-05-21 10:18:30,292] After 1324800 (L:454400 U:432000 D:438400) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6780527234077454,
+ 'loss_landlord_down': 0.8742286562919617,
+ 'loss_landlord_up': 0.8148390054702759,
+ 'mean_episode_return_landlord': 0.04651655629277229,
+ 'mean_episode_return_landlord_down': -0.035295646637678146,
+ 'mean_episode_return_landlord_up': -0.0326436311006546}
+[INFO:57726 dmc:233 2023-05-21 10:18:30,434] After 31545600 (L:10972800 U:10112000 D:10460800) frames: @ 639.4 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3946572542190552,
+ 'loss_landlord_down': 1.620195746421814,
+ 'loss_landlord_up': 1.4589709043502808,
+ 'mean_episode_return_landlord': 0.132620707154274,
+ 'mean_episode_return_landlord_down': -0.1352711319923401,
+ 'mean_episode_return_landlord_up': -0.13561776280403137}
+[INFO:57858 dmc:233 2023-05-21 10:18:35,298] After 1328000 (L:454400 U:432000 D:441600) frames: @ 639.4 fps (avg@ 559.6 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.6780527234077454,
+ 'loss_landlord_down': 0.8552981615066528,
+ 'loss_landlord_up': 0.8148390054702759,
+ 'mean_episode_return_landlord': 0.04651655629277229,
+ 'mean_episode_return_landlord_down': -0.03931814432144165,
+ 'mean_episode_return_landlord_up': -0.0326436311006546}
+[INFO:57726 dmc:233 2023-05-21 10:18:35,437] After 31545600 (L:10972800 U:10112000 D:10460800) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.3946572542190552,
+ 'loss_landlord_down': 1.620195746421814,
+ 'loss_landlord_up': 1.4589709043502808,
+ 'mean_episode_return_landlord': 0.132620707154274,
+ 'mean_episode_return_landlord_down': -0.1352711319923401,
+ 'mean_episode_return_landlord_up': -0.13561776280403137}
+[INFO:57858 dmc:233 2023-05-21 10:18:40,300] After 1328000 (L:454400 U:432000 D:441600) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6780527234077454,
+ 'loss_landlord_down': 0.8552981615066528,
+ 'loss_landlord_up': 0.8148390054702759,
+ 'mean_episode_return_landlord': 0.04651655629277229,
+ 'mean_episode_return_landlord_down': -0.03931814432144165,
+ 'mean_episode_return_landlord_up': -0.0326436311006546}
+[INFO:57726 dmc:233 2023-05-21 10:18:40,441] After 31548800 (L:10972800 U:10115200 D:10460800) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 1.3946572542190552,
+ 'loss_landlord_down': 1.620195746421814,
+ 'loss_landlord_up': 1.852647066116333,
+ 'mean_episode_return_landlord': 0.132620707154274,
+ 'mean_episode_return_landlord_down': -0.1352711319923401,
+ 'mean_episode_return_landlord_up': -0.13430671393871307}
+[INFO:57858 dmc:233 2023-05-21 10:18:45,306] After 1334400 (L:457600 U:435200 D:441600) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.758653998374939,
+ 'loss_landlord_down': 0.8552981615066528,
+ 'loss_landlord_up': 0.9021197557449341,
+ 'mean_episode_return_landlord': 0.04807073622941971,
+ 'mean_episode_return_landlord_down': -0.03931814432144165,
+ 'mean_episode_return_landlord_up': -0.03619524464011192}
+[INFO:57726 dmc:233 2023-05-21 10:18:45,446] After 31555200 (L:10976000 U:10115200 D:10464000) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.497120976448059,
+ 'loss_landlord_down': 1.3745313882827759,
+ 'loss_landlord_up': 1.852647066116333,
+ 'mean_episode_return_landlord': 0.1322038471698761,
+ 'mean_episode_return_landlord_down': -0.1344417780637741,
+ 'mean_episode_return_landlord_up': -0.13430671393871307}
+[INFO:57858 dmc:233 2023-05-21 10:18:50,308] After 1337600 (L:457600 U:435200 D:444800) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.758653998374939,
+ 'loss_landlord_down': 0.8305178880691528,
+ 'loss_landlord_up': 0.9021197557449341,
+ 'mean_episode_return_landlord': 0.04807073622941971,
+ 'mean_episode_return_landlord_down': -0.041920337826013565,
+ 'mean_episode_return_landlord_up': -0.03619524464011192}
+[INFO:57726 dmc:233 2023-05-21 10:18:50,452] After 31555200 (L:10976000 U:10115200 D:10464000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.497120976448059,
+ 'loss_landlord_down': 1.3745313882827759,
+ 'loss_landlord_up': 1.852647066116333,
+ 'mean_episode_return_landlord': 0.1322038471698761,
+ 'mean_episode_return_landlord_down': -0.1344417780637741,
+ 'mean_episode_return_landlord_up': -0.13430671393871307}
+[INFO:57858 dmc:233 2023-05-21 10:18:55,314] After 1337600 (L:457600 U:435200 D:444800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.758653998374939,
+ 'loss_landlord_down': 0.8305178880691528,
+ 'loss_landlord_up': 0.9021197557449341,
+ 'mean_episode_return_landlord': 0.04807073622941971,
+ 'mean_episode_return_landlord_down': -0.041920337826013565,
+ 'mean_episode_return_landlord_up': -0.03619524464011192}
+[INFO:57726 dmc:233 2023-05-21 10:18:55,457] After 31558400 (L:10976000 U:10118400 D:10464000) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.497120976448059,
+ 'loss_landlord_down': 1.3745313882827759,
+ 'loss_landlord_up': 1.5468555688858032,
+ 'mean_episode_return_landlord': 0.1322038471698761,
+ 'mean_episode_return_landlord_down': -0.1344417780637741,
+ 'mean_episode_return_landlord_up': -0.13442817330360413}
+[INFO:57858 dmc:233 2023-05-21 10:19:00,319] After 1344000 (L:460800 U:438400 D:444800) frames: @ 1278.9 fps (avg@ 586.2 fps) (L:639.5 U:639.5 D:0.0) Stats:
+{'loss_landlord': 0.637647807598114,
+ 'loss_landlord_down': 0.8305178880691528,
+ 'loss_landlord_up': 0.8829873204231262,
+ 'mean_episode_return_landlord': 0.05169139802455902,
+ 'mean_episode_return_landlord_down': -0.041920337826013565,
+ 'mean_episode_return_landlord_up': -0.0398811437189579}
+[INFO:57726 dmc:233 2023-05-21 10:19:00,460] After 31564800 (L:10979200 U:10118400 D:10467200) frames: @ 1279.3 fps (avg@ 586.2 fps) (L:639.7 U:0.0 D:639.7) Stats:
+{'loss_landlord': 1.4086415767669678,
+ 'loss_landlord_down': 1.48875892162323,
+ 'loss_landlord_up': 1.5468555688858032,
+ 'mean_episode_return_landlord': 0.13203541934490204,
+ 'mean_episode_return_landlord_down': -0.13410049676895142,
+ 'mean_episode_return_landlord_up': -0.13442817330360413}
+[INFO:57858 dmc:233 2023-05-21 10:19:05,321] After 1344000 (L:460800 U:438400 D:444800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.637647807598114,
+ 'loss_landlord_down': 0.8305178880691528,
+ 'loss_landlord_up': 0.8829873204231262,
+ 'mean_episode_return_landlord': 0.05169139802455902,
+ 'mean_episode_return_landlord_down': -0.041920337826013565,
+ 'mean_episode_return_landlord_up': -0.0398811437189579}
+[INFO:57726 dmc:233 2023-05-21 10:19:05,466] After 31564800 (L:10979200 U:10118400 D:10467200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4086415767669678,
+ 'loss_landlord_down': 1.48875892162323,
+ 'loss_landlord_up': 1.5468555688858032,
+ 'mean_episode_return_landlord': 0.13203541934490204,
+ 'mean_episode_return_landlord_down': -0.13410049676895142,
+ 'mean_episode_return_landlord_up': -0.13442817330360413}
+[INFO:57858 dmc:233 2023-05-21 10:19:10,325] After 1347200 (L:460800 U:438400 D:448000) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.6) Stats:
+{'loss_landlord': 0.637647807598114,
+ 'loss_landlord_down': 0.8277425765991211,
+ 'loss_landlord_up': 0.8829873204231262,
+ 'mean_episode_return_landlord': 0.05169139802455902,
+ 'mean_episode_return_landlord_down': -0.04505707696080208,
+ 'mean_episode_return_landlord_up': -0.0398811437189579}
+[INFO:57726 dmc:233 2023-05-21 10:19:10,471] After 31568000 (L:10979200 U:10121600 D:10467200) frames: @ 639.3 fps (avg@ 559.5 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 1.4086415767669678,
+ 'loss_landlord_down': 1.48875892162323,
+ 'loss_landlord_up': 1.8514878749847412,
+ 'mean_episode_return_landlord': 0.13203541934490204,
+ 'mean_episode_return_landlord_down': -0.13410049676895142,
+ 'mean_episode_return_landlord_up': -0.13533368706703186}
+[INFO:57858 dmc:233 2023-05-21 10:19:15,329] After 1347200 (L:460800 U:438400 D:448000) frames: @ 0.0 fps (avg@ 532.9 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.637647807598114,
+ 'loss_landlord_down': 0.8277425765991211,
+ 'loss_landlord_up': 0.8829873204231262,
+ 'mean_episode_return_landlord': 0.05169139802455902,
+ 'mean_episode_return_landlord_down': -0.04505707696080208,
+ 'mean_episode_return_landlord_up': -0.0398811437189579}
+[INFO:57726 dmc:233 2023-05-21 10:19:15,477] After 31574400 (L:10982400 U:10121600 D:10470400) frames: @ 1278.7 fps (avg@ 612.8 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.2758108377456665,
+ 'loss_landlord_down': 1.3029253482818604,
+ 'loss_landlord_up': 1.8514878749847412,
+ 'mean_episode_return_landlord': 0.13136553764343262,
+ 'mean_episode_return_landlord_down': -0.13285502791404724,
+ 'mean_episode_return_landlord_up': -0.13533368706703186}
+[INFO:57858 dmc:233 2023-05-21 10:19:20,334] After 1353600 (L:464000 U:441600 D:448000) frames: @ 1278.7 fps (avg@ 559.5 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 0.7572968602180481,
+ 'loss_landlord_down': 0.8277425765991211,
+ 'loss_landlord_up': 0.8745513558387756,
+ 'mean_episode_return_landlord': 0.05450482293963432,
+ 'mean_episode_return_landlord_down': -0.04505707696080208,
+ 'mean_episode_return_landlord_up': -0.042791642248630524}
+[INFO:57726 dmc:233 2023-05-21 10:19:20,482] After 31574400 (L:10982400 U:10121600 D:10470400) frames: @ 0.0 fps (avg@ 586.1 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2758108377456665,
+ 'loss_landlord_down': 1.3029253482818604,
+ 'loss_landlord_up': 1.8514878749847412,
+ 'mean_episode_return_landlord': 0.13136553764343262,
+ 'mean_episode_return_landlord_down': -0.13285502791404724,
+ 'mean_episode_return_landlord_up': -0.13533368706703186}
+[INFO:57858 dmc:233 2023-05-21 10:19:25,336] After 1356800 (L:464000 U:441600 D:451200) frames: @ 639.8 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 0.7572968602180481,
+ 'loss_landlord_down': 0.8790468573570251,
+ 'loss_landlord_up': 0.8745513558387756,
+ 'mean_episode_return_landlord': 0.05450482293963432,
+ 'mean_episode_return_landlord_down': -0.04743628576397896,
+ 'mean_episode_return_landlord_up': -0.042791642248630524}
+[INFO:57726 dmc:233 2023-05-21 10:19:25,488] After 31574400 (L:10982400 U:10121600 D:10470400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.2758108377456665,
+ 'loss_landlord_down': 1.3029253482818604,
+ 'loss_landlord_up': 1.8514878749847412,
+ 'mean_episode_return_landlord': 0.13136553764343262,
+ 'mean_episode_return_landlord_down': -0.13285502791404724,
+ 'mean_episode_return_landlord_up': -0.13533368706703186}
+[INFO:57858 dmc:233 2023-05-21 10:19:30,342] After 1356800 (L:464000 U:441600 D:451200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7572968602180481,
+ 'loss_landlord_down': 0.8790468573570251,
+ 'loss_landlord_up': 0.8745513558387756,
+ 'mean_episode_return_landlord': 0.05450482293963432,
+ 'mean_episode_return_landlord_down': -0.04743628576397896,
+ 'mean_episode_return_landlord_up': -0.042791642248630524}
+[INFO:57726 dmc:233 2023-05-21 10:19:30,493] After 31580800 (L:10985600 U:10124800 D:10470400) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:639.4 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.4219112396240234,
+ 'loss_landlord_down': 1.3029253482818604,
+ 'loss_landlord_up': 1.9310930967330933,
+ 'mean_episode_return_landlord': 0.1287200152873993,
+ 'mean_episode_return_landlord_down': -0.13285502791404724,
+ 'mean_episode_return_landlord_up': -0.13450494408607483}
+[INFO:57858 dmc:233 2023-05-21 10:19:35,348] After 1363200 (L:467200 U:444800 D:451200) frames: @ 1278.7 fps (avg@ 586.2 fps) (L:639.3 U:639.3 D:0.0) Stats:
+{'loss_landlord': 0.6826928853988647,
+ 'loss_landlord_down': 0.8790468573570251,
+ 'loss_landlord_up': 0.8351724147796631,
+ 'mean_episode_return_landlord': 0.055515412241220474,
+ 'mean_episode_return_landlord_down': -0.04743628576397896,
+ 'mean_episode_return_landlord_up': -0.04453408718109131}
+[INFO:57726 dmc:233 2023-05-21 10:19:35,499] After 31584000 (L:10985600 U:10124800 D:10473600) frames: @ 639.4 fps (avg@ 586.1 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.4219112396240234,
+ 'loss_landlord_down': 1.7976473569869995,
+ 'loss_landlord_up': 1.9310930967330933,
+ 'mean_episode_return_landlord': 0.1287200152873993,
+ 'mean_episode_return_landlord_down': -0.13099637627601624,
+ 'mean_episode_return_landlord_up': -0.13450494408607483}
+[INFO:57858 dmc:233 2023-05-21 10:19:40,353] After 1366400 (L:467200 U:444800 D:454400) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.6826928853988647,
+ 'loss_landlord_down': 0.8368980884552002,
+ 'loss_landlord_up': 0.8351724147796631,
+ 'mean_episode_return_landlord': 0.055515412241220474,
+ 'mean_episode_return_landlord_down': -0.04917975142598152,
+ 'mean_episode_return_landlord_up': -0.04453408718109131}
+[INFO:57726 dmc:233 2023-05-21 10:19:40,505] After 31584000 (L:10985600 U:10124800 D:10473600) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4219112396240234,
+ 'loss_landlord_down': 1.7976473569869995,
+ 'loss_landlord_up': 1.9310930967330933,
+ 'mean_episode_return_landlord': 0.1287200152873993,
+ 'mean_episode_return_landlord_down': -0.13099637627601624,
+ 'mean_episode_return_landlord_up': -0.13450494408607483}
+[INFO:57858 dmc:233 2023-05-21 10:19:45,356] After 1366400 (L:467200 U:444800 D:454400) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.6826928853988647,
+ 'loss_landlord_down': 0.8368980884552002,
+ 'loss_landlord_up': 0.8351724147796631,
+ 'mean_episode_return_landlord': 0.055515412241220474,
+ 'mean_episode_return_landlord_down': -0.04917975142598152,
+ 'mean_episode_return_landlord_up': -0.04453408718109131}
+[INFO:57726 dmc:233 2023-05-21 10:19:45,510] After 31587200 (L:10985600 U:10128000 D:10473600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:639.4 D:0.0) Stats:
+{'loss_landlord': 1.4219112396240234,
+ 'loss_landlord_down': 1.7976473569869995,
+ 'loss_landlord_up': 1.7596354484558105,
+ 'mean_episode_return_landlord': 0.1287200152873993,
+ 'mean_episode_return_landlord_down': -0.13099637627601624,
+ 'mean_episode_return_landlord_up': -0.1329052597284317}
+[INFO:57858 dmc:233 2023-05-21 10:19:50,360] After 1369600 (L:470400 U:444800 D:454400) frames: @ 639.6 fps (avg@ 559.5 fps) (L:639.6 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7077406644821167,
+ 'loss_landlord_down': 0.8368980884552002,
+ 'loss_landlord_up': 0.8351724147796631,
+ 'mean_episode_return_landlord': 0.05666208639740944,
+ 'mean_episode_return_landlord_down': -0.04917975142598152,
+ 'mean_episode_return_landlord_up': -0.04453408718109131}
+[INFO:57726 dmc:233 2023-05-21 10:19:50,516] After 31593600 (L:10988800 U:10128000 D:10476800) frames: @ 1278.7 fps (avg@ 612.7 fps) (L:639.4 U:0.0 D:639.4) Stats:
+{'loss_landlord': 1.4033584594726562,
+ 'loss_landlord_down': 1.5665175914764404,
+ 'loss_landlord_up': 1.7596354484558105,
+ 'mean_episode_return_landlord': 0.12735885381698608,
+ 'mean_episode_return_landlord_down': -0.13112185895442963,
+ 'mean_episode_return_landlord_up': -0.1329052597284317}
+[INFO:57858 dmc:233 2023-05-21 10:19:55,364] After 1372800 (L:470400 U:448000 D:454400) frames: @ 639.6 fps (avg@ 559.5 fps) (L:0.0 U:639.6 D:0.0) Stats:
+{'loss_landlord': 0.7077406644821167,
+ 'loss_landlord_down': 0.8368980884552002,
+ 'loss_landlord_up': 0.8391789197921753,
+ 'mean_episode_return_landlord': 0.05666208639740944,
+ 'mean_episode_return_landlord_down': -0.04917975142598152,
+ 'mean_episode_return_landlord_up': -0.04772287234663963}
+[INFO:57726 dmc:233 2023-05-21 10:19:55,521] After 31593600 (L:10988800 U:10128000 D:10476800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4033584594726562,
+ 'loss_landlord_down': 1.5665175914764404,
+ 'loss_landlord_up': 1.7596354484558105,
+ 'mean_episode_return_landlord': 0.12735885381698608,
+ 'mean_episode_return_landlord_down': -0.13112185895442963,
+ 'mean_episode_return_landlord_up': -0.1329052597284317}
+[INFO:57858 dmc:233 2023-05-21 10:20:00,369] After 1376000 (L:470400 U:448000 D:457600) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7077406644821167,
+ 'loss_landlord_down': 0.8056281208992004,
+ 'loss_landlord_up': 0.8391789197921753,
+ 'mean_episode_return_landlord': 0.05666208639740944,
+ 'mean_episode_return_landlord_down': -0.05272061377763748,
+ 'mean_episode_return_landlord_up': -0.04772287234663963}
+[INFO:57726 dmc:233 2023-05-21 10:20:00,525] After 31593600 (L:10988800 U:10128000 D:10476800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.4033584594726562,
+ 'loss_landlord_down': 1.5665175914764404,
+ 'loss_landlord_up': 1.7596354484558105,
+ 'mean_episode_return_landlord': 0.12735885381698608,
+ 'mean_episode_return_landlord_down': -0.13112185895442963,
+ 'mean_episode_return_landlord_up': -0.1329052597284317}
+[INFO:57858 dmc:233 2023-05-21 10:20:05,375] After 1379200 (L:473600 U:448000 D:457600) frames: @ 639.4 fps (avg@ 586.2 fps) (L:639.4 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7034862637519836,
+ 'loss_landlord_down': 0.8056281208992004,
+ 'loss_landlord_up': 0.8391789197921753,
+ 'mean_episode_return_landlord': 0.060211632400751114,
+ 'mean_episode_return_landlord_down': -0.05272061377763748,
+ 'mean_episode_return_landlord_up': -0.04772287234663963}
+[INFO:57726 dmc:233 2023-05-21 10:20:05,529] After 31603200 (L:10992000 U:10131200 D:10480000) frames: @ 1918.7 fps (avg@ 612.8 fps) (L:639.6 U:639.6 D:639.6) Stats:
+{'loss_landlord': 1.9603629112243652,
+ 'loss_landlord_down': 2.048520565032959,
+ 'loss_landlord_up': 2.308352470397949,
+ 'mean_episode_return_landlord': 0.12548516690731049,
+ 'mean_episode_return_landlord_down': -0.128530815243721,
+ 'mean_episode_return_landlord_up': -0.13068318367004395}
+[INFO:57858 dmc:233 2023-05-21 10:20:10,381] After 1382400 (L:473600 U:451200 D:457600) frames: @ 639.3 fps (avg@ 559.5 fps) (L:0.0 U:639.3 D:0.0) Stats:
+{'loss_landlord': 0.7034862637519836,
+ 'loss_landlord_down': 0.8056281208992004,
+ 'loss_landlord_up': 0.8129619359970093,
+ 'mean_episode_return_landlord': 0.060211632400751114,
+ 'mean_episode_return_landlord_down': -0.05272061377763748,
+ 'mean_episode_return_landlord_up': -0.050341274589300156}
+[INFO:57726 dmc:233 2023-05-21 10:20:10,535] After 31603200 (L:10992000 U:10131200 D:10480000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.9603629112243652,
+ 'loss_landlord_down': 2.048520565032959,
+ 'loss_landlord_up': 2.308352470397949,
+ 'mean_episode_return_landlord': 0.12548516690731049,
+ 'mean_episode_return_landlord_down': -0.128530815243721,
+ 'mean_episode_return_landlord_up': -0.13068318367004395}
+[INFO:57858 dmc:233 2023-05-21 10:20:15,386] After 1385600 (L:473600 U:451200 D:460800) frames: @ 639.4 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:639.4) Stats:
+{'loss_landlord': 0.7034862637519836,
+ 'loss_landlord_down': 0.8122553825378418,
+ 'loss_landlord_up': 0.8129619359970093,
+ 'mean_episode_return_landlord': 0.060211632400751114,
+ 'mean_episode_return_landlord_down': -0.05518181249499321,
+ 'mean_episode_return_landlord_up': -0.050341274589300156}
+[INFO:57726 dmc:233 2023-05-21 10:20:15,540] After 31603200 (L:10992000 U:10131200 D:10480000) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.9603629112243652,
+ 'loss_landlord_down': 2.048520565032959,
+ 'loss_landlord_up': 2.308352470397949,
+ 'mean_episode_return_landlord': 0.12548516690731049,
+ 'mean_episode_return_landlord_down': -0.128530815243721,
+ 'mean_episode_return_landlord_up': -0.13068318367004395}
+[INFO:57858 dmc:233 2023-05-21 10:20:20,392] After 1388800 (L:476800 U:451200 D:460800) frames: @ 639.3 fps (avg@ 586.1 fps) (L:639.3 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7453643679618835,
+ 'loss_landlord_down': 0.8122553825378418,
+ 'loss_landlord_up': 0.8129619359970093,
+ 'mean_episode_return_landlord': 0.06125875934958458,
+ 'mean_episode_return_landlord_down': -0.05518181249499321,
+ 'mean_episode_return_landlord_up': -0.050341274589300156}
+[INFO:57726 dmc:233 2023-05-21 10:20:20,546] After 31609600 (L:10995200 U:10134400 D:10480000) frames: @ 1278.6 fps (avg@ 586.1 fps) (L:639.3 U:639.3 D:0.0) Stats:
+{'loss_landlord': 1.6304231882095337,
+ 'loss_landlord_down': 2.048520565032959,
+ 'loss_landlord_up': 1.8838530778884888,
+ 'mean_episode_return_landlord': 0.12631449103355408,
+ 'mean_episode_return_landlord_down': -0.128530815243721,
+ 'mean_episode_return_landlord_up': -0.12977878749370575}
+[INFO:57858 dmc:233 2023-05-21 10:20:25,398] After 1388800 (L:476800 U:451200 D:460800) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 0.7453643679618835,
+ 'loss_landlord_down': 0.8122553825378418,
+ 'loss_landlord_up': 0.8129619359970093,
+ 'mean_episode_return_landlord': 0.06125875934958458,
+ 'mean_episode_return_landlord_down': -0.05518181249499321,
+ 'mean_episode_return_landlord_up': -0.050341274589300156}
+[INFO:57726 dmc:233 2023-05-21 10:20:25,549] After 31612800 (L:10995200 U:10134400 D:10483200) frames: @ 639.8 fps (avg@ 586.2 fps) (L:0.0 U:0.0 D:639.8) Stats:
+{'loss_landlord': 1.6304231882095337,
+ 'loss_landlord_down': 1.680847406387329,
+ 'loss_landlord_up': 1.8838530778884888,
+ 'mean_episode_return_landlord': 0.12631449103355408,
+ 'mean_episode_return_landlord_down': -0.1281125545501709,
+ 'mean_episode_return_landlord_up': -0.12977878749370575}
+[INFO:57858 dmc:233 2023-05-21 10:20:30,404] After 1395200 (L:476800 U:454400 D:464000) frames: @ 1278.7 fps (avg@ 586.1 fps) (L:0.0 U:639.4 D:639.4) Stats:
+{'loss_landlord': 0.7453643679618835,
+ 'loss_landlord_down': 0.7944662570953369,
+ 'loss_landlord_up': 0.8605151176452637,
+ 'mean_episode_return_landlord': 0.06125875934958458,
+ 'mean_episode_return_landlord_down': -0.05836518481373787,
+ 'mean_episode_return_landlord_up': -0.05366689711809158}
+[INFO:57726 dmc:233 2023-05-21 10:20:30,553] After 31612800 (L:10995200 U:10134400 D:10483200) frames: @ 0.0 fps (avg@ 559.5 fps) (L:0.0 U:0.0 D:0.0) Stats:
+{'loss_landlord': 1.6304231882095337,
+ 'loss_landlord_down': 1.680847406387329,
+ 'loss_landlord_up': 1.8838530778884888,
+ 'mean_episode_return_landlord': 0.12631449103355408,
+ 'mean_episode_return_landlord_down': -0.1281125545501709,
+ 'mean_episode_return_landlord_up': -0.12977878749370575}
