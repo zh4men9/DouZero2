@@ -27,6 +27,11 @@ def run_evaluate(landlord_weights, landlord_up, landlord_down, save_dir):
     else:
         model_type = 'ADP'
         
+    if ('sl' in landlord_up):
+        name_parts = [model_type, 'SL']
+    else:
+        name_parts = [model_type, landlord_up]
+        
     checkpoint_files = os.listdir(landlord_weights)
     cnt = 0
     for checkpoint_file in checkpoint_files:
@@ -37,7 +42,7 @@ def run_evaluate(landlord_weights, landlord_up, landlord_down, save_dir):
             else:
                 cnt += 1
             # Create a name for the result directory
-            name_parts = [model_type, landlord_up, landlord_down]
+            
             result_dir_name = '_'.join(name_parts)
             result_dir = os.path.join(save_dir, result_dir_name)
             
@@ -61,10 +66,10 @@ os.makedirs(save_dir, exist_ok=True)
 
 # ADP vs Random, SL, rlcard
 # run_evaluate("./douzero_checkpoints/douzero", "random", "random", save_dir)
-run_evaluate("./douzero_checkpoints/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
-run_evaluate("./douzero_checkpoints/douzero", "rlcard", "rlcard", save_dir)
+# run_evaluate("./douzero_checkpoints/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
+# run_evaluate("./douzero_checkpoints/douzero", "rlcard", "rlcard", save_dir)
 
 # WP vs Random, SL, rlcard
-run_evaluate("./douzero_checkpoints_wp/douzero", "random", "random", save_dir)
-run_evaluate("./douzero_checkpoints_wp/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
+# run_evaluate("./douzero_checkpoints_wp/douzero", "random", "random", save_dir)
+# run_evaluate("./douzero_checkpoints_wp/douzero", "baselines/sl/landlord_up.ckpt", "baselines/sl/landlord_down.ckpt", save_dir)
 run_evaluate("./douzero_checkpoints_wp/douzero", "rlcard", "rlcard", save_dir)
